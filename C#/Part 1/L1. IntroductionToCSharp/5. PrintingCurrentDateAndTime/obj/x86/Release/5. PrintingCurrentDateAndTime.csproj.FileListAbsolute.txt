@@ -1,0 +1,9 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\bin\Release\_5.PrintingCurrentDateAndTime.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\bin\Release\_5.PrintingCurrentDateAndTime.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\bin\Release\_5.PrintingCurrentDateAndTime.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\bin\Release\_5.PrintingCurrentDateAndTime.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.pdb

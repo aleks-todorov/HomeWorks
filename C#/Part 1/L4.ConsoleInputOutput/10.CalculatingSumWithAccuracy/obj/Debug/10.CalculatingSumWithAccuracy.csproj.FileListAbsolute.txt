@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.pdb

@@ -1,0 +1,16 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.pdb
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb

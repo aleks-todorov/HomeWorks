@@ -1,0 +1,9 @@
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.exe.config
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.exe
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.pdb
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.exe
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.exe.config
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.pdb

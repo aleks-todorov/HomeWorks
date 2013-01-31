@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\07.CalculatiungSumOfNNumbers\bin\Debug\07.CalculatiungSumOfNNumbers.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\07.CalculatiungSumOfNNumbers\bin\Debug\07.CalculatiungSumOfNNumbers.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\07.CalculatiungSumOfNNumbers\bin\Debug\07.CalculatiungSumOfNNumbers.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\07.CalculatiungSumOfNNumbers\obj\Debug\07.CalculatiungSumOfNNumbers.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\07.CalculatiungSumOfNNumbers\obj\Debug\07.CalculatiungSumOfNNumbers.pdb

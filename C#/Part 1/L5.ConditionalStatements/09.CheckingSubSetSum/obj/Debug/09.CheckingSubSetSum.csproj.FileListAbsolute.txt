@@ -1,0 +1,9 @@
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\bin\Debug\09.CheckingSubSetSum.exe.config
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\bin\Debug\09.CheckingSubSetSum.exe
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\bin\Debug\09.CheckingSubSetSum.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\obj\Debug\09.CheckingSubSetSum.exe
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\obj\Debug\09.CheckingSubSetSum.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\obj\Debug\09.CheckingSubSetSum.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\bin\Debug\09.CheckingSubSetSum.exe.config
+D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\obj\Debug\09.CheckingSubSetSum.exe
+D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\09.CheckingSubSetSum\obj\Debug\09.CheckingSubSetSum.pdb

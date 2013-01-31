@@ -1,0 +1,2 @@
+C:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\bin\Debug\04.CheckingNumbersInIntervalForDeniminator.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\bin\Debug\04.CheckingNumbersInIntervalForDeniminator.exe.config

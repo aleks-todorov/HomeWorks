@@ -1,0 +1,1 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\L2. PrimitiveDataTypes\bin\Debug\L2.PrimitiveDataTypes.exe.config

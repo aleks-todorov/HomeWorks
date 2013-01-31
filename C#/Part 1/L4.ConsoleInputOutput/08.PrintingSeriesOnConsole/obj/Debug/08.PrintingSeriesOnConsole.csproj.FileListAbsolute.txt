@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\bin\Debug\08.PrintingSeriesOnConsole.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\bin\Debug\08.PrintingSeriesOnConsole.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\bin\Debug\08.PrintingSeriesOnConsole.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\obj\Debug\08.PrintingSeriesOnConsole.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\obj\Debug\08.PrintingSeriesOnConsole.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\08.PrintingSeriesOnConsole\obj\Debug\08.PrintingSeriesOnConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\6. PrintingSquareRootValue\bin\Release\_6.PrintingSquareRootValue.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\6. PrintingSquareRootValue\bin\Release\_6.PrintingSquareRootValue.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\6. PrintingSquareRootValue\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\6. PrintingSquareRootValue\obj\x86\Release\_6.PrintingSquareRootValue.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\6. PrintingSquareRootValue\obj\x86\Release\_6.PrintingSquareRootValue.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\6. PrintingSquareRootValue\bin\Release\_6.PrintingSquareRootValue.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\6. PrintingSquareRootValue\bin\Release\_6.PrintingSquareRootValue.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\6. PrintingSquareRootValue\obj\x86\Release\_6.PrintingSquareRootValue.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\6. PrintingSquareRootValue\obj\x86\Release\_6.PrintingSquareRootValue.pdb

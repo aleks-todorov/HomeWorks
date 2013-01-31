@@ -1,0 +1,9 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\bin\Release\_2.PrintingGoodDay.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\bin\Release\_2.PrintingGoodDay.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Release\_2.PrintingGoodDay.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Release\_2.PrintingGoodDay.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\2. PrintingGoodDay\bin\Release\_2.PrintingGoodDay.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\2. PrintingGoodDay\bin\Release\_2.PrintingGoodDay.pdb
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Release\_2.PrintingGoodDay.exe
+D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Release\_2.PrintingGoodDay.pdb

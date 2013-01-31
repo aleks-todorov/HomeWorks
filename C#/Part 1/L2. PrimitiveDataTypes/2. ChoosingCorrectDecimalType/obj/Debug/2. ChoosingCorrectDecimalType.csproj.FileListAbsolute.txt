@@ -1,0 +1,6 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\obj\Debug\2. ChoosingCorrectDecimalType.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\bin\Debug\_2.ChoosingCorrectDecimalType.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\bin\Debug\_2.ChoosingCorrectDecimalType.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\bin\Debug\_2.ChoosingCorrectDecimalType.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\obj\Debug\_2.ChoosingCorrectDecimalType.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\2. ChoosingCorrectDecimalType\obj\Debug\_2.ChoosingCorrectDecimalType.pdb

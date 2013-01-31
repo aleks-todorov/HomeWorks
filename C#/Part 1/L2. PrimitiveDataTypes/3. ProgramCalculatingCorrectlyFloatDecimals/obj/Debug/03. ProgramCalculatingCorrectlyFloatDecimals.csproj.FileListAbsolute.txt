@@ -1,0 +1,12 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\03. ProgramCalculatingCorrectlyFloatDecimals.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe.config
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\03. ProgramCalculatingCorrectlyFloatDecimals.csprojResolveAssemblyReference.cache

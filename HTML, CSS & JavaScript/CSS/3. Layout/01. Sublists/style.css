@@ -1,0 +1,30 @@
+/**CSS file**/
+p{
+	margin: 5px;
+}
+
+p:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+li {
+    list-style: none;
+	margin: 10px;
+	margin-left: 5px;
+}
+
+ul{
+	padding-left: 5px;
+	margin: 10px;
+}
+
+ul li ul {
+    display: none;
+}
+
+ul li:hover > ul {
+    display: block;
+	color: #969CA9;
+}
+

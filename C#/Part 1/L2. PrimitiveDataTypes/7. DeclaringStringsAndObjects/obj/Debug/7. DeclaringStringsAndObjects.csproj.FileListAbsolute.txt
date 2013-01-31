@@ -1,0 +1,5 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\7. DeclaringStringsAndObjects\bin\Debug\_7.DeclaringStringsAndObjects.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\7. DeclaringStringsAndObjects\bin\Debug\_7.DeclaringStringsAndObjects.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\7. DeclaringStringsAndObjects\bin\Debug\_7.DeclaringStringsAndObjects.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\7. DeclaringStringsAndObjects\obj\Debug\_7.DeclaringStringsAndObjects.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\7. DeclaringStringsAndObjects\obj\Debug\_7.DeclaringStringsAndObjects.pdb
