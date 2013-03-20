@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\1.NavigationMenu\bin\1.NavigationMenu.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\1.NavigationMenu\bin\1.NavigationMenu.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\1.NavigationMenu\obj\Debug\1.NavigationMenu.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\1.NavigationMenu\obj\Debug\1.NavigationMenu.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\1.NavigationMenu\obj\Debug\1.NavigationMenu.pdb

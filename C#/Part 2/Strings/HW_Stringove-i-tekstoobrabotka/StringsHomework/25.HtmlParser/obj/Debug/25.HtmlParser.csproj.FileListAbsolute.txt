@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\25.HtmlParser\bin\Debug\25.HtmlParser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\25.HtmlParser\bin\Debug\25.HtmlParser.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\25.HtmlParser\obj\Debug\25.HtmlParser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\25.HtmlParser\obj\Debug\25.HtmlParser.pdb

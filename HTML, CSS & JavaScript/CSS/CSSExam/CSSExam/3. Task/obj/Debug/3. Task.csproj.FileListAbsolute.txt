@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\CSSExam\CSSExam\3. Task\bin\_3.Task.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\CSSExam\CSSExam\3. Task\bin\_3.Task.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\CSSExam\CSSExam\3. Task\obj\Debug\3. Task.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\CSSExam\CSSExam\3. Task\obj\Debug\_3.Task.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\CSSExam\CSSExam\3. Task\obj\Debug\_3.Task.pdb

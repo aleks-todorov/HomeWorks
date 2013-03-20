@@ -1,0 +1,104 @@
+$fonts: Cambria, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', serif;
+
+@mixin linear-gradient($top-color, $bottom-color){
+background: -moz-linear-gradient(top,  $top-color 0%, $bottom-color ); /* FF3.6+ */
+background: -webkit-linear-gradient(top,  $top-color 0%,$bottom-color ); /* Chrome10+,Safari5.1+ */
+background: -ms-linear-gradient(top,  $top-color 0%,$bottom-color ); /* IE10+ */
+}
+
+
+html,body,form,fieldset,legend,label,input[type=text],input[type=password]
+{
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper{
+	width: 960px;
+	font-family: $fonts;
+	font-size: 16px;
+
+	form{
+		margin: 25px;
+		width: 380px;
+		height: 360px;
+		border: 1px solid black;
+		border-radius: 15px;
+		@include linear-gradient(#ebff5b,#444444);
+		padding: 15px 15px;
+		color: #fff;
+		text-align: right;
+
+		input[type=radio]{
+			display: none;
+
+		}
+			button{
+				float: left;
+				margin-left: 125px;
+			}
+
+			input[type=reset]{
+				float: right;
+			}
+		button, input[type=reset]{
+			padding: 5px 15px;
+			margin-top: 15px;
+			font-size: 1.1em;
+			border-radius: 5px;
+			color: #333333;
+			border:none;
+			border-bottom: 1px solid #000;
+			@include linear-gradient(#E3FD28,#474841);
+
+		}
+		
+		fieldset{
+			border: 3px solid #555555;
+			border-radius: 5px;
+			padding-right: 15px;
+			padding-bottom: 5px;
+			padding-top: 5px;
+			text-align: right;
+			margin-bottom: 5px;
+					
+			legend{
+				font-size: 1.3em;
+				font-style: italic;
+				font-weight: bold;
+				color: #fff;
+				padding: 0 15px;
+			}
+
+			input{
+				border: 2px solid #444444;
+				border-radius: 5px;
+				margin-top: 5px;
+				line-height: 25px;
+				@include linear-gradient(#E8FC5B,#474744);
+				width: 165px;
+				padding-left: 15px;
+				color: #fff;
+						
+			}
+
+			input[type=number]{
+					margin-bottom: 5px;
+					width: 40px;
+					text-align: left;
+					padding-left: 3px;
+				}
+
+			label{
+					color: #fff;
+				}
+		}
+	}
+
+}
+
+
+
+
+
+

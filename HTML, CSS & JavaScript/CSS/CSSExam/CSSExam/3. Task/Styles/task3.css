@@ -1,0 +1,80 @@
+html, body, form, fieldset, legend, label, input[type=text], input[type=password] {
+  margin: 0;
+  padding: 0; }
+
+#wrapper {
+  width: 960px;
+  font-family: Cambria, "Palatino Linotype", "Book Antiqua", "URW Palladio L", serif;
+  font-size: 16px; }
+  #wrapper form {
+    margin: 25px;
+    width: 380px;
+    height: 360px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background: -moz-linear-gradient(top, #ebff5b 0%, #444444);
+    /* FF3.6+ */
+    background: -webkit-linear-gradient(top, #ebff5b 0%, #444444);
+    /* Chrome10+,Safari5.1+ */
+    background: -ms-linear-gradient(top, #ebff5b 0%, #444444);
+    /* IE10+ */
+    padding: 15px 15px;
+    color: #fff;
+    text-align: right; }
+    #wrapper form input[type=radio] {
+      display: none; }
+    #wrapper form button {
+      float: left;
+      margin-left: 125px; }
+    #wrapper form input[type=reset] {
+      float: right; }
+    #wrapper form button, #wrapper form input[type=reset] {
+      padding: 5px 15px;
+      margin-top: 15px;
+      font-size: 1.1em;
+      border-radius: 5px;
+      color: #333333;
+      border: none;
+      border-bottom: 1px solid #000;
+      background: -moz-linear-gradient(top, #e3fd28 0%, #474841);
+      /* FF3.6+ */
+      background: -webkit-linear-gradient(top, #e3fd28 0%, #474841);
+      /* Chrome10+,Safari5.1+ */
+      background: -ms-linear-gradient(top, #e3fd28 0%, #474841);
+      /* IE10+ */ }
+    #wrapper form fieldset {
+      border: 3px solid #555555;
+      border-radius: 5px;
+      padding-right: 15px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+      text-align: right;
+      margin-bottom: 5px; }
+      #wrapper form fieldset legend {
+        font-size: 1.3em;
+        font-style: italic;
+        font-weight: bold;
+        color: #fff;
+        padding: 0 15px; }
+      #wrapper form fieldset input {
+        border: 2px solid #444444;
+        border-radius: 5px;
+        margin-top: 5px;
+        line-height: 25px;
+        background: -moz-linear-gradient(top, #e8fc5b 0%, #474744);
+        /* FF3.6+ */
+        background: -webkit-linear-gradient(top, #e8fc5b 0%, #474744);
+        /* Chrome10+,Safari5.1+ */
+        background: -ms-linear-gradient(top, #e8fc5b 0%, #474744);
+        /* IE10+ */
+        width: 165px;
+        padding-left: 15px;
+        color: #fff; }
+      #wrapper form fieldset input[type=number] {
+        margin-bottom: 5px;
+        width: 40px;
+        text-align: left;
+        padding-left: 3px; }
+      #wrapper form fieldset label {
+        color: #fff; }
+

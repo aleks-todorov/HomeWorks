@@ -1,0 +1,5 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\02. ReversingString\bin\Debug\_02.ReversingString.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\02. ReversingString\bin\Debug\_02.ReversingString.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\02. ReversingString\bin\Debug\_02.ReversingString.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\02. ReversingString\obj\Debug\_02.ReversingString.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\02. ReversingString\obj\Debug\_02.ReversingString.pdb

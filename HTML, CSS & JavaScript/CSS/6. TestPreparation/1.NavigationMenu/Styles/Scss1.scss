@@ -1,0 +1,111 @@
+$fonts: Arial;
+
+@mixin linear-gradient($top-color, $bottom-color){
+background: -moz-linear-gradient(top,  $top-color 0%, $bottom-color ); /* FF3.6+ */
+background: -webkit-linear-gradient(top,  $top-color 0%,$bottom-color ); /* Chrome10+,Safari5.1+ */
+background: -ms-linear-gradient(top,  $top-color 0%,$bottom-color ); /* IE10+ */
+}
+
+@mixin clearFix{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+@mixin hover-state($hover-state)
+{
+	background-color: $hover-state;
+	border-radius:15px;
+}
+html,body
+{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+div, header, nav, ul, li, a{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+	font-size: 32px;
+	font-family: $fonts;
+}
+
+nav{
+	background-color: red;
+	display: block;
+	height: 100px;
+	width: 910px;
+	padding: 50px 0 50px 50px;
+	@include linear-gradient(#002d44, #77d1ff); 
+
+	>ul li{
+		display: block;
+		float: left;
+		padding: 5px 10px;
+		margin-right: 10px;
+	
+		a{
+			text-decoration: none;
+			color: #000;
+		}
+
+		&:hover{
+			@include hover-state(#105b81);
+		}
+
+		&:after{
+			@include clearFix;
+		}
+
+		&.selected{
+				@include hover-state(#1A4358);
+		}
+
+		&.selected >ul{
+			position: absolute;
+			width: 910px;
+			height: 40px;
+			left: 50px;
+		}
+
+		&.selected >ul li{
+			display: block;
+			float: left;
+			position: relative;
+				
+			>ul li{
+				display: none;
+				margin: 0;
+				margin-left: 15px;
+			}
+
+			&:hover >ul {
+				display: block;
+				position: absolute;
+				@include linear-gradient(#fff,#77d1ff);
+				border-radius: 20px;
+				width: 360px;
+				padding: 15px 0;
+			}
+			
+			&:hover >ul li{
+				display: block;
+				position: relative;
+				float: left;
+				border-bottom: 1px solid black;
+				padding: 5px;
+							
+				&:last-child{
+					border: none;
+				}
+			}
+		}
+		> ul li{
+			display: none;
+		}
+	}
+}

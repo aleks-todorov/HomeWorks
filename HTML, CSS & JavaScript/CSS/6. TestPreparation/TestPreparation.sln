@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.NavigationMenu", "1.NavigationMenu\1.NavigationMenu.csproj", "{657998C8-4BEC-4175-AE6A-69C10E9C2F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.RegistrationForm", "2.RegistrationForm\2.RegistrationForm.csproj", "{85746E41-82DF-463D-8965-48DD15E7C0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657998C8-4BEC-4175-AE6A-69C10E9C2F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657998C8-4BEC-4175-AE6A-69C10E9C2F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657998C8-4BEC-4175-AE6A-69C10E9C2F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657998C8-4BEC-4175-AE6A-69C10E9C2F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85746E41-82DF-463D-8965-48DD15E7C0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85746E41-82DF-463D-8965-48DD15E7C0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85746E41-82DF-463D-8965-48DD15E7C0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85746E41-82DF-463D-8965-48DD15E7C0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

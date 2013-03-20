@@ -1,0 +1,7 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\bin\Debug\20.PalindromesExtractor.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\bin\Debug\20.PalindromesExtractor.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\bin\Debug\02.ReverseStringPrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\bin\Debug\02.ReverseStringPrinter.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\obj\Debug\20.PalindromesExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\obj\Debug\20.PalindromesExtractor.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\20.PalindromesExtractor\obj\Debug\20.PalindromesExtractor.pdb

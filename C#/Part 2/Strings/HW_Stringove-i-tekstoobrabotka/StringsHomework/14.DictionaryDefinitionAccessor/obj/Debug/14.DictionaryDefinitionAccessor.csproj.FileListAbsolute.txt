@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\14.DictionaryDefinitionAccessor\bin\Debug\14.DictionaryDefinitionAccessor.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\14.DictionaryDefinitionAccessor\bin\Debug\14.DictionaryDefinitionAccessor.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\14.DictionaryDefinitionAccessor\obj\Debug\14.DictionaryDefinitionAccessor.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\14.DictionaryDefinitionAccessor\obj\Debug\14.DictionaryDefinitionAccessor.pdb

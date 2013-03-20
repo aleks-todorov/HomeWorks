@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\24.LexicographicalWordSorter\bin\Debug\24.LexicographicalWordSorter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\24.LexicographicalWordSorter\bin\Debug\24.LexicographicalWordSorter.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\24.LexicographicalWordSorter\obj\Debug\24.LexicographicalWordSorter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\24.LexicographicalWordSorter\obj\Debug\24.LexicographicalWordSorter.pdb

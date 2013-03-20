@@ -1,0 +1,5 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\04. CountOfOccurenceOfSubString\bin\Debug\_04.CountOfOccurenceOfSubString.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\04. CountOfOccurenceOfSubString\bin\Debug\_04.CountOfOccurenceOfSubString.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\04. CountOfOccurenceOfSubString\bin\Debug\_04.CountOfOccurenceOfSubString.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\04. CountOfOccurenceOfSubString\obj\Debug\_04.CountOfOccurenceOfSubString.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\04. CountOfOccurenceOfSubString\obj\Debug\_04.CountOfOccurenceOfSubString.pdb

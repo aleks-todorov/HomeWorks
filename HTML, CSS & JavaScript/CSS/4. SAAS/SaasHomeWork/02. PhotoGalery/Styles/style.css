@@ -1,0 +1,22 @@
+html, body, section, ul, li, img, input[type=radio], label {
+  padding: 0;
+  margin: 0; }
+
+.gallery {
+  margin-top: 10px;
+  margin-left: 10px; }
+  .gallery li {
+    display: inline-block; }
+  .gallery input[type=radio] {
+    display: none; }
+    .gallery input[type=radio] + label img {
+      display: none; }
+    .gallery input[type=radio]:checked + label img {
+      display: block;
+      margin-top: 20px;
+      width: 500px;
+      height: 500px;
+      border: 1px solid #666;
+      border-radius: 5px;
+      box-shadow: 5px 5px 10px #000; }
+

@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\2.RegistrationForm\bin\2.RegistrationForm.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\2.RegistrationForm\bin\2.RegistrationForm.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\2.RegistrationForm\obj\Debug\2.RegistrationForm.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\2.RegistrationForm\obj\Debug\2.RegistrationForm.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\CSS\6. TestPreparation\2.RegistrationForm\obj\Debug\2.RegistrationForm.csprojResolveAssemblyReference.cache

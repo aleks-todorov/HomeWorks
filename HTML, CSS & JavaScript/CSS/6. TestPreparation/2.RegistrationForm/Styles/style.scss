@@ -1,0 +1,128 @@
+@mixin linear-gradient($top-color, $bottom-color,$offset){
+background: -moz-linear-gradient(top,  $top-color $offset, $bottom-color ); /* FF3.6+ */
+background: -webkit-linear-gradient(top,  $top-color $offset,$bottom-color ); /* Chrome10+,Safari5.1+ */
+background: -ms-linear-gradient(top,  $top-color $offset,$bottom-color ); /* IE10+ */
+}
+
+@mixin clearFix{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+html,body,div,a,form,input,label,fieldset
+{
+	margin: 0;
+	padding:0;
+}
+
+#wrapper {
+	margin-left: 50px;
+	font-family: Verdana;
+
+	#btn-show-register{
+		text-decoration: none;
+		font-size: 19px;
+		color: black;
+
+		&.current{
+			font-weight: bold;		
+		}
+
+		&.current:active{
+
+		#form-register{
+				display: block;
+			}
+
+			#form-login{
+				display: none;
+			}
+		}
+	}
+	#btn-show-login{
+		text-decoration: none;
+		font-size: 19px;
+		color: black;
+
+		&.current{
+			font-weight: bold;
+
+			#form-register{
+				display: none;
+			}
+
+			#form-login{
+				display: block;
+			}
+		}
+	}
+
+	fieldset{
+			width: 440px;
+			border: 5px solid #000;
+			@include linear-gradient(#fff,#595959,10%);
+			position: relative;
+			margin-top: 15px;
+			padding-top: 15px;
+			padding-bottom: 10px;
+
+			legend{
+				font-size: 27px;
+				font-weight: bold;
+				font-style: italic;
+				background-color: #fff;
+				text-align: right;
+				position: absolute;
+				top: -20px;
+				right: 75px;
+				padding: 0 10px;
+			}
+
+			input[type=text],input[type=password]{
+				width: 165px;
+				height: 36px;
+				float: right;
+				margin-top: 8px;
+				margin-right: 75px;
+				padding-left: 15px;
+				border-radius: 15px;
+				@include linear-gradient(#020202,#c4c4c4,0%);
+				border: none;
+
+				}
+
+			label{
+				font-weight:bold;
+				float: left;
+				margin-top: 8px;
+				line-height: 36px;
+				width: 165px;
+				text-align: right;
+				margin-left: 15px;
+				}
+
+			&:after{
+				@include clearFix;
+			}
+
+			button{
+				padding: 7px 10px;;
+				line-height: 20px;
+				border: 2px solid black;
+				border-radius: 15px;
+				font-size: 20px;
+				@include linear-gradient(#020202,#fcfcfc,0%);
+				margin-top: 10px;
+				float: right;
+				margin-right: 70px;
+
+				&:hover{
+				@include linear-gradient(#020202,#cacaca,0%)
+				}
+			}
+	}
+}
+body div#wrapper form.invisible {
+  display: none;
+}

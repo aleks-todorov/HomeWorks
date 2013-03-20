@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\11.VariousFormatsPrinter\bin\Debug\11.VariousFormatsPrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\11.VariousFormatsPrinter\bin\Debug\11.VariousFormatsPrinter.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\11.VariousFormatsPrinter\obj\Debug\11.VariousFormatsPrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\11.VariousFormatsPrinter\obj\Debug\11.VariousFormatsPrinter.pdb

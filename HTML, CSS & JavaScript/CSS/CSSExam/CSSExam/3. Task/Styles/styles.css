@@ -1,0 +1,9 @@
+html, body, form, fieldset, legend, label, input[type=text], input[type=password] {
+  margin: 0;
+  padding: 0; }
+
+#wrapper {
+  width: 960px;
+  font-family: Cambria, "Palatino Linotype", "Book Antiqua", "URW Palladio L", serif;
+  font-size: 16px; }
+

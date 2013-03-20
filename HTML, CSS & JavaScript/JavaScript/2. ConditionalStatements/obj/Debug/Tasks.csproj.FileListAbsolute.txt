@@ -1,0 +1,10 @@
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\bin\Tasks.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\bin\Tasks.pdb
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\bin\Tasks.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\bin\Tasks.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\2. Conditional-Statements\Tasks\obj\Debug\Tasks.pdb

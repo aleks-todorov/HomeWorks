@@ -1,0 +1,103 @@
+html, body, div, a, form, input, label, fieldset {
+  margin: 0;
+  padding: 0; }
+
+#wrapper {
+  margin-left: 50px;
+  font-family: Verdana; }
+  #wrapper #btn-show-register {
+    text-decoration: none;
+    font-size: 19px;
+    color: black; }
+    #wrapper #btn-show-register.current {
+      font-weight: bold; }
+    #wrapper #btn-show-register.current:active #form-register {
+      display: block; }
+    #wrapper #btn-show-register.current:active #form-login {
+      display: none; }
+  #wrapper #btn-show-login {
+    text-decoration: none;
+    font-size: 19px;
+    color: black; }
+    #wrapper #btn-show-login.current {
+      font-weight: bold; }
+      #wrapper #btn-show-login.current #form-register {
+        display: none; }
+      #wrapper #btn-show-login.current #form-login {
+        display: block; }
+  #wrapper fieldset {
+    width: 440px;
+    border: 5px solid #000;
+    background: -moz-linear-gradient(top, white 10%, #595959);
+    /* FF3.6+ */
+    background: -webkit-linear-gradient(top, white 10%, #595959);
+    /* Chrome10+,Safari5.1+ */
+    background: -ms-linear-gradient(top, white 10%, #595959);
+    /* IE10+ */
+    position: relative;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 10px; }
+    #wrapper fieldset legend {
+      font-size: 27px;
+      font-weight: bold;
+      font-style: italic;
+      background-color: #fff;
+      text-align: right;
+      position: absolute;
+      top: -20px;
+      right: 75px;
+      padding: 0 10px; }
+    #wrapper fieldset input[type=text], #wrapper fieldset input[type=password] {
+      width: 165px;
+      height: 36px;
+      float: right;
+      margin-top: 8px;
+      margin-right: 75px;
+      padding-left: 15px;
+      border-radius: 15px;
+      background: -moz-linear-gradient(top, #020202 0%, #c4c4c4);
+      /* FF3.6+ */
+      background: -webkit-linear-gradient(top, #020202 0%, #c4c4c4);
+      /* Chrome10+,Safari5.1+ */
+      background: -ms-linear-gradient(top, #020202 0%, #c4c4c4);
+      /* IE10+ */
+      border: none; }
+    #wrapper fieldset label {
+      font-weight: bold;
+      float: left;
+      margin-top: 8px;
+      line-height: 36px;
+      width: 165px;
+      text-align: right;
+      margin-left: 15px; }
+    #wrapper fieldset:after {
+      content: "";
+      display: block;
+      clear: both; }
+    #wrapper fieldset button {
+      padding: 7px 10px;
+      line-height: 20px;
+      border: 2px solid black;
+      border-radius: 15px;
+      font-size: 20px;
+      background: -moz-linear-gradient(top, #020202 0%, #fcfcfc);
+      /* FF3.6+ */
+      background: -webkit-linear-gradient(top, #020202 0%, #fcfcfc);
+      /* Chrome10+,Safari5.1+ */
+      background: -ms-linear-gradient(top, #020202 0%, #fcfcfc);
+      /* IE10+ */
+      margin-top: 10px;
+      float: right;
+      margin-right: 70px; }
+      #wrapper fieldset button:hover {
+        background: -moz-linear-gradient(top, #020202 0%, #cacaca);
+        /* FF3.6+ */
+        background: -webkit-linear-gradient(top, #020202 0%, #cacaca);
+        /* Chrome10+,Safari5.1+ */
+        background: -ms-linear-gradient(top, #020202 0%, #cacaca);
+        /* IE10+ */ }
+
+body div#wrapper form.invisible {
+  display: none; }
+

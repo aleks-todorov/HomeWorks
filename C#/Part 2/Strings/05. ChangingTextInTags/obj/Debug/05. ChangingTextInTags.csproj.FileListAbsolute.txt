@@ -1,0 +1,6 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\bin\Debug\_05.ChangingTextInTags.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\obj\Debug\05. ChangingTextInTags.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\bin\Debug\_05.ChangingTextInTags.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\bin\Debug\_05.ChangingTextInTags.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\obj\Debug\_05.ChangingTextInTags.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\05. ChangingTextInTags\obj\Debug\_05.ChangingTextInTags.pdb
