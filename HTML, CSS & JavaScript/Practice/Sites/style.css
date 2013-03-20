@@ -6,6 +6,10 @@ html, body{
 	height: 100%;
 
 }
+ul, li, a,p,h1 { 
+	padding: 0;
+	margin: 0;
+}
 
 .header{
 	margin: 0 auto;
@@ -14,6 +18,22 @@ html, body{
 	background-color: red;
 }
 
+.header ul li{
+	float: left;
+	display: block;
+	margin: 10px 10px;
+}
+
+#div2{
+	float: right;
+}
+
+#div2:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
 .content{
 	margin: 0 auto;
 	width: 60%;

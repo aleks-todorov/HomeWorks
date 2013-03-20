@@ -16,7 +16,7 @@ namespace _04.SortingUsingBinSearch
             Console.WriteLine("Please enter elements value:");
             for (int i = 0; i < n; i++)
             {
-                numArray[n] = int.Parse(Console.ReadLine());
+                numArray[i] = int.Parse(Console.ReadLine());
             }
 
             Console.WriteLine("Please enter value for k:");
