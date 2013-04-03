@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\bin\Debug\Test.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\bin\Debug\Test.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\bin\Debug\Test.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\obj\Debug\Test.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Test\Test\obj\Debug\Test.pdb
