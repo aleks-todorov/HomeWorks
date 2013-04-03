@@ -16,7 +16,7 @@ namespace _01.MobileDevicesApplication
             //test.PrintTests(); 
 
             // Task 8: 
-            //GSM phone = new GSM("Something", "Nokia", 1150, "John", new Battery("2343DCD", 50, 20, BatteryType.LiIon), new Display(15.4, 1000000000)),
+            //GSM phone = new GSM("Something", "Nokia", 1150, "John", new Battery("2343DCD", 50, 20, BatteryType.LiIon), new Display(15.4, 1000000000));
             //phone.CallHistory.Add(new Call("12/02/2013", "13:43:43", 359881233424234, 58));
             //phone.CallHistory.Add(new Call("12.03.2013", "13:50:43", 359881233424234, 112));
             //phone.ShowCallerHistory();

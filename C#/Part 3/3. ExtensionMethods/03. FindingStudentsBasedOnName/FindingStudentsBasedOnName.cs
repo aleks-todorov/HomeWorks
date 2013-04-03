@@ -27,7 +27,7 @@ namespace _03.FindingStudentsBasedOnName
 
             foreach (Students student in students)
             {
-                //Will Return Age(value =0), because it is needed for the next task. 
+                //Will Return Age(value = 0), because it is needed for the next task. 
                 Console.WriteLine(student.ToString());
             }
         }

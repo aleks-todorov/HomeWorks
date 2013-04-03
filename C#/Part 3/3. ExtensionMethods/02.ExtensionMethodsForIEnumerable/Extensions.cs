@@ -45,7 +45,7 @@ namespace _02.ExtensionMethodsForIEnumerable
 
         public static T FindMax<T>(this IEnumerable<T> sequence)
         {
-            //Will not work if all of the elements are bigger than int.MixValue
+            //Will not work if all of the elements are bigger than int.MinValue
             T result = (T)(dynamic)int.MinValue;
             foreach (var element in sequence)
             {

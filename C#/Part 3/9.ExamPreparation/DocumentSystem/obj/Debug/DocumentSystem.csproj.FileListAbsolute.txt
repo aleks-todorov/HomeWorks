@@ -1,0 +1,6 @@
+C:\Users\Aleks\Desktop\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.exe
+C:\Users\Aleks\Desktop\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.pdb
+C:\Users\Aleks\Desktop\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.exe
+C:\Users\Aleks\Desktop\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\9.ExamPreparation\DocumentSystem\obj\Debug\DocumentSystem.exe
