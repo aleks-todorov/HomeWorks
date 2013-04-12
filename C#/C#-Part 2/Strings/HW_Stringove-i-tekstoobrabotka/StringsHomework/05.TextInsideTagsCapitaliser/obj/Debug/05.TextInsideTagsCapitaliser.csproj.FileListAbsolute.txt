@@ -1,0 +1,5 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\05.TextInsideTagsCapitaliser\bin\Debug\05.TextInsideTagsCapitaliser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\05.TextInsideTagsCapitaliser\bin\Debug\05.TextInsideTagsCapitaliser.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\05.TextInsideTagsCapitaliser\obj\Debug\05.TextInsideTagsCapitaliser.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\05.TextInsideTagsCapitaliser\obj\Debug\05.TextInsideTagsCapitaliser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\05.TextInsideTagsCapitaliser\obj\Debug\05.TextInsideTagsCapitaliser.pdb

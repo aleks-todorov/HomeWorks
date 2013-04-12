@@ -1,0 +1,11 @@
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\_01.MobileDevicesApplication.exe.config
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\obj\Debug\MobileDevicesApplication.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\_01.MobileDevicesApplication.exe
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\_01.MobileDevicesApplication.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\MobileApplication.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\MobileApplication.CommonClasses.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\obj\Debug\_01.MobileDevicesApplication.exe
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\obj\Debug\_01.MobileDevicesApplication.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\bin\Debug\_01.MobileDevicesApplication.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\obj\Debug\_01.MobileDevicesApplication.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\01. MobileDevicesApplication\obj\Debug\_01.MobileDevicesApplication.pdb

@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\17.FutureDateTimePrinter\bin\Debug\17.FutureDateTimePrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\17.FutureDateTimePrinter\bin\Debug\17.FutureDateTimePrinter.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\17.FutureDateTimePrinter\obj\Debug\17.FutureDateTimePrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\17.FutureDateTimePrinter\obj\Debug\17.FutureDateTimePrinter.pdb

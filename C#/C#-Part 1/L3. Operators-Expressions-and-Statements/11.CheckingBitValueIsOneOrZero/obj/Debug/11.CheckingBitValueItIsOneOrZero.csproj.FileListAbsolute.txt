@@ -1,0 +1,3 @@
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\11.CheckingBitValueIsOneOrZero\bin\Debug\11.CheckingBitValueIsOneOrZero.exe.config
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\11.CheckingBitValueIsOneOrZero\obj\Debug\11.CheckingBitValueIsOneOrZero.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\11.CheckingBitValueIsOneOrZero\obj\Debug\11.CheckingBitValueIsOneOrZero.pdb

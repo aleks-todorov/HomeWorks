@@ -1,0 +1,1 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\bin\Debug\_05.CheckingIftheThirdBitIsOne.exe.config

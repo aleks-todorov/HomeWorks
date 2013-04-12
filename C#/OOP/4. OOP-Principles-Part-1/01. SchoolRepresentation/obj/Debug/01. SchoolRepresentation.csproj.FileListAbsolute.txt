@@ -1,0 +1,12 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\01. SchoolRepresentation.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\_01.SchoolRepresentation.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\_01.SchoolRepresentation.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.exe.config
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\_01.SchoolRepresentation.exe
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\_01.SchoolRepresentation.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.exe
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\bin\Debug\_01.SchoolRepresentation.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\01. SchoolRepresentation\obj\Debug\01. SchoolRepresentation.csprojResolveAssemblyReference.cache

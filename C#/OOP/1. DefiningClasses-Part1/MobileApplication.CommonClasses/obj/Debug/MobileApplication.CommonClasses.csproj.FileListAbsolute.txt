@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\MobileApplication.CommonClasses\obj\Debug\MobileApplication.CommonClasses.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\MobileApplication.CommonClasses\bin\Debug\MobileApplication.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\MobileApplication.CommonClasses\bin\Debug\MobileApplication.CommonClasses.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\MobileApplication.CommonClasses\obj\Debug\MobileApplication.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\1. DefiningClasses-Part1\MobileApplication.CommonClasses\obj\Debug\MobileApplication.CommonClasses.pdb

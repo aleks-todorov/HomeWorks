@@ -1,0 +1,9 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\12. SwitchingValuesOfVariables.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe.config
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.pdb

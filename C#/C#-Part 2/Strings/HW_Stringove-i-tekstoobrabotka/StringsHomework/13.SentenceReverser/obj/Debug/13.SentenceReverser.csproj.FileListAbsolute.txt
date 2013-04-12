@@ -1,0 +1,7 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\bin\Debug\13.SentenceReverser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\bin\Debug\13.SentenceReverser.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\bin\Debug\02.ReverseStringPrinter.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\bin\Debug\02.ReverseStringPrinter.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\obj\Debug\13.SentenceReverser.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\obj\Debug\13.SentenceReverser.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\13.SentenceReverser\obj\Debug\13.SentenceReverser.pdb

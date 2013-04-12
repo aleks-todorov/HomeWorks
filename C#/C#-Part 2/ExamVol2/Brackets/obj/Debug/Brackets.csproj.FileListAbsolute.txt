@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\bin\Debug\Brackets.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\obj\Debug\Brackets.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\bin\Debug\Brackets.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\bin\Debug\Brackets.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\obj\Debug\Brackets.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Brackets\obj\Debug\Brackets.pdb

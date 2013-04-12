@@ -1,0 +1,18 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe.config
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.pdb
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe.config
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.exe
+D:\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.pdb
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe.config
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.exe
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe.config
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.csprojResolveAssemblyReference.cache
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.pdb

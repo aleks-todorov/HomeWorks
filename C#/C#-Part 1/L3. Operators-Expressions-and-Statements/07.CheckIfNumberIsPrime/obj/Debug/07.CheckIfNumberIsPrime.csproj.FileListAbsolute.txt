@@ -1,0 +1,13 @@
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe.config
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.pdb
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.exe
+C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe.config
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.pdb
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe
+C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.pdb
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe.config
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.exe
+D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.pdb

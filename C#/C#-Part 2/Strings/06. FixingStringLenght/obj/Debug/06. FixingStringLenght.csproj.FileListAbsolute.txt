@@ -1,0 +1,5 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\06. FixingStringLenght\bin\Debug\_06.FixingStringLenght.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\06. FixingStringLenght\bin\Debug\_06.FixingStringLenght.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\06. FixingStringLenght\bin\Debug\_06.FixingStringLenght.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\06. FixingStringLenght\obj\Debug\_06.FixingStringLenght.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\06. FixingStringLenght\obj\Debug\_06.FixingStringLenght.pdb

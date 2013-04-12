@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\bin\Debug\12.PrintingASCIITable.exe.config
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\bin\Debug\12.PrintingASCIITable.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\bin\Debug\12.PrintingASCIITable.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\obj\Debug\12.PrintingASCIITable.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\obj\Debug\12.PrintingASCIITable.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12.PrintingASCIITable\obj\Debug\12.PrintingASCIITable.pdb

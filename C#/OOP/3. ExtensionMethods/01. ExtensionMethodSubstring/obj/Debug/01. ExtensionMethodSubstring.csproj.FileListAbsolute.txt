@@ -1,0 +1,9 @@
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\bin\Debug\_01.ExtensionMethodSubstring.exe.config
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\bin\Debug\_01.ExtensionMethodSubstring.exe
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\bin\Debug\_01.ExtensionMethodSubstring.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\obj\Debug\01. ExtensionMethodSubstring.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\obj\Debug\_01.ExtensionMethodSubstring.exe
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\obj\Debug\_01.ExtensionMethodSubstring.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\bin\Debug\_01.ExtensionMethodSubstring.exe.config
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\obj\Debug\_01.ExtensionMethodSubstring.exe
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\01. ExtensionMethodSubstring\obj\Debug\_01.ExtensionMethodSubstring.pdb

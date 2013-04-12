@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\15.HtmlFileLinkReplacer\bin\Debug\15.HtmlFileLinkReplacer.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\15.HtmlFileLinkReplacer\bin\Debug\15.HtmlFileLinkReplacer.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\15.HtmlFileLinkReplacer\obj\Debug\15.HtmlFileLinkReplacer.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\15.HtmlFileLinkReplacer\obj\Debug\15.HtmlFileLinkReplacer.pdb

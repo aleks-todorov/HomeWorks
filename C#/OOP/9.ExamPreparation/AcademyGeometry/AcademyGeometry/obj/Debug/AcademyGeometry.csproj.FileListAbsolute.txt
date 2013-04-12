@@ -1,0 +1,9 @@
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+C:\Users\Aleks\Desktop\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\9.ExamPreparation\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+D:\Google Drive\HomeWorks\C#\Part 3\9.ExamPreparation\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+D:\Google Drive\HomeWorks\C#\Part 3\9.ExamPreparation\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

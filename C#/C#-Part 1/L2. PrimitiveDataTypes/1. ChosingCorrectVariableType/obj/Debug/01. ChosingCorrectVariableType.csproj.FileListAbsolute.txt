@@ -1,0 +1,12 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\_1.ChosingCorrectVariableType.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\_1.ChosingCorrectVariableType.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\01. ChosingCorrectVariableType.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.exe.config
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\_1.ChosingCorrectVariableType.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\_1.ChosingCorrectVariableType.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\bin\Debug\_1.ChosingCorrectVariableType.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\1. ChosingCorrectVariableType\obj\Debug\01. ChosingCorrectVariableType.csprojResolveAssemblyReference.cache

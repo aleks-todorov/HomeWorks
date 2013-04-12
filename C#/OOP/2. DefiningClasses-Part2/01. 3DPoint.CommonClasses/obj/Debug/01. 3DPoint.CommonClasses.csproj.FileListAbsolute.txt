@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint.CommonClasses\bin\Debug\01. 3DPoint.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint.CommonClasses\bin\Debug\01. 3DPoint.CommonClasses.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint.CommonClasses\obj\Debug\01. 3DPoint.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint.CommonClasses\obj\Debug\01. 3DPoint.CommonClasses.pdb

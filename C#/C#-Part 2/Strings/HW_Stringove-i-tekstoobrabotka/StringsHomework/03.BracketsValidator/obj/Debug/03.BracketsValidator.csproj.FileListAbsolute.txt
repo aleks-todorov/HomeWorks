@@ -1,0 +1,5 @@
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\03.BracketsValidator\bin\Debug\03.BracketsValidator.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\03.BracketsValidator\bin\Debug\03.BracketsValidator.pdb
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\03.BracketsValidator\obj\Debug\03.BracketsValidator.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\03.BracketsValidator\obj\Debug\03.BracketsValidator.exe
+C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\03.BracketsValidator\obj\Debug\03.BracketsValidator.pdb

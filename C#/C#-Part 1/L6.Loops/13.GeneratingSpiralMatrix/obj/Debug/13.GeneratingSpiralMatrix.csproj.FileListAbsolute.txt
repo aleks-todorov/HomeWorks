@@ -1,0 +1,6 @@
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\bin\Debug\13.GeneratingSpiralMatrix.exe.config
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\bin\Debug\13.GeneratingSpiralMatrix.exe
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\bin\Debug\13.GeneratingSpiralMatrix.pdb
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\obj\Debug\13.GeneratingSpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\obj\Debug\13.GeneratingSpiralMatrix.exe
+C:\Google Drive\HomeWorks\C#\L6.Loops\13.GeneratingSpiralMatrix\obj\Debug\13.GeneratingSpiralMatrix.pdb

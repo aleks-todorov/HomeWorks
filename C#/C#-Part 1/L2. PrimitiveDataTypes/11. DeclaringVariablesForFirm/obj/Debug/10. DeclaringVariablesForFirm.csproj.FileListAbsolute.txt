@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\bin\Debug\_11.DeclaringVariablesForFirm.exe.config
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\obj\Debug\_11.DeclaringVariablesForFirm.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\obj\Debug\_11.DeclaringVariablesForFirm.pdb
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\obj\Debug\10. DeclaringVariablesForFirm.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\bin\Debug\_11.DeclaringVariablesForFirm.exe
+D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\11. DeclaringVariablesForFirm\bin\Debug\_11.DeclaringVariablesForFirm.pdb

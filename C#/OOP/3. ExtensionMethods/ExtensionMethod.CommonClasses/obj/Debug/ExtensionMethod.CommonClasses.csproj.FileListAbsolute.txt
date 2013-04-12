@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\ExtensionMethod.CommonClasses\bin\Debug\ExtensionMethod.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\ExtensionMethod.CommonClasses\bin\Debug\ExtensionMethod.CommonClasses.pdb
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\ExtensionMethod.CommonClasses\obj\Debug\ExtensionMethod.CommonClasses.dll
+D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\ExtensionMethod.CommonClasses\obj\Debug\ExtensionMethod.CommonClasses.pdb

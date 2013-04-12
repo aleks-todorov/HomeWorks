@@ -1,0 +1,15 @@
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\obj\Debug\02. CalculatingCircleSize.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\01.PrintingSumOfNumbers\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.pdb
+C:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.exe.config
+C:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.exe
+C:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.exe.config
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\bin\Debug\_02.CalculatingCircleSize.pdb
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\obj\Debug\02. CalculatingCircleSize.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.exe
+D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\02. CalculatingCircleSize\obj\Debug\_02.CalculatingCircleSize.pdb

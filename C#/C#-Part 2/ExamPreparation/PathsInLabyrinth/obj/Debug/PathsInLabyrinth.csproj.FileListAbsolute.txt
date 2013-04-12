@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\obj\Debug\PathsInLabyrinth.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\bin\Debug\PathsInLabyrinth.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\bin\Debug\PathsInLabyrinth.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\bin\Debug\PathsInLabyrinth.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\obj\Debug\PathsInLabyrinth.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\PathsInLabyrinth\obj\Debug\PathsInLabyrinth.pdb

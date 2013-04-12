@@ -1,0 +1,1 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHandling\02. FillingSeries\bin\Debug\_02.FillingSeries.exe.config

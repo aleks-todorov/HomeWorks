@@ -1,0 +1,5 @@
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.exe.config
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.pdb
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\obj\Debug\_9.EscapingSymbolsInStrings.exe
+D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\obj\Debug\_9.EscapingSymbolsInStrings.pdb
