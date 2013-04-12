@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\obj\Debug\05. BitArray64Example.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\bin\Debug\_5.BitArray64Example.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\bin\Debug\_5.BitArray64Example.exe
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\bin\Debug\_5.BitArray64Example.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\obj\Debug\_5.BitArray64Example.exe
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\obj\Debug\_5.BitArray64Example.pdb

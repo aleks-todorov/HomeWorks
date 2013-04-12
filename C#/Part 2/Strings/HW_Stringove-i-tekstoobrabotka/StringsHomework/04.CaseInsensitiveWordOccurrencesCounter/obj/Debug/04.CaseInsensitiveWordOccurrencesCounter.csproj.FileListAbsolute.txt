@@ -1,5 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\04.CaseInsensitiveWordOccurrencesCounter\bin\Debug\04.CaseInsensitiveWordOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\04.CaseInsensitiveWordOccurrencesCounter\bin\Debug\04.CaseInsensitiveWordOccurrencesCounter.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\04.CaseInsensitiveWordOccurrencesCounter\obj\Debug\04.CaseInsensitiveWordOccurrencesCounter.csprojResolveAssemblyReference.cache
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\04.CaseInsensitiveWordOccurrencesCounter\obj\Debug\04.CaseInsensitiveWordOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\04.CaseInsensitiveWordOccurrencesCounter\obj\Debug\04.CaseInsensitiveWordOccurrencesCounter.pdb

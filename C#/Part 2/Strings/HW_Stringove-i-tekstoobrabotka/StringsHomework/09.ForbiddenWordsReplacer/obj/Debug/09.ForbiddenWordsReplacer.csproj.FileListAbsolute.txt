@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\09.ForbiddenWordsReplacer\bin\Debug\09.ForbiddenWordsReplacer.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\09.ForbiddenWordsReplacer\bin\Debug\09.ForbiddenWordsReplacer.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\09.ForbiddenWordsReplacer\obj\Debug\09.ForbiddenWordsReplacer.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\09.ForbiddenWordsReplacer\obj\Debug\09.ForbiddenWordsReplacer.pdb

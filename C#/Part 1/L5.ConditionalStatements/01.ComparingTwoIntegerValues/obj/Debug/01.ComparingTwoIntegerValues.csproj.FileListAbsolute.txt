@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\bin\Debug\01.ComparingTwoIntegerValues.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\bin\Debug\01.ComparingTwoIntegerValues.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\bin\Debug\01.ComparingTwoIntegerValues.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\obj\Debug\01.ComparingTwoIntegerValues.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\obj\Debug\01.ComparingTwoIntegerValues.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\01.ComparingTwoIntegerValues\obj\Debug\01.ComparingTwoIntegerValues.csprojResolveAssemblyReference.cache

@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\08.SentencesExtractor\bin\Debug\08.SentencesExtractor.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\08.SentencesExtractor\bin\Debug\08.SentencesExtractor.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\08.SentencesExtractor\obj\Debug\08.SentencesExtractor.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\08.SentencesExtractor\obj\Debug\08.SentencesExtractor.pdb

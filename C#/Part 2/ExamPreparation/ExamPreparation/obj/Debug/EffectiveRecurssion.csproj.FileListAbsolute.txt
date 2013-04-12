@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\obj\Debug\EffectiveRecurssion.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb

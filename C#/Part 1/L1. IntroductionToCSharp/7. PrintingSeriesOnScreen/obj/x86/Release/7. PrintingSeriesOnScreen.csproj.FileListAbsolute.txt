@@ -1,9 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\Release\_7.PrintingSeriesOnScreen.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\Release\_7.PrintingSeriesOnScreen.pdb
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\Release\_7.PrintingSeriesOnScreen.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\Release\_7.PrintingSeriesOnScreen.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.pdb

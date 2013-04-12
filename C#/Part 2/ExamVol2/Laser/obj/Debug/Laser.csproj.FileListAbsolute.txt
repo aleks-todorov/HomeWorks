@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\obj\Debug\Laser.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\bin\Debug\Laser.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\bin\Debug\Laser.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\bin\Debug\Laser.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\obj\Debug\Laser.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\Laser\obj\Debug\Laser.pdb

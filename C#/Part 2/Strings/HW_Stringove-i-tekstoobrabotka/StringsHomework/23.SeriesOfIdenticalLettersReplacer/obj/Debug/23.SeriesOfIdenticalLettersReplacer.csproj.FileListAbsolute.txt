@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\23.SeriesOfIdenticalLettersReplacer\bin\Debug\23.SeriesOfIdenticalLettersReplacer.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\23.SeriesOfIdenticalLettersReplacer\bin\Debug\23.SeriesOfIdenticalLettersReplacer.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\23.SeriesOfIdenticalLettersReplacer\obj\Debug\23.SeriesOfIdenticalLettersReplacer.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\23.SeriesOfIdenticalLettersReplacer\obj\Debug\23.SeriesOfIdenticalLettersReplacer.pdb

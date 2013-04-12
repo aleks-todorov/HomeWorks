@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\21.LettersOccurrencesCounter\bin\Debug\21.LettersOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\21.LettersOccurrencesCounter\bin\Debug\21.LettersOccurrencesCounter.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\21.LettersOccurrencesCounter\obj\Debug\21.LettersOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\21.LettersOccurrencesCounter\obj\Debug\21.LettersOccurrencesCounter.pdb

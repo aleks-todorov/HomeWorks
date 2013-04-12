@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\bin\Debug\06.PrintingNumbersFromArray.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\bin\Debug\06.PrintingNumbersFromArray.exe
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\bin\Debug\06.PrintingNumbersFromArray.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\obj\Debug\06.PrintingNumbersFromArray.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\obj\Debug\06.PrintingNumbersFromArray.exe
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\06.PrintingNumbersFromArray\obj\Debug\06.PrintingNumbersFromArray.pdb

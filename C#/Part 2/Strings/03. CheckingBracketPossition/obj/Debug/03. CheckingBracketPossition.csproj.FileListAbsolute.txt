@@ -1,6 +1,0 @@
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\bin\Debug\_03.CheckingBracketPossition.exe.config
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\bin\Debug\_03.CheckingBracketPossition.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\bin\Debug\_03.CheckingBracketPossition.pdb
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\obj\Debug\03. CheckingBracketPossition.csprojResolveAssemblyReference.cache
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\obj\Debug\_03.CheckingBracketPossition.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\String\03. CheckingBracketPossition\obj\Debug\_03.CheckingBracketPossition.pdb

@@ -1,1 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\bin\Debug\09.PrintingFibonachiSequence.exe.config

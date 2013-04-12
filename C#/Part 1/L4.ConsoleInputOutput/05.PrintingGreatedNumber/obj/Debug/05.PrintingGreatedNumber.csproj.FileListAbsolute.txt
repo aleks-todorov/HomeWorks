@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\05.PrintingGreatedNumber\bin\Debug\05.PrintingGreatedNumber.exe.config
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\05.PrintingGreatedNumber\bin\Debug\05.PrintingGreatedNumber.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\05.PrintingGreatedNumber\bin\Debug\05.PrintingGreatedNumber.pdb
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\05.PrintingGreatedNumber\obj\Debug\05.PrintingGreatedNumber.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\05.PrintingGreatedNumber\obj\Debug\05.PrintingGreatedNumber.pdb

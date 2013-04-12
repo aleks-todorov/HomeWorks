@@ -1,6 +1,0 @@
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\bin\Debug\_03.AnimalRepresentation.exe.config
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\obj\Debug\03. AnimalRepresentation.csprojResolveAssemblyReference.cache
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\bin\Debug\_03.AnimalRepresentation.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\bin\Debug\_03.AnimalRepresentation.pdb
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\obj\Debug\_03.AnimalRepresentation.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\03. AnimalRepresentation\obj\Debug\_03.AnimalRepresentation.pdb

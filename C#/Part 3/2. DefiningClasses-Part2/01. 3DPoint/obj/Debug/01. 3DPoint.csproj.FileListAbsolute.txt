@@ -1,8 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\bin\Debug\01. 3DPoint.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\bin\Debug\01. 3DPoint.exe
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\bin\Debug\01. 3DPoint.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\bin\Debug\01. 3DPoint.CommonClasses.dll
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\bin\Debug\01. 3DPoint.CommonClasses.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\obj\Debug\01. 3DPoint.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\obj\Debug\01. 3DPoint.exe
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\01. 3DPoint\obj\Debug\01. 3DPoint.pdb

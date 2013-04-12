@@ -1,5 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\1. PrintingHelloCSharp\bin\Debug\_1.PrintingHelloCSharp.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\1. PrintingHelloCSharp\bin\Debug\_1.PrintingHelloCSharp.pdb
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Debug\_1.PrintingHelloCSharp.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Debug\_1.PrintingHelloCSharp.pdb

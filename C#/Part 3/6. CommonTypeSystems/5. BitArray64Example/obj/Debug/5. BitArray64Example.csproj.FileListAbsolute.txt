@@ -1,1 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\5. BitArray64Example\bin\Debug\_5.BitArray64Example.exe.config

@@ -1,5 +1,0 @@
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.exe.config
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.pdb
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\obj\Debug\_5.DeclaringUniCodeValue72.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\obj\Debug\_5.DeclaringUniCodeValue72.pdb

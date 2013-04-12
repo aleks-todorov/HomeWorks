@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\bin\Debug\11.CreationOfAttribute.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\bin\Debug\11.CreationOfAttribute.exe
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\bin\Debug\11.CreationOfAttribute.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\obj\Debug\11.CreationOfAttribute.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\obj\Debug\11.CreationOfAttribute.exe
-D:\Google Drive\HomeWorks\C#\Part 3\2. DefiningClasses-Part2\11.CreationOfAttribute\obj\Debug\11.CreationOfAttribute.pdb

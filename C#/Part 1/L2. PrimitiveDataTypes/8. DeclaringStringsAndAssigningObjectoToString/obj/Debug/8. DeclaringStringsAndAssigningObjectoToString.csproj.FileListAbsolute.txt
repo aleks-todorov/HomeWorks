@@ -1,5 +1,0 @@
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\8. DeclaringStringsAndAssigningObjectoToString\bin\Debug\_8.DeclaringStringsAndAssigningObjectoToString.exe.config
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\8. DeclaringStringsAndAssigningObjectoToString\bin\Debug\_8.DeclaringStringsAndAssigningObjectoToString.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\8. DeclaringStringsAndAssigningObjectoToString\bin\Debug\_8.DeclaringStringsAndAssigningObjectoToString.pdb
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\8. DeclaringStringsAndAssigningObjectoToString\obj\Debug\_8.DeclaringStringsAndAssigningObjectoToString.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\8. DeclaringStringsAndAssigningObjectoToString\obj\Debug\_8.DeclaringStringsAndAssigningObjectoToString.pdb

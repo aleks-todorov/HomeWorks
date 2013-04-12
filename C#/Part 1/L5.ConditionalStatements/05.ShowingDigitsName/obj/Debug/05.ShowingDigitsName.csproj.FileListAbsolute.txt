@@ -1,8 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\05.ShowingDigitsName\bin\Debug\05.ShowingDigitsName.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\05.ShowingDigitsName\bin\Debug\05.ShowingDigitsName.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\05.ShowingDigitsName\bin\Debug\05.ShowingDigitsName.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\05.ShowingDigitsName\obj\Debug\05.ShowingDigitsName.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\05.ShowingDigitsName\obj\Debug\05.ShowingDigitsName.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\05.ShowingDigitsName\bin\Debug\05.ShowingDigitsName.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\05.ShowingDigitsName\obj\Debug\05.ShowingDigitsName.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\05.ShowingDigitsName\obj\Debug\05.ShowingDigitsName.pdb

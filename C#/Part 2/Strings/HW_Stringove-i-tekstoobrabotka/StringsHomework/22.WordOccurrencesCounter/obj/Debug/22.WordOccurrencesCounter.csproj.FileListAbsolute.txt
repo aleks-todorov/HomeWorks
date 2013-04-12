@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\22.WordOccurrencesCounter\bin\Debug\22.WordOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\22.WordOccurrencesCounter\bin\Debug\22.WordOccurrencesCounter.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\22.WordOccurrencesCounter\obj\Debug\22.WordOccurrencesCounter.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\22.WordOccurrencesCounter\obj\Debug\22.WordOccurrencesCounter.pdb

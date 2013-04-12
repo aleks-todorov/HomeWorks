@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\bin\Debug\_03.CustomException.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\obj\Debug\03. CustomException.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\bin\Debug\_03.CustomException.exe
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\bin\Debug\_03.CustomException.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\obj\Debug\_03.CustomException.exe
-D:\Google Drive\HomeWorks\C#\Part 3\5. OOP-Principles-Part-2\03. CustomException\obj\Debug\_03.CustomException.pdb

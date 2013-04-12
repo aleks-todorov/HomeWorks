@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\bin\Debug\09.PrintingFibonachiSequence.exe.config
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\bin\Debug\09.PrintingFibonachiSequence.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\bin\Debug\09.PrintingFibonachiSequence.pdb
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\obj\Debug\09.PrintingFibonacciSequence.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\obj\Debug\09.PrintingFibonachiSequence.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\09.PrintingFibonachiSequence\obj\Debug\09.PrintingFibonachiSequence.pdb

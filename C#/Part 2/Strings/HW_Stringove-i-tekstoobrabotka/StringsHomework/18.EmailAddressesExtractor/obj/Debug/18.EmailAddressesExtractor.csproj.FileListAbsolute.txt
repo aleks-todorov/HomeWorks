@@ -1,4 +1,0 @@
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\18.EmailAddressesExtractor\bin\Debug\18.EmailAddressesExtractor.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\18.EmailAddressesExtractor\bin\Debug\18.EmailAddressesExtractor.pdb
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\18.EmailAddressesExtractor\obj\Debug\18.EmailAddressesExtractor.exe
-C:\Users\Aleks\Desktop\HW_Stringove-i-tekstoobrabotka\StringsHomework\18.EmailAddressesExtractor\obj\Debug\18.EmailAddressesExtractor.pdb

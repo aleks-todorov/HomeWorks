@@ -1,9 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\8. CalculatingAgeDifference\bin\Release\_8.CalculatingAgeDifference.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\8. CalculatingAgeDifference\bin\Release\_8.CalculatingAgeDifference.pdb
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\8. CalculatingAgeDifference\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\8. CalculatingAgeDifference\obj\x86\Release\_8.CalculatingAgeDifference.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\8. CalculatingAgeDifference\obj\x86\Release\_8.CalculatingAgeDifference.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\8. CalculatingAgeDifference\bin\Release\_8.CalculatingAgeDifference.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\8. CalculatingAgeDifference\bin\Release\_8.CalculatingAgeDifference.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\8. CalculatingAgeDifference\obj\x86\Release\_8.CalculatingAgeDifference.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\8. CalculatingAgeDifference\obj\x86\Release\_8.CalculatingAgeDifference.pdb

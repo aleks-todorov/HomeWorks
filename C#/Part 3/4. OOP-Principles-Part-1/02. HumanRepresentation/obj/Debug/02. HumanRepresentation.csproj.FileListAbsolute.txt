@@ -1,6 +1,0 @@
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\obj\Debug\02. HumanRepresentation.csprojResolveAssemblyReference.cache
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\bin\Debug\_02.HumanRepresentation.exe.config
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\bin\Debug\_02.HumanRepresentation.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\bin\Debug\_02.HumanRepresentation.pdb
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\obj\Debug\_02.HumanRepresentation.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 3\4. OOP-Principles-Part-1\02. HumanRepresentation\obj\Debug\_02.HumanRepresentation.pdb

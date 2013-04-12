@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\06.SolvingQuadraticEquation\bin\Debug\06.SolvingQuadraticEquation.exe.config
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\06.SolvingQuadraticEquation\bin\Debug\06.SolvingQuadraticEquation.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\06.SolvingQuadraticEquation\bin\Debug\06.SolvingQuadraticEquation.pdb
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\06.SolvingQuadraticEquation\obj\Debug\06.SolvingQuadraticEquation.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\06.SolvingQuadraticEquation\obj\Debug\06.SolvingQuadraticEquation.pdb

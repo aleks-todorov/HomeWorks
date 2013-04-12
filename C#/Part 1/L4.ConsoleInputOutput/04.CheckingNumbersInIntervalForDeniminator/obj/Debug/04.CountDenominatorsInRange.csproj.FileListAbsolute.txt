@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\bin\Debug\04.CheckingNumbersInIntervalForDeniminator.exe.config
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\bin\Debug\04.CheckingNumbersInIntervalForDeniminator.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\bin\Debug\04.CheckingNumbersInIntervalForDeniminator.pdb
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\obj\Debug\04.CountDenominatorsInRange.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\obj\Debug\04.CheckingNumbersInIntervalForDeniminator.exe
-D:\Google Drive\HomeWorks\C#\L4.ConsoleInputOutput\04.CheckingNumbersInIntervalForDeniminator\obj\Debug\04.CheckingNumbersInIntervalForDeniminator.pdb

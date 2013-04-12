@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\2. AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\2. AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\2. AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG-OLD.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\2. AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\2. AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb

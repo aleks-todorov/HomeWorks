@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExamVol2\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

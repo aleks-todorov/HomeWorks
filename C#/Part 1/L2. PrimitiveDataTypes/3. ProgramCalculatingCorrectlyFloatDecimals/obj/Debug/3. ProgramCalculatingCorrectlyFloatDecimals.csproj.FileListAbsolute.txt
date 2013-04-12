@@ -1,6 +1,0 @@
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe.config
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\bin\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\3. ProgramCalculatingCorrectlyFloatDecimals.csprojResolveAssemblyReference.cache
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\3. ProgramCalculatingCorrectlyFloatDecimals\obj\Debug\_3.ProgramCalculatingCorrectlyFloatDecimals.pdb

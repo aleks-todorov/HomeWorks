@@ -1,9 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_3.PrintingMyName.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_3.PrintingMyName.pdb
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_3.PrintingMyName.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_3.PrintingMyName.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.exe.config
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.pdb
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\4. InitializingIntVariableInHex.csprojResolveAssemblyReference.cache
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\_4.InitializingIntVariableInHex.exe
-D:\Telerik\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\_4.InitializingIntVariableInHex.pdb

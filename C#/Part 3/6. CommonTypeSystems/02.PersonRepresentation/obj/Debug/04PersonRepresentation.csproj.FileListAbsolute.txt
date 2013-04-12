@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\obj\Debug\04PersonRepresentation.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\bin\Debug\02.PersonRepresentation.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\bin\Debug\02.PersonRepresentation.exe
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\bin\Debug\02.PersonRepresentation.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\obj\Debug\02.PersonRepresentation.exe
-D:\Google Drive\HomeWorks\C#\Part 3\6. CommonTypeSystems\02.PersonRepresentation\obj\Debug\02.PersonRepresentation.pdb

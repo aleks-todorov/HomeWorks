@@ -1,1 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\2. PrintingGoodDay\obj\x86\Debug\ResolveAssemblyReference.cache

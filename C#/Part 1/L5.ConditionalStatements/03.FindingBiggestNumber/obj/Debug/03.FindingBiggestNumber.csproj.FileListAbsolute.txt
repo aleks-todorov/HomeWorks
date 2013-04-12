@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\03.FindingBiggestNumber\bin\Debug\03.FindingBiggestNumber.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\03.FindingBiggestNumber\bin\Debug\03.FindingBiggestNumber.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\03.FindingBiggestNumber\bin\Debug\03.FindingBiggestNumber.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\03.FindingBiggestNumber\obj\Debug\03.FindingBiggestNumber.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\01.ComparingTwoIntegerValues\03.FindingBiggestNumber\obj\Debug\03.FindingBiggestNumber.pdb

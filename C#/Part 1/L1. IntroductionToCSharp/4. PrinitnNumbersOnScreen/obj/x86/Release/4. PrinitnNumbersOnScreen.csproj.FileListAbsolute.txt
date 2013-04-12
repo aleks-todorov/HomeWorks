@@ -1,9 +1,0 @@
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.pdb
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.exe
-C:\Users\todorale\Desktop\Coding\Telerik\HomeWorks\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.pdb
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.exe
-D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.pdb

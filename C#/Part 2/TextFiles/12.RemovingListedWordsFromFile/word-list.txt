@@ -1,6 +1,0 @@
-start
-Lorem
-Aenean
-Sed
-dignissim
-Praesent

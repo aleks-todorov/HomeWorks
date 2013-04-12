@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\bin\Debug\02.ExtensionMethodsForIEnumerable.exe.config
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\bin\Debug\02.ExtensionMethodsForIEnumerable.exe
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\bin\Debug\02.ExtensionMethodsForIEnumerable.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\obj\Debug\02.ExtensionMethodsForIEnumerable.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\obj\Debug\02.ExtensionMethodsForIEnumerable.exe
-D:\Google Drive\HomeWorks\C#\Part 3\3. ExtensionMethods\02.ExtensionMethodsForIEnumerable\obj\Debug\02.ExtensionMethodsForIEnumerable.pdb

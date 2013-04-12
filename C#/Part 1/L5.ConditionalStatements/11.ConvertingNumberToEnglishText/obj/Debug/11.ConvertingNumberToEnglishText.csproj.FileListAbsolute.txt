@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\bin\Debug\11.ConvertingNumberToEnglishText.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\bin\Debug\11.ConvertingNumberToEnglishText.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\bin\Debug\11.ConvertingNumberToEnglishText.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\obj\Debug\11.ConvertingNumberToEnglishText.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\obj\Debug\11.ConvertingNumberToEnglishText.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\11.ConvertingNumberToEnglishText\obj\Debug\11.ConvertingNumberToEnglishText.pdb

@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\bin\Debug\10.AddingBonusToScore.exe.config
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\bin\Debug\10.AddingBonusToScore.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\bin\Debug\10.AddingBonusToScore.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\obj\Debug\10.AddingBonusToScore.exe
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\obj\Debug\10.AddingBonusToScore.pdb
-D:\Google Drive\HomeWorks\C#\L5.ConditionalStatements\10.AddingBonusToScore\obj\Debug\10.AddingBonusToScore.csprojResolveAssemblyReference.cache

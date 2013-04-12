@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\1. Software Academy\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\1. Software Academy\bin\Debug\SoftwareAcademy.exe
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\1. Software Academy\bin\Debug\SoftwareAcademy.pdb
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\1. Software Academy\obj\Debug\SoftwareAcademy.exe
-D:\Google Drive\HomeWorks\C#\Part 3\OOP-Exam\1. Software Academy\obj\Debug\SoftwareAcademy.pdb
