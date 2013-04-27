@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CSS Query Selector for Older Browsers</title>
+    <script src="sizzle.js"></script>
+</head>
+<body>
+    <section id="content">
+        <div class="innerDivs" id="firstDiv">First div</div>
+        <div class="innerDivs" id="secondDiv">Second Div</div>
+        <div class="innerDivs" id="thirdDiv">Third Div</div>
+        <div class="innerDivs" id="fourthDiv">Fourth Div</div>
+    </section>
+    <script>
+        //Task: Write a script that shims querySelector and querySelectorAll in older browsers
+
+        /*As suggested in: 
+        http://stackoverflow.com/questions/11503534/jquery-vs-document-queryselectorall
+
+        I have used Sizzle lib. 
+        For the purpose of this demo only "content" and "innerDivs" can be used as searching parameters. 
+        */
+
+        var tags = Sizzle(".innerDivs");
+        console.log(tags);
+        for (var i = 0; i < tags.length; i++) {
+            console.log("Tag name: " + tags[i].tagName + " Class: " + tags[i].className + " ID: " + tags[i].id);
+        }
+    </script>
+</body>
+</html>

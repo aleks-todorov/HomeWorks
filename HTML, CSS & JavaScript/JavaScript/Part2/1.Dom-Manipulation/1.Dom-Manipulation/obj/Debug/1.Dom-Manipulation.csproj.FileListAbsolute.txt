@@ -1,0 +1,10 @@
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\bin\1.Dom-Manipulation.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\bin\1.Dom-Manipulation.pdb
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\bin\1.Dom-Manipulation.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\bin\1.Dom-Manipulation.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\1.Dom-Manipulation\1.Dom-Manipulation\obj\Debug\1.Dom-Manipulation.pdb

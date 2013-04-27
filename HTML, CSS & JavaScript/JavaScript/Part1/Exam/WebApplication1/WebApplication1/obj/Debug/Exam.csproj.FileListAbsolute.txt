@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Exam\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Exam\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Exam\WebApplication1\WebApplication1\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Exam\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Exam\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

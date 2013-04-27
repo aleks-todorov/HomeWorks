@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Creating Tag Cloud</title>
+    <style>
+        #container
+        {
+            width: 250px;
+            height: 250px;
+            border: 2px solid black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        var container = document.getElementById("container");
+        var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"]
+        //Not the best way to sort Array, but for the purpose of this task, sorting lexicographically is ok since the tags are strings. 
+        tags.sort();
+        var tagCloud = generateTagCloud(tags, 17, 42);
+
+        function generateTagCloud(tags, minSize, maxSize) {
+            var tagsInfoArray = {};
+            var maxFrequency = 1;
+            var minFontSize = minSize;
+            var maxFontSize = maxSize;
+            for (var element in tags) {
+                if (tagsInfoArray[tags[element]]) {
+                    tagsInfoArray[tags[element]]++;
+
+                    if (maxFrequency < tagsInfoArray[tags[element]]) {
+                        maxFrequency = tagsInfoArray[tags[element]];
+                    }
+                }
+                else {
+                    tagsInfoArray[tags[element]] = 1;
+                }
+            }
+
+            for (var tag in tagsInfoArray) {
+                var tagElement = document.createElement("span");
+                var text = document.createTextNode(tag + " ");
+                tagElement.appendChild(text);
+
+                if (maxFrequency == 1) {
+                    tagElement.style.fontSize = maxFontSize + "px";
+                }
+                else if (tagsInfoArray[tag] == 1) {
+                    tagElement.style.fontSize = minFontSize + "px";
+                }
+                else {
+                    tagElement.style.fontSize = ((maxFontSize - minFontSize) / (tagsInfoArray[tag] - 1) + minFontSize) + "px";
+                }
+
+                container.appendChild(tagElement);
+            }
+        }
+    </script>
+</body>
+</html>

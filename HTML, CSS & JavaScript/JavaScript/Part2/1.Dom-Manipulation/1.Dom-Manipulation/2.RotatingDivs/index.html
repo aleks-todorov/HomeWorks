@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        /* TASK: Write a script that creates 5 div elements and moves them in circular path with interval of 100 milliseconds*/
+
+        var divCount = 5;
+        var currentAngle = 0;
+        var radius = 100;
+        var wrapper = document.createElement("div");
+        var divsList = new Array();
+        var divsLocationAngle = (Math.PI * 2) / divCount;
+        wrapper.classList.add("wrapper");
+        document.body.appendChild(wrapper);
+
+        for (var i = 0; i < divCount; i++) {
+            createDiv(wrapper);
+        }
+
+        setInterval(rotateDivs, 100);
+
+        function createDiv(wrapper) {
+            var x = 200 + Math.cos(currentAngle) * radius;
+            var y = 200 + Math.sin(currentAngle) * radius;
+            var generatedDiv = document.createElement("div");
+            generatedDiv.classList.add("rotatingDiv");
+            wrapper.appendChild(generatedDiv);
+            generatedDiv.style.width = "50px";
+            generatedDiv.style.height = "50px";
+            generatedDiv.style.borderRadius = "25px"
+            generatedDiv.style.backgroundColor = randomColorGenerator();
+            generatedDiv.style.position = "absolute";
+            generatedDiv.style.top = y + "px";
+            generatedDiv.style.left = x + "px";
+            divsList.push(generatedDiv);
+            currentAngle += divsLocationAngle;
+        }
+
+        function rotateDivs() {
+            for (var i = 0; i < divsList.length; i++) {
+                x = 200 + Math.cos(currentAngle) * radius;
+                y = 200 + Math.sin(currentAngle) * radius;
+                divsList[i].style.top = y + "px";
+                divsList[i].style.left = x + "px";
+                currentAngle += divsLocationAngle;
+            }
+
+            currentAngle += 0.1;
+        }
+
+        function randomColorGenerator() {
+            var letters = '0123456789ABCDEF'.split('');
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.round(Math.random() * 15)];
+            }
+
+            return color;
+        }
+
+    </script>
+</body>
+</html>

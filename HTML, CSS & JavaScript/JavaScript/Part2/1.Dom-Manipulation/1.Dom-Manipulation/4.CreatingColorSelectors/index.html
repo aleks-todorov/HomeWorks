@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Changing Font Color and Background Color</title>
+</head>
+<body>
+    <label for="fontcolor">Font Color: </label>
+    <input type="color" id="fontColor" name="fontColor" onchange="changeFontColor()" />
+    <br />
+    <label for="backgroundColor">Background Color: </label>
+    <input type="color" id="backgroundColor" name="backgroundColor" onchange="changeBackgroundColor()" />
+    <hr />
+    <div id="testArea">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+    <script>
+        /* Task: Create a text area and two inputs with type="color"
+        Make the font color of the text area as the value of the first color input
+        Make the background color of the text area as the value of the second input
+        */
+        function changeBackgroundColor() {
+            var testArea = document.getElementById("testArea");
+            var backgroundColor = document.getElementById("backgroundColor").value;
+            testArea.style.backgroundColor = backgroundColor;
+        }
+
+        function changeFontColor() {
+            var testArea = document.getElementById("testArea");
+            var fontColor = document.getElementById("fontColor").value;
+            testArea.style.color = fontColor;
+        }
+
+    </script>
+</body>
+</html>
