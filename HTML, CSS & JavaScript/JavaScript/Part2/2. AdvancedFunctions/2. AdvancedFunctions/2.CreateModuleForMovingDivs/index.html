@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Creating Module for Moving Shapes</title>
+    <style>
+        #wrapper
+        {
+            padding: 100px;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <input type="button" onclick="AddRotatingDiv()" value="Add divs with circular moving pattern" />
+    <input type="button" onclick="AddRectMovingDiv()" value="Add divs with rectangular moving pattern" />
+    <div id="wrapper"></div>
+    <script>
+        //Task 2: 
+        //Create a module that works with moving div elements. Implement functionality for:
+        //Add new moving div element to the DOM
+        //The module should generate random background, font and border colors
+        //All the div elements are with the same width and height
+        //The movements of the div elements can be either circular or rectangular
+        //The elements should be moving all the time
+
+        var movingShapes = (function () {
+
+            var currentAngle = 0;
+            var cirklingRadius = 100;
+            var circlingDivs = new Array();
+            var cirklingDivsLocationAngle;
+            var rectDivs = new Array();
+            var circleDivRadius = 150;
+            var rectDivLeftPosition = 500;
+            var rectDivTopPosition = 100;
+            var maxRectCoordinates = { x: 900, y: 300 };
+            var wrapper = document.getElementById("wrapper");
+            setInterval(rotateDivs, 100);
+            setInterval(moveRectDiv, 100);
+
+            //Declaration of some Help Functions for generating random color and number
+
+            function randomColorGenerator() {
+                var letters = '0123456789ABCDEF'.split('');
+                var color = '#';
+                for (var i = 0; i < 6; i++) {
+                    color += letters[Math.round(Math.random() * 15)];
+                }
+
+                return color;
+            }
+
+            function randomNumberGenerator(minValue, maxValue) {
+                var random = Math.floor((Math.random() * maxValue) + minValue);
+                return random;
+            }
+
+            function createDiv(movingPattern) {
+
+                var generatedDiv = document.createElement("div");
+                generatedDiv.classList.add("rotatingDiv");
+                wrapper.appendChild(generatedDiv);
+                generatedDiv.style.width = "50px";
+                generatedDiv.style.height = "50px";
+                generatedDiv.style.borderWidth = "3px";
+                generatedDiv.style.borderColor = randomColorGenerator();
+                generatedDiv.style.backgroundColor = randomColorGenerator();
+                generatedDiv.style.borderStyle = "solid";
+                generatedDiv.style.position = "absolute";
+
+                if (movingPattern === "circular") {
+                    var x = 200 + Math.cos(currentAngle) * cirklingRadius;
+                    var y = 200 + Math.sin(currentAngle) * cirklingRadius;
+                    generatedDiv.style.borderRadius = "25px"
+                    circlingDivs.push(generatedDiv);
+                    cirklingDivsLocationAngle = (Math.PI * 2) / circlingDivs.length;
+                    currentAngle += cirklingDivsLocationAngle;
+                    if (currentAngle > 360) {
+                        currentAngle = 0;
+                    }
+                }
+
+                else if (movingPattern === "rect") {
+                    var x = rectDivLeftPosition;
+                    var y = rectDivTopPosition;
+                    rectDivs.push({ element: generatedDiv, coordinates: { x: rectDivLeftPosition, y: rectDivTopPosition }, direction: "R" });
+                }
+
+                generatedDiv.style.top = y + "px";
+                generatedDiv.style.left = x + "px";
+            }
+
+            function rotateDivs() {
+                for (var i = 0; i < circlingDivs.length; i++) {
+                    x = 200 + Math.cos(currentAngle) * cirklingRadius;
+                    y = 200 + Math.sin(currentAngle) * cirklingRadius;
+                    circlingDivs[i].style.top = y + "px";
+                    circlingDivs[i].style.left = x + "px";
+                    currentAngle += cirklingDivsLocationAngle;
+                }
+
+                currentAngle += 0.1;
+            }
+
+            function moveRectDiv() {
+                for (var i = 0; i < rectDivs.length; i++) {
+                    if (rectDivs[i].direction == "R" && rectDivs[i].coordinates.x >= maxRectCoordinates.x) {
+                        rectDivs[i].direction = "B";
+                    }
+                    else if (rectDivs[i].direction == "B" && rectDivs[i].coordinates.y >= maxRectCoordinates.y) {
+                        rectDivs[i].direction = "L";
+                    }
+                    else if (rectDivs[i].direction == "L" && rectDivs[i].coordinates.x <= rectDivLeftPosition) {
+                        rectDivs[i].direction = "T";
+                    }
+                    else if (rectDivs[i].direction == "T" && rectDivs[i].coordinates.y <= rectDivTopPosition) {
+                        rectDivs[i].direction = "R";
+                    }
+                    if (rectDivs[i].direction == "R") {
+                        rectDivs[i].coordinates.x += 10;
+                    }
+                    else if (rectDivs[i].direction == "B") {
+                        rectDivs[i].coordinates.y += 10;
+                    }
+                    else if (rectDivs[i].direction == "L") {
+                        rectDivs[i].coordinates.x -= 10;
+                    }
+                    else if (rectDivs[i].direction == "T") {
+                        rectDivs[i].coordinates.y -= 10;
+                    }
+                    rectDivs[i].element.style.position = 'absolute';
+                    rectDivs[i].element.style.left = rectDivs[i].coordinates.x + 'px';
+                    rectDivs[i].element.style.top = rectDivs[i].coordinates.y + 'px';
+                }
+            }
+
+            function add(movementPattern) {
+                createDiv(movementPattern);
+            }
+
+            return {
+                add: add
+            }
+
+        })();
+
+        function AddRotatingDiv() {
+            movingShapes.add("circular");
+        }
+
+        function AddRectMovingDiv() {
+            movingShapes.add("rect");
+        }
+
+    </script>
+</body>
+</html>

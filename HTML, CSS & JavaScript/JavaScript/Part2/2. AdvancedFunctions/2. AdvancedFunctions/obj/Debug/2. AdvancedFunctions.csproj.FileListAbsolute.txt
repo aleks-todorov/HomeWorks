@@ -1,0 +1,10 @@
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\bin\_2.AdvancedFunctions.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\bin\_2.AdvancedFunctions.pdb
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\2. AdvancedFunctions.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\_2.AdvancedFunctions.dll
+C:\Users\todorale\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\_2.AdvancedFunctions.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\bin\_2.AdvancedFunctions.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\bin\_2.AdvancedFunctions.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\2. AdvancedFunctions.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\_2.AdvancedFunctions.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\2. AdvancedFunctions\2. AdvancedFunctions\obj\Debug\_2.AdvancedFunctions.pdb

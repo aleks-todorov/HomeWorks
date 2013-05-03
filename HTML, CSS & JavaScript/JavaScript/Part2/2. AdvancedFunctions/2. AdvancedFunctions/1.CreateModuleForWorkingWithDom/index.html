@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Creating Module for working with DOM</title>
+</head>
+<body>
+    <nav id="main-nav">
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+    </nav>
+    <div id="container">
+    </div>
+    <section id="wrapper">
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li><a class="button">Button1</a></li>
+            <li><a class="button">Button2</a></li>
+            <li>Item 5</li>
+            <li><a class="button">Button3</a></li>
+        </ul>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li><a class="button">Button1</a></li>
+            <li><a class="button">Button2</a></li>
+        </ul>
+    </section>
+    <script>
+
+        //Task 1: 
+        //Create a module for working to work with DOM. The module should have the following functionality
+        //Add element to parent element by given selector
+        //Remove element from the DOM  by given selector
+        //Attach event to given selector by given event type and event hander
+        //Add elements to buffer, which appends them to the DOM when their for some selector count becomes 100
+        //The buffer contains elements for each selector it gets
+        //Get elements by CSS selector
+        //The module should reveal only the methods
+
+        var domModule = (function () {
+            var wrapper = document.getElementById("wrapper");
+            var elementsInBuffer = [];
+            var MAX_BUFFER_LENGTH = 100;
+
+            //Declaration of some Help Functions for selecting DOM Elements by CSS selectors
+            function getElementBySelector(selector) {
+                var element = document.querySelector(selector);
+                return element;
+            }
+
+            function getElementsBySelector(selector) {
+                var elements = document.querySelectorAll(selector);
+                return elements;
+            }
+
+            //Implementing logic of the domModule
+            function appendChild(child, selector) {
+                var parent = getElementBySelector(selector);
+                parent.appendChild(child);
+            }
+
+            function removeChild(parent, selector) {
+                var elementsToBeRemoved = getElementsBySelector(parent + " " + selector);
+                for (var i = 0; i < elementsToBeRemoved.length; i++) {
+                    wrapper = elementsToBeRemoved[i].parentNode;
+                    wrapper.removeChild(elementsToBeRemoved[i]);
+                }
+            }
+
+            function addHandler(selector, eventType, eventHandler) {
+                var elements = getElementsBySelector(selector);
+                for (var i = 0; i < elements.length; i++) {
+                    if (elements[i].addEventListener) {
+                        elements[i].addEventListener(eventType, eventHandler, false);
+                    } else {
+                        element[i].attachEvent("on" + eventType, eventHandler);
+                    }
+                }
+            }
+
+            //Using the information provided in: http://ejohn.org/blog/dom-documentfragments/ this functionality is done by
+            // DocumentFragment and not by normal appending.
+            function appendToBuffer(selector, element) {
+                if (!elementsInBuffer[selector]) {
+                    elementsInBuffer[selector] = document.createDocumentFragment();
+                }
+
+                elementsInBuffer[selector].appendChild(element);
+                if (elementsInBuffer[selector].childNodes.length == MAX_BUFFER_LENGTH) {
+                    var parent = getElement(selector);
+                    parent.appendChild(elementsInBuffer[selector]);
+                    elementsInBuffer[selector] = null;
+                }
+            }
+
+            function appendAllElementsFromBuffer() {
+                for (var selector in elementsInBuffer) {
+                    var parent = getElementBySelector(selector);
+                    parent.appendChild(elementsInBuffer[selector]);
+                    elementsInBuffer[selector] = null;
+                }
+            }
+
+            return {
+                appendChild: appendChild,
+                removeChild: removeChild,
+                addHandler: addHandler,
+                appendToBuffer: appendToBuffer,
+                appendAllElementsFromBuffer: appendAllElementsFromBuffer
+            }
+        })();
+
+        //Generated Tests showing domModule functionality
+        var div = document.createElement("div");
+        domModule.appendChild(div, "#wrapper");
+        domModule.removeChild("ul", "li:first-child");
+        domModule.addHandler("a.button", 'click', function () { alert("Clicked") });
+        domModule.appendToBuffer("#container", div.cloneNode(true));
+        var navItem = document.createElement("li");
+        navItem.innerHTML = "navItem";
+        domModule.appendToBuffer("#main-nav ul", navItem);
+        domModule.appendAllElementsFromBuffer();
+    </script>
+</body>
+</html>
