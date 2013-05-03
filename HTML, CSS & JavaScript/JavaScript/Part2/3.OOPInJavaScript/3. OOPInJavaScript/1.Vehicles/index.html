@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 1 from JS OOP Homework - Creating Vehicle</title>
+    <script src="vehicle.js"></script>
+</head>
+<body>
+    <script>
+        //Tests: 
+        var wheels = [
+        new VehicleNS.Wheel(14),
+        new VehicleNS.Wheel(14),
+        new VehicleNS.Wheel(14),
+        new VehicleNS.Wheel(14)
+        ];
+        var car = new VehicleNS.LandVehicle(120, wheels);
+        console.log(car);
+        console.log("Speed: " + car.speed);
+        car.accelerate();
+        console.log("Speed after acceleration: " + car.speed);
+
+        var nozzle = new VehicleNS.PropellingNozzle(250);
+        var airPlane = new VehicleNS.AirVehicle(1512, nozzle);
+        console.log(airPlane);
+        console.log("Speed: " + airPlane.speed);
+        //TO FIX: throws exception and accelerate does not work
+        //airPlane.switchAfterBurnersOn();
+        //airPlane.accelerate();
+        //console.log("Speed after acceleration: " + airPlane.speed);
+
+        var proppler = new VehicleNS.Propeller(120);
+        var lilTitanik = new VehicleNS.WaterVehicle(120, proppler);
+        console.log(lilTitanik);
+        console.log("Speed: " + lilTitanik.speed);
+        //TO FIX: accelerate does not work
+        //car.accelerate();
+        //console.log("Speed after acceleration: " + lilTitanik.speed);
+
+        var ampibia = new VehicleNS.AmphibiousVehicle(100, wheels, proppler);
+        console.log(ampibia);
+        console.log("Speed: " + ampibia.speed);
+        ampibia.changeTerainToWater();
+        console.log(ampibia); 
+    </script>
+</body>
+</html>
