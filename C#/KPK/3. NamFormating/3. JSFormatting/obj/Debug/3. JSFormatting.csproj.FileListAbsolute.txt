@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\3. JSFormatting\bin\_3.JSFormatting.dll
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\3. JSFormatting\bin\_3.JSFormatting.pdb
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\3. JSFormatting\obj\Debug\3. JSFormatting.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\3. JSFormatting\obj\Debug\_3.JSFormatting.dll
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\3. JSFormatting\obj\Debug\_3.JSFormatting.pdb

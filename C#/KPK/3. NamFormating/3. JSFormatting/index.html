@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body onload="checkBrowser()">
+
+    <script>
+        function checkBrowser(event, args) {
+            var myWindow = window;
+            var browser = myWindow.navigator.appCodeName;
+            var isMozzila = false;
+            if (browser === "Mozilla") {
+                isMozzila = true;
+            }
+
+            if (isMozzila) {
+                alert("Yes");
+            }
+            else {
+                alert("No");
+            }
+        }
+    </script>
+</body>
+</html>

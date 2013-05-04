@@ -1,0 +1,5 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\KPK\3. Naming\bin\Debug\Minesweeper.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\KPK\3. Naming\bin\Debug\Minesweeper.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\KPK\3. Naming\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\KPK\3. Naming\obj\Debug\Minesweeper.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\KPK\3. Naming\obj\Debug\Minesweeper.pdb

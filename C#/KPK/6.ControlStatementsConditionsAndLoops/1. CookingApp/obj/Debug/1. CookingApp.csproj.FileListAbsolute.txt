@@ -1,0 +1,2 @@
+D:\Google Drive\HomeWorks\C#\KPK\7.ControlStatementsConditionsAndLoops\1. CookingApp\bin\Debug\_1.CookingApp.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\7.ControlStatementsConditionsAndLoops\1. CookingApp\obj\Debug\1. CookingApp.csprojResolveAssemblyReference.cache

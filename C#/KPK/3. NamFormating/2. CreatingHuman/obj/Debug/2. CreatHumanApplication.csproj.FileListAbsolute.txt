@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\2. CreatingHuman\bin\Debug\_2.CreatingHuman.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\2. CreatingHuman\bin\Debug\_2.CreatingHuman.exe
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\2. CreatingHuman\bin\Debug\_2.CreatingHuman.pdb
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\2. CreatingHuman\obj\Debug\_2.CreatingHuman.exe
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\2. CreatingHuman\obj\Debug\_2.CreatingHuman.pdb

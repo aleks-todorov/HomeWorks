@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\obj\Debug\2. PrintingStatistics.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\bin\Debug\_2.PrintingStatistics.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\bin\Debug\_2.PrintingStatistics.exe
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\bin\Debug\_2.PrintingStatistics.pdb
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\obj\Debug\_2.PrintingStatistics.exe
+D:\Google Drive\HomeWorks\C#\KPK\6.UsingVariablesDataExpressionsAndConstants\2. PrintingStatistics\obj\Debug\_2.PrintingStatistics.pdb

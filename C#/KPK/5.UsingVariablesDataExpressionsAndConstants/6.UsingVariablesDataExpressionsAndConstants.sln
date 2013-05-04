@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. MathExpressionRefactoring", "1. MathExpressionRefactoring\1. MathExpressionRefactoring.csproj", "{9BB3E426-BD98-4542-84A1-77F5284877AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PrintingStatistics", "2. PrintingStatistics\2. PrintingStatistics.csproj", "{1EC62621-61D5-4DF0-9DA9-76A85EEA0420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB3E426-BD98-4542-84A1-77F5284877AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB3E426-BD98-4542-84A1-77F5284877AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB3E426-BD98-4542-84A1-77F5284877AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB3E426-BD98-4542-84A1-77F5284877AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC62621-61D5-4DF0-9DA9-76A85EEA0420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC62621-61D5-4DF0-9DA9-76A85EEA0420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC62621-61D5-4DF0-9DA9-76A85EEA0420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC62621-61D5-4DF0-9DA9-76A85EEA0420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

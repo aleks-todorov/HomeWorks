@@ -1,0 +1,2 @@
+D:\Google Drive\HomeWorks\C#\KPK\5. Code Documentation and Comments\5. Code Documentation and Comments\bin\Debug\_5.Code_Documentation_and_Comments.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\5. Code Documentation and Comments\5. Code Documentation and Comments\obj\Debug\5. Code Documentation and Comments.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\bin\Debug\Minesweeper.exe
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\bin\Debug\Minesweeper.pdb
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\obj\Debug\Minesweeper.exe
+D:\Google Drive\HomeWorks\C#\KPK\3. Naming\obj\Debug\Minesweeper.pdb

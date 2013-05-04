@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb

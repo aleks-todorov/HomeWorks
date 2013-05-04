@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

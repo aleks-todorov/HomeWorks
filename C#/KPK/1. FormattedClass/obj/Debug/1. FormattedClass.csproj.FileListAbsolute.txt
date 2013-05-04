@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\obj\Debug\1. FormattedClass.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\bin\Debug\_1.FormattedClass.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\bin\Debug\_1.FormattedClass.exe
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\bin\Debug\_1.FormattedClass.pdb
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\obj\Debug\_1.FormattedClass.exe
+D:\Google Drive\HomeWorks\C#\KPK\1. FormattedClass\obj\Debug\_1.FormattedClass.pdb

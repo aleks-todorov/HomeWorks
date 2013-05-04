@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Google Drive\HomeWorks\C#\KPK\8. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
