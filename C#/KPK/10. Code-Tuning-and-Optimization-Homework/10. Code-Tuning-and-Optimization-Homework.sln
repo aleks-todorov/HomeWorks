@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. SolarSystem", "1. SolarSystem.csproj", "{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ComparePerformanceOfSimpleMathOperations", "2.ComparePerformanceOfSimpleMathOperations\2.ComparePerformanceOfSimpleMathOperations.csproj", "{5F73FA51-2BA3-49A8-A706-56D3B467B59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. ComparePerformanceOfComplicatedMathOperations", "3. ComparePerformanceOfComplicatedMathOperations\3. ComparePerformanceOfComplicatedMathOperations.csproj", "{8B59AB5E-7DB6-4C7E-8F2A-6BA687010B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F73FA51-2BA3-49A8-A706-56D3B467B59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F73FA51-2BA3-49A8-A706-56D3B467B59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F73FA51-2BA3-49A8-A706-56D3B467B59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F73FA51-2BA3-49A8-A706-56D3B467B59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B59AB5E-7DB6-4C7E-8F2A-6BA687010B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B59AB5E-7DB6-4C7E-8F2A-6BA687010B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B59AB5E-7DB6-4C7E-8F2A-6BA687010B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B59AB5E-7DB6-4C7E-8F2A-6BA687010B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

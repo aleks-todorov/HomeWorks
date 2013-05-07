@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\9. Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\Google Drive\HomeWorks\C#\KPK\9. Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\Google Drive\HomeWorks\C#\KPK\9. Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\9. Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\Google Drive\HomeWorks\C#\KPK\9. Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

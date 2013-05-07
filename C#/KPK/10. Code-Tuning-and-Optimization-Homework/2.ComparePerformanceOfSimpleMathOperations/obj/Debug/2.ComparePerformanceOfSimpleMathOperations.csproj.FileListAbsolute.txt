@@ -1,0 +1,12 @@
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.pdb
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.pdb
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\bin\Debug\2.ComparePerformanceOfSimpleMathOperations.pdb
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\2.ComparePerformanceOfSimpleMathOperations\obj\Debug\2.ComparePerformanceOfSimpleMathOperations.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\bin\Debug\_3.ComparePerformanceOfComplicatedMathOperations.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\obj\Debug\3. ComparePerformanceOfComplicatedMathOperations.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\bin\Debug\_3.ComparePerformanceOfComplicatedMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\bin\Debug\_3.ComparePerformanceOfComplicatedMathOperations.pdb
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\obj\Debug\_3.ComparePerformanceOfComplicatedMathOperations.exe
+D:\Google Drive\HomeWorks\C#\KPK\10. Code-Tuning-and-Optimization-Homework\3. ComparePerformanceOfComplicatedMathOperations\obj\Debug\_3.ComparePerformanceOfComplicatedMathOperations.pdb
