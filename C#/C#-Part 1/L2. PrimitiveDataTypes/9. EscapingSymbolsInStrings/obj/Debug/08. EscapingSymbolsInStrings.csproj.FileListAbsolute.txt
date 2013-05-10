@@ -3,3 +3,8 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\obj\Debug\_9.EscapingSymbolsInStrings.pdb
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\obj\Debug\_9.EscapingSymbolsInStrings.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\obj\Debug\_9.EscapingSymbolsInStrings.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\9. EscapingSymbolsInStrings\bin\Debug\_9.EscapingSymbolsInStrings.pdb

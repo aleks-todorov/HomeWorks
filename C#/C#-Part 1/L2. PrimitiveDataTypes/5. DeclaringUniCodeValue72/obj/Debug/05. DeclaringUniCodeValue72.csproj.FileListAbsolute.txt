@@ -8,3 +8,8 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\o
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\obj\Debug\_5.DeclaringUniCodeValue72.pdb
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\obj\Debug\_5.DeclaringUniCodeValue72.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\obj\Debug\_5.DeclaringUniCodeValue72.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\5. DeclaringUniCodeValue72\bin\Debug\_5.DeclaringUniCodeValue72.pdb

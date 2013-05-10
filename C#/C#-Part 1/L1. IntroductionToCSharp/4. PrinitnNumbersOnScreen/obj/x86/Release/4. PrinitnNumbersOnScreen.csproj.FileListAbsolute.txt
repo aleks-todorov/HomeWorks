@@ -7,3 +7,5 @@ D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.pdb
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.exe
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\bin\Release\_4.PrinitnNumbersOnScreen.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\4. PrinitnNumbersOnScreen\obj\x86\Release\_4.PrinitnNumbersOnScreen.pdb

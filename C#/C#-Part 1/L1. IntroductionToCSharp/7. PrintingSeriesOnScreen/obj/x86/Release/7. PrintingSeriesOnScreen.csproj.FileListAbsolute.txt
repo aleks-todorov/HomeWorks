@@ -7,3 +7,5 @@ D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\R
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\bin\Release\_7.PrintingSeriesOnScreen.pdb
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.exe
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\7. PrintingSeriesOnScreen\obj\x86\Release\_7.PrintingSeriesOnScreen.pdb

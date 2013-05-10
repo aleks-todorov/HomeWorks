@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Drawing with Canvas</title>
+    <style>
+        html, body, canvas
+        {
+            margin: 0;
+            padding: 0;
+        }
+
+        #canvas
+        {
+            background-color: #414141;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas" width="900" height="500">Text to be shown if Canvas element is not supported!
+    </canvas>
+    <script type="text/ecmascript">
+
+        //Drawings are not pixel perfect,since it was not the request. It was fun though :D 
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+
+        //Building the house
+        ctx.fillStyle = "#AA5B5B";
+        ctx.strokeStyle = "#AA5B5B";
+        ctx.lineWidth = 3;
+
+        ctx.fillRect(500, 250, 270, 200);
+        ctx.clearRect(520, 275, 90, 64);
+        ctx.clearRect(650, 275, 90, 64);
+        ctx.clearRect(650, 360, 90, 64);
+        ctx.beginPath();
+        ctx.moveTo(515, 307);
+        ctx.lineTo(750, 307);
+        ctx.moveTo(695, 275);
+        ctx.lineTo(695, 450);
+        ctx.moveTo(565, 275);
+        ctx.lineTo(565, 350);
+        ctx.moveTo(650, 390);
+        ctx.lineTo(750, 390);
+        ctx.stroke();
+
+        //Drawing the door
+        ctx.beginPath();
+        ctx.strokeStyle = "#000";
+        ctx.moveTo(530, 450);
+        ctx.lineTo(530, 395);
+        ctx.moveTo(600, 450);
+        ctx.lineTo(600, 395);
+        ctx.arc(565, 400, 35, 0, Math.PI, true);
+        ctx.moveTo(565, 450);
+        ctx.lineTo(565, 365);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.arc(545, 415, 5, 0, 2 * Math.PI, true);
+        ctx.moveTo(590, 415)
+        ctx.arc(585, 415, 5, 0, 2 * Math.PI, true);
+        ctx.stroke();
+
+        //Drawing the roof
+        ctx.beginPath();
+        ctx.strokeStyle = "#000";
+        ctx.moveTo(500, 248);
+        ctx.lineTo(770, 248);
+        ctx.lineTo(635, 100);
+        ctx.lineTo(500, 248);
+        ctx.fill();
+
+        //Drawing the chimney
+        ctx.strokeStyle = "#000";
+        ctx.strokeRect(698, 138, 29, 75);
+        ctx.fillRect(700, 140, 25, 80)
+        ctx.beginPath();
+        ctx.moveTo(700, 140);
+        drawEllipseByCenter(ctx, 713, 137, 29, 10);
+        ctx.stroke();
+        ctx.fill();
+
+        //Drawing the Bicycle
+        ctx.fillStyle = "#6FCBD9";
+        ctx.strokeStyle = "#008FA4";
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+
+        //Drawing tires
+        ctx.arc(100, 430, 50, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.fill();
+        ctx.beginPath();
+        ctx.arc(300, 430, 50, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.fill();
+
+        //Drawing the frame
+        ctx.beginPath();
+        ctx.moveTo(100, 430);
+        ctx.lineTo(200, 430); //Create circle afterwars
+        ctx.lineTo(270, 340);
+        ctx.moveTo(300, 430);
+        ctx.lineTo(250, 290);
+        ctx.lineTo(275, 255);
+        ctx.moveTo(250, 290);
+        ctx.lineTo(205, 300);
+        ctx.moveTo(200, 430);
+        ctx.lineTo(125, 300);
+        ctx.moveTo(90, 300);
+        ctx.lineTo(160, 300);
+        ctx.moveTo(100, 430);
+        ctx.lineTo(150, 340);
+        ctx.lineTo(270, 340);
+        ctx.moveTo(200, 430);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.arc(200, 430, 15, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.moveTo(186, 422);
+        ctx.lineTo(170, 410);
+        ctx.moveTo(212, 438);
+        ctx.lineTo(228, 450);
+        ctx.stroke();
+
+        //Creating the head
+        ctx.beginPath();
+        ctx.arc(180, 185, 60, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.fill();
+
+        //Drawing the hat
+        ctx.fillStyle = "#006696";
+        ctx.strokeStyle = "#000";
+        ctx.beginPath();
+        drawEllipse(ctx, 110, 120, 130, 30);
+        ctx.stroke();
+        ctx.fill();
+        ctx.beginPath();
+        drawEllipse(ctx, 150, 109, 60, 30);
+        ctx.stroke();
+        ctx.fill();
+        ctx.beginPath();
+        ctx.fillRect(149, 80, 61, 40);
+        ctx.lineWidth = 2;
+        ctx.strokeRect(149, 80, 61, 40);
+        ctx.fillRect(150, 115, 59, 10);
+        ctx.beginPath();
+        drawEllipse(ctx, 150, 70, 60, 20);
+        ctx.stroke();
+        ctx.fill();
+
+
+        //Drawing eyes
+        ctx.fillStyle = "#22545f";
+        ctx.strokeStyle = "#22545f";
+        ctx.beginPath();
+        drawEllipse(ctx, 135, 160, 20, 15);
+        ctx.stroke();
+        ctx.beginPath();
+        drawEllipse(ctx, 140, 162, 5, 11);
+        ctx.fill();
+        ctx.beginPath();
+        drawEllipse(ctx, 190, 160, 20, 15);
+        ctx.stroke();
+        ctx.beginPath();
+        drawEllipse(ctx, 195, 162, 5, 11);
+        ctx.fill();
+
+        //Drawing nose
+        ctx.beginPath();
+        ctx.moveTo(180, 200);
+        ctx.lineTo(165, 200);
+        ctx.lineTo(175, 175);
+        ctx.stroke();
+
+        //Drawing Mouth
+        ctx.beginPath();
+        drawEllipse(ctx, 150, 215, 40, 15);
+        ctx.stroke();
+
+
+        //Help functions for drawing elipses
+        function drawEllipseByCenter(ctx, cx, cy, w, h) {
+            drawEllipse(ctx, cx - w / 2.0, cy - h / 2.0, w, h);
+        }
+
+        function drawEllipse(ctx, x, y, w, h) {
+            var kappa = .5522848,
+                ox = (w / 2) * kappa, // control point offset horizontal
+                oy = (h / 2) * kappa, // control point offset vertical
+                xe = x + w,           // x-end
+                ye = y + h,           // y-end
+                xm = x + w / 2,       // x-middle
+                ym = y + h / 2;       // y-middle
+
+            ctx.beginPath();
+            ctx.moveTo(x, ym);
+            ctx.bezierCurveTo(x, ym - oy, xm - ox, y, xm, y);
+            ctx.bezierCurveTo(xm + ox, y, xe, ym - oy, xe, ym);
+            ctx.bezierCurveTo(xe, ym + oy, xm + ox, ye, xm, ye);
+            ctx.bezierCurveTo(xm - ox, ye, x, ym + oy, x, ym);
+            ctx.closePath();
+            ctx.stroke();
+        }
+    </script>
+</body>
+</html>

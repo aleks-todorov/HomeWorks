@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\4.JavaScriptApi\4.JavaScriptApi\bin\4.JavaScriptApi.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\4.JavaScriptApi\4.JavaScriptApi\bin\4.JavaScriptApi.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\4.JavaScriptApi\4.JavaScriptApi\obj\Debug\4.JavaScriptApi.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\4.JavaScriptApi\4.JavaScriptApi\obj\Debug\4.JavaScriptApi.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\4.JavaScriptApi\4.JavaScriptApi\obj\Debug\4.JavaScriptApi.pdb

@@ -3,3 +3,8 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariabl
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.pdb
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\obj\Debug\_12.SwitchingValuesOfVariables.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\12. SwitchingValuesOfVariables\bin\Debug\_12.SwitchingValuesOfVariables.pdb

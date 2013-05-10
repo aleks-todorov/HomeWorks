@@ -4,3 +4,9 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAnd
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.csprojResolveAssemblyReference.cache
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\bin\Debug\13.AssigningNULLToIntegerAndDecimal.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\bin\Debug\13.AssigningNULLToIntegerAndDecimal.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\bin\Debug\13.AssigningNULLToIntegerAndDecimal.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\13.AssigningNULLToIntegerAndDecimal\obj\Debug\13.AssigningNULLToIntegerAndDecimal.csprojResolveAssemblyReference.cache

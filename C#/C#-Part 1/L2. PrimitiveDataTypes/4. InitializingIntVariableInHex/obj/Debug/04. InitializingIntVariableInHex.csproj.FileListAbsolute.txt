@@ -10,3 +10,9 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableIn
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.pdb
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\04. InitializingIntVariableInHex.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\_4.InitializingIntVariableInHex.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\_4.InitializingIntVariableInHex.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\bin\Debug\_4.InitializingIntVariableInHex.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\4. InitializingIntVariableInHex\obj\Debug\04. InitializingIntVariableInHex.csprojResolveAssemblyReference.cache

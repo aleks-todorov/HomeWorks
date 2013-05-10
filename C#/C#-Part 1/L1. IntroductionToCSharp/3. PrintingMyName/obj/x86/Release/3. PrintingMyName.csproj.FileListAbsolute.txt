@@ -7,3 +7,5 @@ D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\bin\Release\_3.PrintingMyName.pdb
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.exe
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\3. PrintingMyName\obj\x86\Release\_3.PrintingMyName.pdb

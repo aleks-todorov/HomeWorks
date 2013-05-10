@@ -7,3 +7,5 @@ D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\b
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\bin\Release\_5.PrintingCurrentDateAndTime.pdb
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.exe
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\5. PrintingCurrentDateAndTime\obj\x86\Release\_5.PrintingCurrentDateAndTime.pdb

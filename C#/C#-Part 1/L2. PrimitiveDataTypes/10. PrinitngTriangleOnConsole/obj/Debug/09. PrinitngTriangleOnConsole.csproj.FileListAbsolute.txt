@@ -4,3 +4,9 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsol
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\bin\Debug\_10.PrinitngTriangleOnConsole.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\bin\Debug\_10.PrinitngTriangleOnConsole.pdb
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\obj\Debug\09. PrinitngTriangleOnConsole.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\bin\Debug\_10.PrinitngTriangleOnConsole.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\obj\Debug\_10.PrinitngTriangleOnConsole.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\obj\Debug\_10.PrinitngTriangleOnConsole.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\bin\Debug\_10.PrinitngTriangleOnConsole.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\bin\Debug\_10.PrinitngTriangleOnConsole.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\10. PrinitngTriangleOnConsole\obj\Debug\09. PrinitngTriangleOnConsole.csprojResolveAssemblyReference.cache

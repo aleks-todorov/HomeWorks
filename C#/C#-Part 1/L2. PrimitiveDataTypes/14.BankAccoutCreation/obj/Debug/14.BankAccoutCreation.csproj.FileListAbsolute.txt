@@ -4,3 +4,9 @@ D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\14.BankAccoutCreation\bin\De
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.csprojResolveAssemblyReference.cache
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.exe
 D:\Google Drive\HomeWorks\C#\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\bin\Debug\14.BankAccoutCreation.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\bin\Debug\14.BankAccoutCreation.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\bin\Debug\14.BankAccoutCreation.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L2. PrimitiveDataTypes\14.BankAccoutCreation\obj\Debug\14.BankAccoutCreation.csprojResolveAssemblyReference.cache

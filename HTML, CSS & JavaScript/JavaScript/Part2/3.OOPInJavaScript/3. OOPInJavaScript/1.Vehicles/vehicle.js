@@ -17,7 +17,7 @@
 
     function Wheel(_radius) {
         this.radius = _radius;
-        PropulsionUnit.apply(this, arguments); 
+        PropulsionUnit.apply(this, arguments);
     }
 
     Wheel.inherit(PropulsionUnit);
@@ -55,7 +55,7 @@
 
     Propeller.prototype.getAcceleration = function () {
         this.acceleration = this.numberOfFins;
-        if (spinDirectionIsClockWise == false) {
+        if (this.spinDirectionIsClockWise == false) {
             this.acceleration *= -1;
         }
         return this.acceleration;
@@ -65,13 +65,6 @@
     function Vehicle(_speed, _propulsionUnit) {
         this.speed = _speed;
         this.propulsionUnit = _propulsionUnit;
-    }
-
-    Vehicle.prototype.accelerate = function () {
-        var propulsionUnitsCount = this.propulsionUnit.length;
-        for (var i = 0; i < propulsionUnitsCount; i++) {
-            this.speed += this.propulsionUnit[i].getAcceleration();
-        }
     }
 
     function LandVehicle(speed, wheels) {
@@ -84,7 +77,14 @@
 
     LandVehicle.inherit(Vehicle);
 
-    function AirVehicle(speed, propellingNozzle) {
+    LandVehicle.prototype.accelerate = function () {
+        var propulsionUnitCount = this.propulsionUnit.length;
+        for (var i = 0; i < propulsionUnitCount; i++) {
+            this.speed += this.propulsionUnit[i].getAcceleration();
+        }
+    }
+
+    function AirVehicle(_speed, _propellingNozzle) {
         Vehicle.apply(this, arguments);
     }
 
@@ -92,15 +92,20 @@
 
     //Implementing Functionality for switching AirVehicle afterburners On and Off
     AirVehicle.prototype.switchAfterBurnersOn = function () {
-        if (!this.propulsionUnits.afterBurnSwitchIsOn) {
-            this.propulsionUnits.afterBurnSwitchIsOn = true;
+        if (this.propulsionUnit.afterBurnSwitchIsOn == false) {
+            this.propulsionUnit.afterBurnSwitchIsOn = true;
         }
     }
 
     AirVehicle.prototype.switchAfterBurnersOff = function () {
-        if (this.propulsionUnits.afterBurnSwitchIsOn) {
-            this.propulsionUnits.afterBurnSwitchIsOn = false;
+        if (this.propulsionUnit.afterBurnSwitchIsOn) {
+            this.propulsionUnit.afterBurnSwitchIsOn = false;
         }
+    }
+
+    AirVehicle.prototype.accelerate = function () {
+        var propulsionUnit = this.propulsionUnit;
+        this.speed = propulsionUnit.getAcceleration();
     }
 
     function WaterVehicle(_speed, propeller) {
@@ -111,15 +116,20 @@
 
     //Implementing Functionality for changing spin directions of WaterVehicles
     WaterVehicle.prototype.setSpinDirectionClockWise = function (index) {
-        if (!this.propulsionUnits[index].spinDirectionIsClockWise) {
-            this.propulsionUnits[index].spinDirectionIsClockWise = true;
+        if (!this.propulsionUnit.spinDirectionIsClockWise) {
+            this.propulsionUnit.spinDirectionIsClockWise = true;
         }
     }
 
     WaterVehicle.prototype.setSpinDirectionCounterClockWise = function (index) {
-        if (this.propulsionUnits[index].spinDirectionIsClockWise) {
-            this.propulsionUnits[index].spinDirectionIsClockWise = false;
+        if (this.propulsionUnit.spinDirectionIsClockWise) {
+            this.propulsionUnit.spinDirectionIsClockWise = false;
         }
+    }
+
+    WaterVehicle.prototype.accelerate = function () {
+        var propulsionUnit = this.propulsionUnit;
+        this.speed = propulsionUnit.getAcceleration();
     }
 
     function AmphibiousVehicle(_speed, wheels, propelers) {
@@ -152,14 +162,14 @@
 
     AmphibiousVehicle.prototype.accelerate = function () {
         if (this.terainIsLand) {
-            var propulsionUnitsCount = this.propulsionUnits.length;
-            for (var i = 1; i < propulsionUnitsCount; i++) {
-                if (this.propulsionUnits[i] instanceof Wheel) {
-                    this.speed += this.propulsionUnits[i].getAcceleration();
+            var propulsionUnitCount = this.propulsionUnit.length;
+            for (var i = 1; i < propulsionUnitCount; i++) {
+                if (this.propulsionUnit[i] instanceof Wheel) {
+                    this.speed += this.propulsionUnit[i].getAcceleration();
                 }
             }
         } else {
-            this.speed += this.propulsionUnits[0].getAcceleration();
+            this.speed += this.propulsionUnit[0].getAcceleration();
         }
     }
 

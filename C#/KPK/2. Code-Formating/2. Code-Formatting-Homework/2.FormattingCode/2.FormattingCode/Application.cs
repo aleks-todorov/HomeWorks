@@ -24,7 +24,6 @@ public class Application
                 break;
             }
         }
-
         Messages.PrintOutput();
     }
 

@@ -7,3 +7,5 @@ D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Release\_1.PrintingHelloCSharp.pdb
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\1. PrintingHelloCSharp\bin\Release\_1.PrintingHelloCSharp.exe
 D:\Telerik\HomeWorks\C#\L1. IntroductionToCSharp\1. PrintingHelloCSharp\bin\Release\_1.PrintingHelloCSharp.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Release\_1.PrintingHelloCSharp.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L1. IntroductionToCSharp\1. PrintingHelloCSharp\obj\x86\Release\_1.PrintingHelloCSharp.pdb

@@ -12,10 +12,10 @@
         var radius = 100;
         var wrapper = document.createElement("div");
         var divsList = new Array();
-        var divsLocationAngle = (Math.PI * 2) / divCount;
-        wrapper.classList.add("wrapper");
+		wrapper.classList.add("wrapper");
         document.body.appendChild(wrapper);
-
+        var divsLocationAngle = (Math.PI * 2) / divCount;
+        
         for (var i = 0; i < divCount; i++) {
             createDiv(wrapper);
         }
