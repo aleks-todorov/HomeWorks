@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\SchoolStruct\obj\Debug\SchoolStruct.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\SchoolStruct\bin\Debug\SchoolStruct.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\SchoolStruct\bin\Debug\SchoolStruct.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\SchoolStruct\obj\Debug\SchoolStruct.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\SchoolStruct\obj\Debug\SchoolStruct.pdb

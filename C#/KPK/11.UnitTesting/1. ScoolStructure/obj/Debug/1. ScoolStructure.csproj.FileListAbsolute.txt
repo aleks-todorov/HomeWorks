@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\bin\Debug\_1.ScoolStructure.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\obj\Debug\1. ScoolStructure.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\bin\Debug\_1.ScoolStructure.exe
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\bin\Debug\_1.ScoolStructure.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\bin\Debug\SchoolStruct.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\bin\Debug\SchoolStruct.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\obj\Debug\_1.ScoolStructure.exe
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\1. ScoolStructure\obj\Debug\_1.ScoolStructure.pdb

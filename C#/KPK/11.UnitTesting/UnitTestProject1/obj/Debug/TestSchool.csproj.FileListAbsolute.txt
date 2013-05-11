@@ -1,0 +1,14 @@
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\School.dll
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\School.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\GoogleDrive\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\TestSchool.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\TestSchool.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\SchoolStruct.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\bin\Debug\SchoolStruct.pdb
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\TestSchool.dll
+D:\Google Drive\HomeWorks\C#\KPK\11.UnitTesting\UnitTestProject1\obj\Debug\TestSchool.pdb
