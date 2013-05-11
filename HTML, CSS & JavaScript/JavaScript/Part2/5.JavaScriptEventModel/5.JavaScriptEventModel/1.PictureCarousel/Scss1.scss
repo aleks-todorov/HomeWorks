@@ -1,0 +1,31 @@
+#carousel {
+	display: none;
+
+	img{
+		width: 280px;
+		height: 250px;
+	
+	}
+}
+
+#container{ 
+	width: 500px; 
+	margin: 20px auto;  
+	overflow: hidden;
+	border: 2px solid #888888;
+	box-shadow: 10px 10px 5px #888888;
+	padding: 5px;
+
+	img{
+		width: 500px;
+		height: 400px; 
+	}
+		 
+	#prevButton{
+		float: left;
+		}
+
+	#nextButton{
+		float:right;
+		}
+}

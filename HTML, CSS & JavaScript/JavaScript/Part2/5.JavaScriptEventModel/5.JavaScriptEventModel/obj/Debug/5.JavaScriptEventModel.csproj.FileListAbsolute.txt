@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\5.JavaScriptEventModel\5.JavaScriptEventModel\bin\5.JavaScriptEventModel.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\5.JavaScriptEventModel\5.JavaScriptEventModel\bin\5.JavaScriptEventModel.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\5.JavaScriptEventModel\5.JavaScriptEventModel\obj\Debug\5.JavaScriptEventModel.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\5.JavaScriptEventModel\5.JavaScriptEventModel\obj\Debug\5.JavaScriptEventModel.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\5.JavaScriptEventModel\5.JavaScriptEventModel\obj\Debug\5.JavaScriptEventModel.pdb

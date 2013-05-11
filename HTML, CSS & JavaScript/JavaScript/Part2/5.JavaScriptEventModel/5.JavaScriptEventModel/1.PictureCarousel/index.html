@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Picture Carousel</title>
+    <link href="Scss1.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="carousel">
+        <img src="pics/pic1.jpg" />
+        <img src="pics/pic2.jpg" />
+        <img src="pics/pic3.jpg" />
+        <img src="pics/pic4.jpg" />
+        <img src="pics/pic5.jpg" />
+    </div>
+    <div id="container">
+        <img id="picFrame" src="pics/pic1.jpg" />
+        <input type="button" id="prevButton" value="Previous" />
+        <input type="button" id="nextButton" value="Next" />
+    </div>
+    <script>
+
+        /*
+        Task1: 
+        Create a Simple JS Carousel with N images and two arrows for image control 
+        */
+
+        (function () {
+            var prevButton = document.getElementById("prevButton");
+            var nextButton = document.getElementById("nextButton");
+            var picFrame = document.getElementById("picFrame");
+            var pics = document.querySelectorAll("#carousel img");
+            var counter = 0;
+            var picArrLenght = pics.length;
+
+            nextButton.addEventListener("click", function () {
+                counter++;
+                if (counter >= picArrLenght) {
+                    counter = 0;
+                }
+
+                picFrame.src = pics[counter].src;
+
+            }, false);
+
+            prevButton.addEventListener("click", function () {
+                counter--;
+                if (counter <= 0) {
+                    counter = picArrLenght;
+                }
+                picFrame.src = pics[counter].src;
+
+            }, false);
+        })()
+    </script>
+</body>
+</html>

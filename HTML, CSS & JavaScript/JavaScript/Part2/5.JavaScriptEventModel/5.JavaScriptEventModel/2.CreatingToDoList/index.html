@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TODO List</title>
+</head>
+<body onload="todoContextMenu">
+    <form>
+        <label for="taskContent">Task: </label>
+        <input type="text" id="taskContent" />
+        <br />
+        <button id="addTask" title="Gets the text from the box and adds it as a child">Add Task</button>
+        <button id="deleteTask" title="Gets the number from the box and removes the child">Delete Task</button>
+        <button id="showHideMenu" title="Show/Hides the Task List">Show/Hide Menu</button>
+    </form>
+    <h2>TODO List:</h2>
+    <ol id="taskList">
+    </ol>
+    <script> 
+        
+        /* Task:2
+          Create a TODO list with the following UI controls
+            Form input for new Item
+            Button for adding the new Item
+            Button for deleting some item
+            Show and Hide Button   */
+       
+        /*   NOTE: I have tried it in Firefox and it was not working(probably something with
+        the event handling). Dont have time to fix - open in Chrome. Sorry for the inconvenience. */
+         
+        var todoContextMenu = (function () {
+            var taskList = document.getElementById("taskList");
+            var addTaskButton = document.getElementById("addTask");
+            var deleteTaskButton = document.getElementById("deleteTask");
+            var showHideButton = document.getElementById("showHideMenu");
+            var taskContent = document.getElementById("taskContent");
+
+            addTaskButton.addEventListener("click", function () {
+                event.preventDefault()
+                var content = taskContent.value;
+                if (content) {
+                    var task = new Task(content);
+                }
+            }, false);
+
+            showHideButton.addEventListener("click", function () {
+                event.preventDefault()
+                if (taskList.style.display == "none") {
+                    taskList.style.display = "block";
+                }
+                else {
+                    taskList.style.display = "none";
+                }
+            }, false);
+
+            deleteTaskButton.addEventListener("click", function () {
+                event.preventDefault();
+                var child = taskContent.value;
+                var childSelector = "li:nth-child(" + child + ")";
+
+                if (child && isNumeric(child)) {
+                    taskList.removeChild(document.querySelector(childSelector));
+                }
+            }, false);
+
+            function Task(content) {
+                this.content = content;
+                var task = document.createElement("li");
+                task.innerHTML = content;
+                taskList.appendChild(task);
+                taskContent.value = "";
+            }
+
+            function isNumeric(num) {
+                return !isNaN(num)
+            }
+        })()
+    </script>
+</body>
+</html>
