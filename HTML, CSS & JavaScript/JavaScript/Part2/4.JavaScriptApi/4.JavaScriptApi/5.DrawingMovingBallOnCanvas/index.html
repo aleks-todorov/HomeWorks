@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #canvas
+        {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas" height="500" width="800">Text to be shown if browser do not support canvas!
+    </canvas>
+    <script type="text/javascript">
+        (function () {
+            var BALL_RADIUS = 20;
+            var MOVEMENT_SPEED = 3;
+            var canvas = document.getElementById("canvas");
+            var ctx = canvas.getContext("2d");
+            var balls = [];
+            //I could have done it with button and event listener for adding more balls, but decided that 4 is a good number.
+            createBall(20, 250);
+            createBall(400, 20);
+            createBall(390, 480);
+            createBall(780, 250);
+            setInterval(drawBall, 20);
+
+            function createBall(x, y) {
+                var ball = new Ball(x, y);
+                balls.push(ball);
+            }
+
+            function Ball(x, y) {
+                this.x = x | 0;
+                this.y = y | 0;
+                this.dx = MOVEMENT_SPEED;
+                this.dy = MOVEMENT_SPEED;
+                this.color = randomColorGenerator();
+                this.radius = BALL_RADIUS | 0;
+            }
+
+            //Drow the moving balls
+            function drawBall() {
+                var i;
+                var ballsLength = balls.length;
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                for (i = 0; i < ballsLength; i++) {
+                    var ball = balls[i];
+
+                    ball.x += ball.dx;
+                    ball.y += ball.dy;
+                    if ((ball.x + ball.radius > canvas.width) || (ball.x - ball.radius < 0)) {
+                        ball.dx = -ball.dx;
+                    }
+
+                    if ((ball.y + ball.radius > canvas.height) || (ball.y - ball.radius < 0)) {
+                        ball.dy = -ball.dy;
+                    }
+                    ctx.beginPath();
+                    ctx.fillStyle = ball.color;
+                    ctx.arc(ball.x, ball.y, ball.radius, 0, 2 * Math.PI, false);
+                    ctx.fill();
+                }
+            }
+
+            function randomColorGenerator() {
+                var letters = '0123456789ABCDEF'.split('');
+                var color = '#';
+                for (var i = 0; i < 6; i++) {
+                    color += letters[Math.round(Math.random() * 15)];
+                }
+
+                return color;
+            }
+        })()
+    </script>
+</body>
+</html>
