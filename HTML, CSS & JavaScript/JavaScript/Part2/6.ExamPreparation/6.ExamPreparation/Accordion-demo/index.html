@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Accordion</title>
+    <style>
+        #accordion-holder ul,
+        #copied-accordion-holder ul
+        {
+            list-style-type: none;
+        }
+
+            #accordion-holder ul li a,
+            #copied-accordion-holder ul li a
+            {
+                text-decoration: none;
+                color: black;
+            }
+
+            #accordion-holder ul li:hover > a,
+            #copied-accordion-holder ul li:hover > a
+            {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="accordion-holder"></div>
+    <div id="copied-accordion-holder"></div>
+    <script src="accordion.js"></script>
+    <script src="web-storage-objects.js"></script>
+    <script>
+
+        //Tests
+        var accordion = controls.getAccordion("#accordion-holder");
+        var webItem = accordion.add("Web");
+        webItem.add("HTML");
+        var mobileItem = accordion.add("Mobile");
+        mobileItem.add("Android");
+        accordion.add("Desktop");
+        accordion.render();
+
+        var serialized = accordion.serialize();
+        localStorage.setObject("acc", serialized);
+
+        var data = localStorage.getObject("acc");
+
+        var accordion2 = controls.buildAccordion("#copied-accordion-holder", data);
+        accordion2.render();
+
+
+    </script>
+</body>
+</html>

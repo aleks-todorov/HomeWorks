@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Image Galery</title>
+    <link href="styles/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="image-frame">
+        <img src="images/ninja.png" onclick="restoreSize()" />
+    </div>
+    <script>
+        //Task 7 help function: 
+        //Simple function used to restore frame of the image ot its basics, so it could be tested with other images from the gallery
+        function restoreSize() {
+            var imageFrame = document.querySelector("#image-frame > img");
+            imageFrame.style.width = "200px";
+            imageFrame.style.height = "100px";
+        }
+    </script>
+    <h2>Photo Gallery 1:</h2>
+    <div id="image-galery-holder"></div>
+    <h2>Photo Gallery 2:</h2>
+    <div id="image-galery-holder-copied"></div>
+    <script src="javascript/galery.js"></script>
+    <script src="javascript/web-storage-objects.js"></script>
+    <script>
+        var PIC_PATH = "images/ninja.png";
+        var PIC_NAME = "JS Ninja";
+
+
+        //Tests showing functionallity
+
+        //Tasks 1,2,3
+        var gallery = controls.getImageGallery("#image-galery-holder");
+        gallery.addImage(PIC_NAME, PIC_PATH);
+        gallery.addImage(PIC_NAME, PIC_PATH);
+        gallery.addImage(PIC_NAME, PIC_PATH);
+        var albumOne = gallery.addAlbum("Album1");
+        albumOne.addImage(PIC_NAME, PIC_PATH);
+        albumOne.addImage(PIC_NAME, PIC_PATH);
+        var innerAlbymOne = albumOne.addAlbum("InnerAlbum1");
+        var innerAlbymOTwo = albumOne.addAlbum("InnerAlbum3");
+        var innerAlbymThree = albumOne.addAlbum("InnerAlbum2");
+        albumOne.addImage(PIC_NAME, PIC_PATH);
+        var albumTwo = gallery.addAlbum("Album2");
+        albumTwo.addImage(PIC_NAME, PIC_PATH);
+        albumTwo.addImage(PIC_NAME, PIC_PATH);
+        albumTwo.addImage(PIC_NAME, PIC_PATH);
+        albumTwo.addImage(PIC_NAME, PIC_PATH);
+        albumTwo.addImage(PIC_NAME, PIC_PATH);
+        var albumThree = gallery.addAlbum("Album3");
+        albumThree.addImage(PIC_NAME, PIC_PATH);
+        albumThree.addImage(PIC_NAME, PIC_PATH);
+        albumThree.addImage(PIC_NAME, PIC_PATH);
+        gallery.render();
+
+        //Task 4 & 5
+        var imageGalleryData = gallery.getGalleryData();
+        gallery.saveGalleryDataToLocalStorage("ninja-gallery", imageGalleryData);
+        var galleryInfo = gallery.loadGalleryDataFromLocalStorage("ninja-gallery");
+        console.log(galleryInfo);
+
+        //Task 6: 
+        var newGallery = controls.buildImageGallery("#image-galery-holder-copied", galleryInfo);
+        newGallery.render();
+
+
+    </script>
+</body>
+</html>

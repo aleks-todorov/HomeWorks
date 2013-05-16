@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\6.ExamPreparation\6.ExamPreparation\bin\6.ExamPreparation.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\6.ExamPreparation\6.ExamPreparation\bin\6.ExamPreparation.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\6.ExamPreparation\6.ExamPreparation\obj\Debug\6.ExamPreparation.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\6.ExamPreparation\6.ExamPreparation\obj\Debug\6.ExamPreparation.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\6.ExamPreparation\6.ExamPreparation\obj\Debug\6.ExamPreparation.pdb
