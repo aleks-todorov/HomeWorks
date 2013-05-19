@@ -1,0 +1,7 @@
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\FreeContentCatalog.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\FreeContentCatalog.exe
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\FreeContentCatalog.pdb
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\PowerCollections.xml
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\FreeContentCatalog.exe
+D:\Google Drive\HomeWorks\C#\KPK\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\FreeContentCatalog.pdb
