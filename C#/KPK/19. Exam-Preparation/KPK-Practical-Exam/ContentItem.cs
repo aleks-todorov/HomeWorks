@@ -22,7 +22,7 @@ namespace FreeContentCatalog
             set
             {
                 this.url = value;
-                this.TextRepresentation = this.ToString(); // To update the text representation
+                this.TextRepresentation = this.ToString();  
             }
         }
 
@@ -47,7 +47,8 @@ namespace FreeContentCatalog
             ContentItem otherContent = obj as ContentItem;
             if (otherContent != null)
             {
-                Int32 comparisonResul = this.TextRepresentation.CompareTo(otherContent.TextRepresentation);
+                int comparisonResul = 
+                    this.TextRepresentation.CompareTo(otherContent.TextRepresentation);
 
                 return comparisonResul;
             }

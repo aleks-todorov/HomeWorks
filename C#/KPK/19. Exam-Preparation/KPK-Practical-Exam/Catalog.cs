@@ -28,7 +28,7 @@ namespace FreeContentCatalog
             this.url.Add(content.URL, content);
         }
 
-        public IEnumerable<IContent> GetListContent(string title, Int32 numberOfContentElementsToList)
+        public IEnumerable<IContent> GetListContent(string title, int numberOfContentElementsToList)
         {
             IEnumerable<IContent> contentToList =
                 from c in this.title[title]
@@ -37,33 +37,22 @@ namespace FreeContentCatalog
             return contentToList.Take(numberOfContentElementsToList);
         }
 
-        public Int32 UpdateContent(string oldUrl, string newUrl)
+        public int UpdateContent(string oldUrl, string newUrl)
         {
-            int numberOfElements = 0;
+            int numberOfUpdatedElements = 0;
 
             List<IContent> contentToList = this.url[oldUrl].ToList();
 
             foreach (ContentItem content in contentToList)
             {
                 this.title.Remove(content.Title, content);
-                numberOfElements++; //increase updatedElements
-            }
-
-            this.url.Remove(oldUrl);
-
-            foreach (IContent content in contentToList)
-            {
                 content.URL = newUrl;
-            }
-
-            //again
-            foreach (IContent content in contentToList)
-            {
                 this.title.Add(content.Title, content);
                 this.url.Add(content.URL, content);
+                numberOfUpdatedElements++;
             }
 
-            return numberOfElements;
+            return numberOfUpdatedElements;
         }
 
         public int Count()

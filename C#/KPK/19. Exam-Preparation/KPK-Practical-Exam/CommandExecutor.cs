@@ -13,65 +13,81 @@ namespace FreeContentCatalog
             switch (command.Type)
             {
                 case CommandType.AddBook:
-                    contentCatalog.Add(new ContentItem(ContentItemType.Book, command.Parameters));
+                    var book = new ContentItem(ContentItemType.Book, command.Parameters);
+                    contentCatalog.Add(book);
                     output.AppendLine("Book added");
                     break;
 
                 case CommandType.AddMovie:
-                    contentCatalog.Add(new ContentItem(ContentItemType.Movie, command.Parameters));
+                    var movie = new ContentItem(ContentItemType.Movie, command.Parameters);
+                    contentCatalog.Add(movie);
                     output.AppendLine("Movie added");
                     break;
 
                 case CommandType.AddSong:
-                    contentCatalog.Add(new ContentItem(ContentItemType.Song, command.Parameters));
+                    var song = new ContentItem(ContentItemType.Song, command.Parameters);
+                    contentCatalog.Add(song);
                     output.AppendLine("Song added");
                     break;
 
                 case CommandType.AddApplication:
-                    contentCatalog.Add(new ContentItem(ContentItemType.Application, command.Parameters));
+                    var application = new ContentItem(ContentItemType.Application, command.Parameters);
+                    contentCatalog.Add(application);
                     output.AppendLine("Application added");
                     break;
 
                 case CommandType.Update:
-                    if (command.Parameters.Length != 2)
-                    {
-                        throw new FormatException("Invalid parameters!");
-                    }
-
-                    int itemsUpdated = contentCatalog.UpdateContent(command.Parameters[0], command.Parameters[1]);
-                    string updateCommandResutl = String.Format("{0} items updated", itemsUpdated);
-                    output.AppendLine(updateCommandResutl);
+                    UpdateCommand(contentCatalog, command, output);
                     break;
 
                 case CommandType.Find:
-                    if (command.Parameters.Length != 2)
-                    {
-                        Console.WriteLine("Invalid params!");
-                        throw new Exception("Invalid number of parameters!");
-                    }
-
-                    Int32 numberOfElementsToList = Int32.Parse(command.Parameters[1]);
-
-                    IEnumerable<IContent> foundContent =
-                        contentCatalog.GetListContent(command.Parameters[0], numberOfElementsToList);
-
-                    if (foundContent.Count() == 0)
-                    {
-                        output.AppendLine("No items found");
-                    }
-                    else
-                    {
-                        foreach (IContent content in foundContent)
-                        {
-                            output.AppendLine(content.TextRepresentation);
-                        }
-                    }
+                    ProcessFindCommand(contentCatalog, command, output);
                     break;
 
                 default:
                     {
-                        throw new InvalidCastException("Unknown command!");
+                        throw new InvalidOperationException("Unknown command!");
                     }
+            }
+        }
+
+        private static void UpdateCommand(ICatalog contentCatalog,
+            ICommand command, StringBuilder output)
+        {
+            if (command.Parameters.Length != 2)
+            {
+                throw new ArgumentException("Invalid number of parameters!");
+            }
+
+            int itemsUpdated =
+                contentCatalog.UpdateContent(command.Parameters[0], command.Parameters[1]);
+            string updateCommandResutl = String.Format("{0} items updated", itemsUpdated);
+            output.AppendLine(updateCommandResutl);
+        }
+
+        private static void ProcessFindCommand(ICatalog contentCatalog,
+            ICommand command, StringBuilder output)
+        {
+            if (command.Parameters.Length != 2)
+            {
+                throw new ArgumentException("Invalid number of parameters!");
+            }
+
+            int numberOfElementsToList = Int32.Parse(command.Parameters[1]);
+
+            IEnumerable<IContent> foundContent =
+                contentCatalog.GetListContent(command.Parameters[0], numberOfElementsToList);
+
+            if (foundContent.Count() == 0)
+            {
+                output.AppendLine("No items found");
+            }
+            else
+            {
+                foreach (IContent content in foundContent)
+                {
+                    output.AppendLine(content.TextRepresentation);
+                }
             }
         }
     }

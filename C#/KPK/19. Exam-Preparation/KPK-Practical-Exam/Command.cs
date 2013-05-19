@@ -1,6 +1,7 @@
 ﻿using CatalogOfFreeContent;
 using System;
 using System.Linq;
+using System.Text;
 
 namespace FreeContentCatalog
 {
@@ -17,7 +18,7 @@ namespace FreeContentCatalog
 
         public string[] Parameters { get; set; }
 
-        private Int32 commandNameEndIndex;
+        private int commandNameEndIndex;
 
         public Command(string input)
         {
@@ -67,20 +68,53 @@ namespace FreeContentCatalog
 
                 default:
                     {
-                        if (commandName.ToLower().Contains("book")
+                        //Not the best Exceptions, but still better than previous
+                        if (commandContainBook(commandName) || commandContainMovie(commandName) || commandContainsSong(commandName)
+                            || commandContainApplication(commandName))
+                        {
+                            throw new InvalidProgramException("Incorect command!");
+                        }
 
-                            || commandName.ToLower().Contains("movie") || commandName.ToLower().Contains("song")
-                            || commandName.ToLower().Contains("application")) throw new InsufficientExecutionStackException();
+                        if (commandContainFind(commandName) || commandContainUpdate(commandName))
+                        {
+                            throw new InvalidProgramException("Incorect command!");
+                        }
 
-                        if (commandName.ToLower().Contains("find")
-                            || commandName.ToLower().Contains("update"))
-                            throw new InvalidProgramException();
-
-                        throw new MissingFieldException("Invalid command name!");
+                        throw new InvalidProgramException("Invalid command name!");
                     }
             }
 
             return type;
+        }
+
+        private static bool commandContainUpdate(string commandName)
+        {
+            return commandName.ToLower().Contains("update");
+        }
+
+        private static bool commandContainFind(string commandName)
+        {
+            return commandName.ToLower().Contains("find");
+        }
+
+        private static bool commandContainApplication(string commandName)
+        {
+            return commandName.ToLower().Contains("application");
+        }
+
+        private static bool commandContainsSong(string commandName)
+        {
+            return commandName.ToLower().Contains("song");
+        }
+
+        private static bool commandContainMovie(string commandName)
+        {
+            return commandName.ToLower().Contains("movie");
+        }
+
+        private static bool commandContainBook(string commandName)
+        {
+            return commandName.ToLower().Contains("book");
         }
 
         public string ParseName()
@@ -91,7 +125,7 @@ namespace FreeContentCatalog
 
         public string[] ParseParameters()
         {
-            Int32 paramsLength =
+            int paramsLength =
                 this.OriginalForm.Length - (this.commandNameEndIndex + 3);
 
             string paramsOriginalForm =
@@ -108,35 +142,30 @@ namespace FreeContentCatalog
             return parameters;
         }
 
-        public Int32 GetCommandNameEndIndex()
+        public int GetCommandNameEndIndex()
         {
-            Int32 endIndex = this.OriginalForm.IndexOf(commandEnd) - 1;
+            int endIndex = this.OriginalForm.IndexOf(commandEnd) - 1;
 
             return endIndex;
         }
 
         private void TrimParams()
         {
-            //TODO: 
-            for (int i = 0; ; i++)
+            for (int i = 0; i < this.Parameters.Length; i++)
             {
-                if (!(i < this.Parameters.Length))
-                {
-                    break;
-                }
                 this.Parameters[i] = this.Parameters[i].Trim();
             }
         }
 
         public override string ToString()
         {
-            string toString = "" + this.Name + " ";
+            var parametersContent = new StringBuilder();
 
             foreach (string param in this.Parameters)
             {
-                toString += param + " ";
+                parametersContent.AppendFormat(" {0}", param);
             }
-            return toString;
+            return parametersContent.ToString();
         }
     }
 }
