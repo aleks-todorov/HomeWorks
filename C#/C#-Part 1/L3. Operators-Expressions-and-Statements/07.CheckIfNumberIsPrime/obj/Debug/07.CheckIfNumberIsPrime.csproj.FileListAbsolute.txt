@@ -11,3 +11,6 @@ C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIf
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe.config
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\bin\Debug\07.CheckIfNumberIsPrime.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\07.CheckIfNumberIsPrime\obj\Debug\07.CheckIfNumberIsPrime.pdb

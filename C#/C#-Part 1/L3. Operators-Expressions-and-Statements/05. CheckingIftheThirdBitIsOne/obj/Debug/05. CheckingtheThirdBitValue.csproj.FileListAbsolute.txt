@@ -19,3 +19,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\05. Checki
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\bin\Debug\_05.CheckingIftheThirdBitIsOne.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\bin\Debug\_05.CheckingIftheThirdBitIsOne.pdb
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\obj\Debug\05. CheckingtheThirdBitValue.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\bin\Debug\_05.CheckingIftheThirdBitIsOne.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\obj\Debug\_05.CheckingIftheThirdBitIsOne.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\05. CheckingIftheThirdBitIsOne\obj\Debug\_05.CheckingIftheThirdBitIsOne.pdb

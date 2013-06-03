@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\bin\Debug\_05.RemovingAllNegativeNumbers.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\obj\Debug\05. RemovingAllNegativeNumbers.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\bin\Debug\_05.RemovingAllNegativeNumbers.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\bin\Debug\_05.RemovingAllNegativeNumbers.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\obj\Debug\_05.RemovingAllNegativeNumbers.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\05. RemovingAllNegativeNumbers\obj\Debug\_05.RemovingAllNegativeNumbers.pdb

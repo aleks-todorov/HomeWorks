@@ -1,0 +1,7 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\obj\Debug\04. FindingLongestSubsetsOfEqualNumbers.Tests.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\bin\Debug\_04.FindingLongestSubsetsOfEqualNumbers.Tests.dll
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\bin\Debug\_04.FindingLongestSubsetsOfEqualNumbers.Tests.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\bin\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\bin\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\obj\Debug\_04.FindingLongestSubsetsOfEqualNumbers.Tests.dll
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsetsOfEqualNumbers.Tests\obj\Debug\_04.FindingLongestSubsetsOfEqualNumbers.Tests.pdb

@@ -16,3 +16,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\04. Checki
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\obj\Debug\04. CheckingForThirdDigitValue.csprojResolveAssemblyReference.cache
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\obj\Debug\_04.CheckingForThirdDigitValue.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\obj\Debug\_04.CheckingForThirdDigitValue.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\bin\Debug\_04.CheckingForThirdDigitValue.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\obj\Debug\_04.CheckingForThirdDigitValue.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\04. CheckingForThirdDigitValue\obj\Debug\_04.CheckingForThirdDigitValue.pdb

@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\bin\Debug\_08.FindingMajorantOfAnArray.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\obj\Debug\08. FindingMajorantOfAnArray.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\bin\Debug\_08.FindingMajorantOfAnArray.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\bin\Debug\_08.FindingMajorantOfAnArray.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\obj\Debug\_08.FindingMajorantOfAnArray.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\08. FindingMajorantOfAnArray\obj\Debug\_08.FindingMajorantOfAnArray.pdb

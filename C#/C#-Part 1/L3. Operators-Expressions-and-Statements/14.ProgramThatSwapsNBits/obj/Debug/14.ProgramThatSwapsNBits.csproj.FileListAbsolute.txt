@@ -7,3 +7,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.Program
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.exe.config
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.exe
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\bin\Debug\14.ProgramThatSwapsNBits.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\14.ProgramThatSwapsNBits\obj\Debug\14.ProgramThatSwapsNBits.pdb

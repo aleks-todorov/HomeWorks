@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\bin\Debug\1.DataStructuresAndComplexity.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\bin\Debug\1.DataStructuresAndComplexity.exe
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\bin\Debug\1.DataStructuresAndComplexity.pdb
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\obj\Debug\1.DataStructuresAndComplexity.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\obj\Debug\1.DataStructuresAndComplexity.exe
+D:\Temp\HomeWorks\C#\Algorithms\1.DataStructuresAndComplexity\1.DataStructuresAndComplexity\obj\Debug\1.DataStructuresAndComplexity.pdb

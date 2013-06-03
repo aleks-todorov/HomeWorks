@@ -16,3 +16,6 @@ C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\01. Checki
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\bin\Debug\_01.CheckingIntegerForOddOrEven.exe
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\bin\Debug\_01.CheckingIntegerForOddOrEven.pdb
 C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\obj\Debug\01. CheckingIntegerForOddOrEven.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\bin\Debug\_01.CheckingIntegerForOddOrEven.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\obj\Debug\_01.CheckingIntegerForOddOrEven.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\01. CheckingIntegerForOddOrEven\obj\Debug\_01.CheckingIntegerForOddOrEven.pdb

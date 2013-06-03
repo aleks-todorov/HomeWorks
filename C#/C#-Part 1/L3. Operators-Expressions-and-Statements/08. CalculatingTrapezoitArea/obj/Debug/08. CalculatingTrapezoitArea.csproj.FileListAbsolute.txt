@@ -12,3 +12,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\08. Calcul
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\obj\Debug\08. CalculatingTrapezoitArea.csprojResolveAssemblyReference.cache
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\obj\Debug\_08.CalculatingTrapezoitArea.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\obj\Debug\_08.CalculatingTrapezoitArea.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\bin\Debug\_08.CalculatingTrapezoitArea.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\obj\Debug\_08.CalculatingTrapezoitArea.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\08. CalculatingTrapezoitArea\obj\Debug\_08.CalculatingTrapezoitArea.pdb

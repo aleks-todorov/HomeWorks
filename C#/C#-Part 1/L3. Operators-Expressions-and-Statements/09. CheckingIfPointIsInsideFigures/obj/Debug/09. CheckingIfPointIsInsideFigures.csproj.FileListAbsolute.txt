@@ -13,3 +13,6 @@ C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\09. Checki
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\bin\Debug\_09.CheckingIfPointIsInsideFigures.exe.config
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\obj\Debug\_09.CheckingIfPointIsInsideFigures.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\obj\Debug\_09.CheckingIfPointIsInsideFigures.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\bin\Debug\_09.CheckingIfPointIsInsideFigures.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\obj\Debug\_09.CheckingIfPointIsInsideFigures.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\09. CheckingIfPointIsInsideFigures\obj\Debug\_09.CheckingIfPointIsInsideFigures.pdb

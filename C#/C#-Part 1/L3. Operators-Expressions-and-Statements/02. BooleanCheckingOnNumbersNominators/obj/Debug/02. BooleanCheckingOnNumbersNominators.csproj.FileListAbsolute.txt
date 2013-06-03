@@ -12,3 +12,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\02. Boolea
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\obj\Debug\02. BooleanCheckingOnNumbersNominators.csprojResolveAssemblyReference.cache
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\obj\Debug\_02.BooleanCheckingOnNumbersNominators.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\obj\Debug\_02.BooleanCheckingOnNumbersNominators.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\bin\Debug\_02.BooleanCheckingOnNumbersNominators.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\obj\Debug\_02.BooleanCheckingOnNumbersNominators.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\02. BooleanCheckingOnNumbersNominators\obj\Debug\_02.BooleanCheckingOnNumbersNominators.pdb

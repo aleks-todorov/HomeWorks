@@ -1,0 +1,9 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\obj\Debug\02. ReversingNumberOrderWithStack.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\bin\Debug\_02.ReversingNumberOrderWithStack.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\bin\Debug\_02.ReversingNumberOrderWithStack.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\bin\Debug\_02.ReversingNumberOrderWithStack.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\obj\Debug\_02.ReversingNumberOrderWithStack.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\obj\Debug\_02.ReversingNumberOrderWithStack.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\bin\Debug\_02.ReversingNumberOrderWithStack.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\obj\Debug\_02.ReversingNumberOrderWithStack.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\02. ReversingNumberOrderWithStack\obj\Debug\_02.ReversingNumberOrderWithStack.pdb

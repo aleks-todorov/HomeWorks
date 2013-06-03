@@ -7,3 +7,6 @@ C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\12.Sequenc
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\bin\Debug\12.SequenceOfOpperatorsToModifyNumber.exe.config
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\obj\Debug\12.SequenceOfOpperatorsToModifyNumber.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\obj\Debug\12.SequenceOfOpperatorsToModifyNumber.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\bin\Debug\12.SequenceOfOpperatorsToModifyNumber.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\obj\Debug\12.SequenceOfOpperatorsToModifyNumber.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\12.SequenceOfOpperatorsToModifyNumber\obj\Debug\12.SequenceOfOpperatorsToModifyNumber.pdb

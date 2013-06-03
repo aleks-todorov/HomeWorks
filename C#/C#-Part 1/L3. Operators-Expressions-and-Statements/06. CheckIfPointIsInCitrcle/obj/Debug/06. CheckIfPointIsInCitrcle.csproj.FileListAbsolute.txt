@@ -14,3 +14,6 @@ C:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckI
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\bin\Debug\_06.CheckIfPointIsInCitrcle.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\06. CheckIfPointIsInCitrcle\obj\Debug\_06.CheckIfPointIsInCitrcle.pdb

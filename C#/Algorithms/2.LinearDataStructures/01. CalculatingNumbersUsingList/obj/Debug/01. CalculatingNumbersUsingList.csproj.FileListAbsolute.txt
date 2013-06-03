@@ -1,0 +1,12 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\bin\Debug\_1.CalculatingNumbersUsingList.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\bin\Debug\_1.CalculatingNumbersUsingList.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\bin\Debug\_1.CalculatingNumbersUsingList.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\1. CalculatingNumbersUsingList\obj\Debug\01. CalculatingNumbersUsingList.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\bin\Debug\_1.CalculatingNumbersUsingList.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\bin\Debug\_1.CalculatingNumbersUsingList.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\01. CalculatingNumbersUsingList\obj\Debug\_1.CalculatingNumbersUsingList.pdb

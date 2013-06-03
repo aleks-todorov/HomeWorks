@@ -1,0 +1,12 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\09. CalculatingSequenceInQueue.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\_09.CalculatingSequenceInQueue.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\_09.CalculatingSequenceInQueue.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\_09.CalculatingSequenceInQueue.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\_09.CalculatingSequenceInQueue.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\bin\Debug\_09.CalculatingSequenceInQueue.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\09. CalculatingSequenceInQueue\obj\Debug\09. CalculatingSequenceInQueue.csprojResolveAssemblyReference.cache

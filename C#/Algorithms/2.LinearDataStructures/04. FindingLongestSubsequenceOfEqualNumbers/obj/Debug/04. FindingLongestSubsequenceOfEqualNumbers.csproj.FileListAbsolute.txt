@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\bin\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\obj\Debug\04. FindingLongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\bin\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\bin\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\obj\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\04. FindingLongestSubsequenceOfEqualNumbers\obj\Debug\_04.FindingLongestSubsequenceOfEqualNumbers.pdb

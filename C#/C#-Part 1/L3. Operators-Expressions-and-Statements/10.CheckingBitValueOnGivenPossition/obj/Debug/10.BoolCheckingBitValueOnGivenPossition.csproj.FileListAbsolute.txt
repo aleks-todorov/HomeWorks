@@ -4,3 +4,6 @@ D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.Checkin
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.pdb
 D:\Google Drive\HomeWorks\C#\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.BoolCheckingBitValueOnGivenPossition.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\bin\Debug\10.CheckingBitValueOnGivenPossition.exe.config
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.exe
+D:\Google Drive\HomeWorks\C#\C#-Part 1\L3. Operators-Expressions-and-Statements\10.CheckingBitValueOnGivenPossition\obj\Debug\10.CheckingBitValueOnGivenPossition.pdb
