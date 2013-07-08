@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\bin\Debug\_02.Labyrint.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\obj\Debug\02. Labyrint.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\bin\Debug\_02.Labyrint.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\bin\Debug\_02.Labyrint.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\obj\Debug\_02.Labyrint.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\02. Labyrint\obj\Debug\_02.Labyrint.pdb

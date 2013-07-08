@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\bin\Debug\_05.ImplementingSet.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\obj\Debug\05. ImplementingSet.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\bin\Debug\_05.ImplementingSet.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\bin\Debug\_05.ImplementingSet.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\bin\Debug\_04.ImplementingHashTable.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\bin\Debug\_04.ImplementingHashTable.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\obj\Debug\_05.ImplementingSet.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\04. DictionariesHasTablesAndSets\05. ImplementingSet\obj\Debug\_05.ImplementingSet.pdb

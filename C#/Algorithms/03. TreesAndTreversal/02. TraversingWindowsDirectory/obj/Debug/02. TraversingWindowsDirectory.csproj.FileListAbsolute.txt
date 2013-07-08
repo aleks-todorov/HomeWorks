@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\bin\Debug\_02.TraversingWindowsDirectory.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\obj\Debug\02. TraversingWindowsDirectory.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\bin\Debug\_02.TraversingWindowsDirectory.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\bin\Debug\_02.TraversingWindowsDirectory.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\obj\Debug\_02.TraversingWindowsDirectory.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\02. TraversingWindowsDirectory\obj\Debug\_02.TraversingWindowsDirectory.pdb

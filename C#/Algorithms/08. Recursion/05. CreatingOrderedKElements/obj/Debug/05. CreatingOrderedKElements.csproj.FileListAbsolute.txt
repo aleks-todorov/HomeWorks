@@ -1,0 +1,9 @@
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\bin\Debug\_05.CreatingOrderedKElements.exe.config
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\bin\Debug\_05.CreatingOrderedKElements.exe
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\bin\Debug\_05.CreatingOrderedKElements.pdb
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\obj\Debug\05. CreatingOrderedKElements.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\obj\Debug\_05.CreatingOrderedKElements.exe
+D:\GoogleDrive\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\obj\Debug\_05.CreatingOrderedKElements.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\bin\Debug\_05.CreatingOrderedKElements.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\obj\Debug\_05.CreatingOrderedKElements.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\05. CreatingOrderedKElements\obj\Debug\_05.CreatingOrderedKElements.pdb

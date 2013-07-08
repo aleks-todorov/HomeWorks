@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\bin\Debug\_03.ImplementingBiDictionary.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\obj\Debug\03. ImplementingBiDictionary.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\bin\Debug\_03.ImplementingBiDictionary.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\bin\Debug\_03.ImplementingBiDictionary.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\bin\Debug\PowerCollections.xml
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\obj\Debug\_03.ImplementingBiDictionary.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\03. ImplementingBiDictionary\obj\Debug\_03.ImplementingBiDictionary.pdb

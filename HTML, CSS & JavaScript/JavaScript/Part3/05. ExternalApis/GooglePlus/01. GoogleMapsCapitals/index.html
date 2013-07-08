@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Europe Capitals</title>
+    <style>
+        #map-container {
+            margin: 0;
+            padding: 0;
+            height: 500px;
+            width: 1000px;
+        }
+
+        #infobox {
+            width: 1000px;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="../Scripts/jquery-2.0.2.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <label for="capital">Capital: </label>
+        <select id="capitals">
+            <option value="Sofia">Sofia</option>
+            <option value="Rome">Rome</option>
+            <option value="London">London</option>
+            <option value="Paris">Paris</option>
+            <option value="Vienna">Vienna</option>
+            <option value="Berlin">Berlin</option>
+            <option value="Madrid">Madrid</option>
+            <option value="Budapest">Budapest</option>
+            <option value="Prague">Prague</option>
+            <option value="Helsinki">Helsinki</option>
+        </select>
+    </div>
+    <div id="map-container"></div>
+    <script src="script/script.js"></script>
+</body>
+</html>

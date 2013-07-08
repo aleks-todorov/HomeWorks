@@ -1,0 +1,15 @@
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.dll
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.pdb
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csprojResolveAssemblyReference.cache
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.dll
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.dll
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.pdb
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csprojResolveAssemblyReference.cache
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.dll
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\GoogleAPI\bin\GoogleAPI.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\GoogleAPI\bin\GoogleAPI.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\GoogleAPI\obj\Debug\GoogleAPI.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\GoogleAPI\obj\Debug\GoogleAPI.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\GoogleAPI\obj\Debug\GoogleAPI.pdb

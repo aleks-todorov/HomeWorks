@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\bin\Debug\_02.ArticalManagement.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\bin\Debug\_02.ArticalManagement.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\bin\Debug\_02.ArticalManagement.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\obj\Debug\02. ArticalManagement.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\obj\Debug\_02.ArticalManagement.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\obj\Debug\_02.ArticalManagement.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\Algorithms\06. DataStructuresEfficiency\02. ArticalManagement\bin\Debug\PowerCollections.xml

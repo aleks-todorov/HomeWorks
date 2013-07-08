@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\1111. TEst\bin\Debug\_1111.TEst.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\1111. TEst\bin\Debug\_1111.TEst.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\1111. TEst\bin\Debug\_1111.TEst.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\1111. TEst\obj\Debug\_1111.TEst.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\1111. TEst\obj\Debug\_1111.TEst.pdb

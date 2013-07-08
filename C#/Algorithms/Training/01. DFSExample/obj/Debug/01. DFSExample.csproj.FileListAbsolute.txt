@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\bin\Debug\_01.DFSExample.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\bin\Debug\_01.DFSExample.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\bin\Debug\_01.DFSExample.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\obj\Debug\01. DFSExample.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\obj\Debug\_01.DFSExample.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\obj\Debug\_01.DFSExample.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\01. DFSExample\bin\Debug\PowerCollections.xml

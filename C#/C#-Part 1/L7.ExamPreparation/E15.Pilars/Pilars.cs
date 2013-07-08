@@ -47,16 +47,19 @@ namespace E9.FallDown
                 {
                     firstSum += columSum[j];
                 }
+
                 for (int p = i + 1; p < columSum.Length; p++)
                 {
                     secondSum += columSum[p];
                 }
+
                 if (firstSum == secondSum)
                 {
                     Console.WriteLine(7 - i);
                     Console.WriteLine(firstSum);
                     break;
                 }
+
                 if (i == 7)
                 {
                     Console.WriteLine("No");

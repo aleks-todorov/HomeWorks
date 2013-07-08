@@ -1,0 +1,1 @@
+D:\Git\HomeWorks\C#\C#-Part 1\L7.ExamPreparation\E1.CartesianCoordinateSystem\bin\Debug\E1.CartesianCoordinateSystem.exe.config

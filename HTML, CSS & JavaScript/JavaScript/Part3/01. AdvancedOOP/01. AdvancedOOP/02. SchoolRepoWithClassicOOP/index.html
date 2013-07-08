@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="CreateAndInheritFunctions.js"></script>
+    <script src="SchoolWithClasicOOP.js"></script>
+</head>
+<body>
+    <script>
+        /*Task 2:
+        Implement a repository to keep students and teachers in schools
+        Each school have a name, town and classes of students
+        Students have firstname, last name, age and grade
+        Teachers have firstname, last name, age and speciality
+        Students and Teachers can introduce themselves by printing all their non-function properties in the format PropertyName: PropertyValue
+        
+        Student introducement - Name: Peter Ivanov, Age: 13, grade: 7
+
+        *Cont: Implement a repository to keep students and teachers in schools
+        Classes have name, capacity of students, a set of students and a form-teacher (класен ръководител)
+        Implement the schools repository using Clasical OOP 
+        */
+
+        //Tests: 
+        var school = new SchoolNS.School("SomeName", "Sofia");
+        var teacher = new SchoolNS.Teacher("Ivan", "Petrov", 54, "Math");
+        var teacher2 = new SchoolNS.Teacher("Petar", "Ivanov", 32, "Geography");
+        var student = new SchoolNS.Student("Georgi", "Ivanov", 18, 11);
+        var student2 = new SchoolNS.Student("Ivan", "Georgiev", 18, 11);
+        var mathClass = new SchoolNS.SchoolClass("Math", 25, teacher);
+
+        school.addClass(mathClass);
+        mathClass.addStudents(student);
+        console.log(school.toString());
+        console.log(mathClass.toString());
+        console.log(teacher.introduce());
+        console.log(teacher2.introduce());
+        console.log(student.introduce());
+        console.log(student2.introduce());
+    </script>
+</body>
+</html>

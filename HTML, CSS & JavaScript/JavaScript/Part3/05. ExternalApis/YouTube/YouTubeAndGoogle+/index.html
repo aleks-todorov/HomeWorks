@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Google+ Sign In</title>
+    <script src="script/googlePlusInit.js"></script>
+    <script src="script/jquery-2.0.2.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <style>
+        #youtube-player {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <span id="signinButton">
+        <span
+            class="g-signin"
+            data-callback="signinCallback"
+            data-clientid="169309597603-4nvp5aqgpim76hci61a0gqtcarsqevu0.apps.googleusercontent.com"
+            data-cookiepolicy="single_host_origin"
+            data-requestvisibleactions="http://schemas.google.com/AddActivity"
+            data-scope="https://www.googleapis.com/auth/plus.login"></span>
+    </span>
+    <button id="disconnect">Disconnect </button>
+    <div id="youtube-player">
+        <div id="player"></div>
+        <br />
+        <span>ID: </span>
+        <input type="text" id="load-video" value="BGpzGu9Yp6Y" />
+        <button id="single-video">Load video</button>
+        <button id="pause">Pause video</button>
+        <button id="play">Play video</button>
+        <button id="mute">Mute video</button>
+        <button id="unmute">Unmute video</button>
+        <br />
+        <span>Playlist: </span>
+        <textarea id="playlist">BGpzGu9Yp6Y,tXFpJrlgd7A,I3g7UkOf5u4,OMGd3mAfl-0</textarea>
+        <button id="load-playlist">Load playlist</button>
+        <button id="previous">Previous</button>
+        <button id="next">Next</button>
+        <script src="scripts/youtube-player.js"></script>
+        <script src="https://apis.google.com/js/plusone.js"></script>
+        <g:plus action="share" href="http://youtube.com" id="share-tag"></g:plus>
+        <script src="script/youtube-player.js"></script>
+        <script type="text/javascript"> //put this after the last share tag
+            (function () {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+        <script>
+            var shareTag = document.getElementById('share-tag');
+            var link = 'http://www.youtube.com/watch?v=BGpzGu9Yp6Y';
+            shareTag.setAttribute('href', link);
+        </script>
+    </div>
+    <script src="script/googleHelper.js"></script>
+    <script src="script/googlePlusLogIn.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#disconnect').click(helper.disconnect);
+            $('#disconnect').click(function () {
+                $('#content').remove();
+                $('#youtube-player').toggle();
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. PriorityQueue", "01. PriorityQueue\01. PriorityQueue.csproj", "{29C97B32-4065-4EAC-BC56-BDF01828C26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. FindingProductsInPriceRange", "02. FindingProductsInPriceRange\02. FindingProductsInPriceRange.csproj", "{B8E4D1D4-5987-4BD5-ADF8-A849BAFA72EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C97B32-4065-4EAC-BC56-BDF01828C26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C97B32-4065-4EAC-BC56-BDF01828C26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C97B32-4065-4EAC-BC56-BDF01828C26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C97B32-4065-4EAC-BC56-BDF01828C26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E4D1D4-5987-4BD5-ADF8-A849BAFA72EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E4D1D4-5987-4BD5-ADF8-A849BAFA72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E4D1D4-5987-4BD5-ADF8-A849BAFA72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E4D1D4-5987-4BD5-ADF8-A849BAFA72EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

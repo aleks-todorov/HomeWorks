@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\bin\Debug\_04.ColorBalls.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\obj\Debug\04. ColorBalls.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\bin\Debug\_04.ColorBalls.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\bin\Debug\_04.ColorBalls.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\obj\Debug\_04.ColorBalls.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\09. Combinatorics\04. ColorBalls\obj\Debug\_04.ColorBalls.pdb

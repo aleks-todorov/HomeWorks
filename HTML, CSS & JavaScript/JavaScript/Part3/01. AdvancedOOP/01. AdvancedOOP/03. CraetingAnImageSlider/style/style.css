@@ -1,0 +1,9 @@
+.holder {
+  display: inline-block;
+  margin-left: 10px; }
+  .holder p {
+    text-align: center; }
+
+#container img {
+  display: block; }
+

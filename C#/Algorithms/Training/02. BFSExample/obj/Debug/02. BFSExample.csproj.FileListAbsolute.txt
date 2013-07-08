@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\bin\Debug\_02.BFSExample.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\bin\Debug\_02.BFSExample.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\bin\Debug\_02.BFSExample.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\obj\Debug\_02.BFSExample.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\obj\Debug\_02.BFSExample.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Training\02. BFSExample\obj\Debug\02. BFSExample.csprojResolveAssemblyReference.cache

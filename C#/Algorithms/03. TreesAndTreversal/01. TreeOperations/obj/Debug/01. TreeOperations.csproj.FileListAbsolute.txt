@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\bin\Debug\_01.TreeOperations.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\obj\Debug\01. TreeOperations.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\bin\Debug\_01.TreeOperations.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\bin\Debug\_01.TreeOperations.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\obj\Debug\_01.TreeOperations.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\01. TreeOperations\obj\Debug\_01.TreeOperations.pdb

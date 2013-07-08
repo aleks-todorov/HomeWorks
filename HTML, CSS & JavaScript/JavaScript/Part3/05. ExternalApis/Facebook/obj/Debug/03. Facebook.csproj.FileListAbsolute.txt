@@ -1,0 +1,15 @@
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.dll
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.pdb
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\03. Facebook.csprojResolveAssemblyReference.cache
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.dll
+D:\Google Drive\Materials\HTML,CSS & JavaScript\JavaScript\Part3\Lectures\10. Using External APIs\Third-party-APIs-demos\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\FacebookDemos\bin\FacebookDemos.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\FacebookDemos\bin\FacebookDemos.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\FacebookDemos\obj\Debug\03. Facebook.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\FacebookDemos\obj\Debug\FacebookDemos.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\FacebookDemos\obj\Debug\FacebookDemos.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\Facebook\bin\FacebookDemos.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\Facebook\bin\FacebookDemos.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\Facebook\obj\Debug\03. Facebook.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\Facebook\obj\Debug\FacebookDemos.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\Facebook\obj\Debug\FacebookDemos.pdb

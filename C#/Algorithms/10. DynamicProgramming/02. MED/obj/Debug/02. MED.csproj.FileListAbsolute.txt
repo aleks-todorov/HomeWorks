@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\02. MED\bin\Debug\_02.MED.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\02. MED\bin\Debug\_02.MED.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\02. MED\bin\Debug\_02.MED.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\02. MED\obj\Debug\_02.MED.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\02. MED\obj\Debug\_02.MED.pdb

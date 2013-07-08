@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\obj\Debug\2. CompanyStructure.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\bin\Debug\_2.CompanyStructure.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\bin\Debug\_2.CompanyStructure.exe
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\bin\Debug\_2.CompanyStructure.pdb
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\obj\Debug\_2.CompanyStructure.exe
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\2. CompanyStructure\obj\Debug\_2.CompanyStructure.pdb

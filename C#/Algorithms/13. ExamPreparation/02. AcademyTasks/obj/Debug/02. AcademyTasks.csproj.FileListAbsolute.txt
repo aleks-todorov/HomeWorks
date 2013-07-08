@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\bin\Debug\_02.AcademyTasks.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\bin\Debug\_02.AcademyTasks.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\bin\Debug\_02.AcademyTasks.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\obj\Debug\_02.AcademyTasks.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\obj\Debug\_02.AcademyTasks.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\02. AcademyTasks\obj\Debug\02. AcademyTasks.csprojResolveAssemblyReference.cache

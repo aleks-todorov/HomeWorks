@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\obj\Debug\02. FindingProductsInPriceRange.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\bin\Debug\_02.FindingProductsInPriceRange.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\bin\Debug\_02.FindingProductsInPriceRange.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\bin\Debug\_02.FindingProductsInPriceRange.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\bin\Debug\PowerCollections.xml
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\obj\Debug\_02.FindingProductsInPriceRange.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\05. AdvancedDataStructures\02. FindingProductsInPriceRange\obj\Debug\_02.FindingProductsInPriceRange.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\bin\Debug\_04.RiskWinsRiskLoses.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\bin\Debug\_04.RiskWinsRiskLoses.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\bin\Debug\_04.RiskWinsRiskLoses.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\obj\Debug\04. RiskWinsRiskLoses.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\obj\Debug\_04.RiskWinsRiskLoses.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\13. ExamPreparation\04. RiskWinsRiskLoses\obj\Debug\_04.RiskWinsRiskLoses.pdb

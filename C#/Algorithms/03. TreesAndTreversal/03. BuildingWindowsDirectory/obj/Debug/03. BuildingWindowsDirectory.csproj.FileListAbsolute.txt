@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\bin\Debug\_03.BuildingWindowsDirectory.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\obj\Debug\03. BuildingWindowsDirectory.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\bin\Debug\_03.BuildingWindowsDirectory.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\bin\Debug\_03.BuildingWindowsDirectory.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\obj\Debug\_03.BuildingWindowsDirectory.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\03. TreesAndTreversal\03. BuildingWindowsDirectory\obj\Debug\_03.BuildingWindowsDirectory.pdb

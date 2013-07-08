@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\05. ExternalApis\bin\_05.ExternalApis.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\05. ExternalApis\bin\_05.ExternalApis.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\05. ExternalApis\obj\Debug\05. ExternalApis.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\05. ExternalApis\obj\Debug\_05.ExternalApis.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\05. ExternalApis\obj\Debug\_05.ExternalApis.pdb

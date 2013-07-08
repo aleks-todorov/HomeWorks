@@ -1,0 +1,9 @@
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\bin\Debug\_07.FindNumberOccurence.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\obj\Debug\07. FindNumberOccurence.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\bin\Debug\_07.FindNumberOccurence.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\bin\Debug\_07.FindNumberOccurence.pdb
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\obj\Debug\_07.FindNumberOccurence.exe
+D:\Temp\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\obj\Debug\_07.FindNumberOccurence.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\bin\Debug\_07.FindNumberOccurence.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\obj\Debug\_07.FindNumberOccurence.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\2.LinearDataStructures\07. FindNumberOccurence\obj\Debug\_07.FindNumberOccurence.pdb

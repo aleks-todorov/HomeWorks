@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\01. AdvancedOOP\01. AdvancedOOP\bin\_01.AdvancedOOP.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\01. AdvancedOOP\01. AdvancedOOP\bin\_01.AdvancedOOP.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\01. AdvancedOOP\01. AdvancedOOP\obj\Debug\01. AdvancedOOP.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\01. AdvancedOOP\01. AdvancedOOP\obj\Debug\_01.AdvancedOOP.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\01. AdvancedOOP\01. AdvancedOOP\obj\Debug\_01.AdvancedOOP.pdb

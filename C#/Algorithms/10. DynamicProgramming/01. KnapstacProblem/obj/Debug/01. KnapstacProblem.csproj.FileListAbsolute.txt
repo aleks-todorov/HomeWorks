@@ -1,0 +1,9 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\bin\Debug\_01.KnapstacProblem.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\bin\Debug\_01.KnapstacProblem.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\bin\Debug\_01.KnapstacProblem.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\obj\Debug\01. KnapstacProblem.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\obj\Debug\_01.KnapstacProblem.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DinamicProgramming\01. KnapstacProblem\obj\Debug\_01.KnapstacProblem.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DynamicProgramming\01. KnapstacProblem\bin\Debug\_01.KnapstacProblem.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DynamicProgramming\01. KnapstacProblem\obj\Debug\_01.KnapstacProblem.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\10. DynamicProgramming\01. KnapstacProblem\obj\Debug\_01.KnapstacProblem.pdb

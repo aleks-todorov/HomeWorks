@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="CreateAndExtendFunctions.js"></script>
+    <script src="SchoolWithPrototypeOOP.js"></script>
+</head>
+<body>
+    <script>
+        /*Task 1:
+        Implement a repository to keep students and teachers in schools
+        Each school have a name, town and classes of students
+        Students have firstname, last name, age and grade
+        Teachers have firstname, last name, age and speciality
+        Students and Teachers can introduce themselves by printing all their non-function properties in the format PropertyName: PropertyValue
+        
+        Student introducement - Name: Peter Ivanov, Age: 13, grade: 7
+
+        *Cont: Implement a repository to keep students and teachers in schools
+        Classes have name, capacity of students, a set of students and a form-teacher (класен ръководител)
+        Implement the schools repository using Prototypal OOP 
+        */
+
+        //Tests: 
+        var school = Object.create(SchoolNS.School);
+        school.init("SomeName", "Sofia");
+        var teacher = Object.create(SchoolNS.Teacher);
+        teacher.init("Ivan", "Petrov", 54, "Math");
+        var student = Object.create(SchoolNS.Student);
+        student.init("Georgi", "Ivanov", 18, 11);
+        var teacher2 = Object.create(SchoolNS.Teacher);
+        teacher2.init("Petar", "Ivanov", 32, "Geography");
+        var student2 = Object.create(SchoolNS.Student);
+        student2.init("Ivan", "Georgiev", 18, 11);
+        var mathClass = Object.create(SchoolNS.SchoolClass);
+        mathClass.init("Math", 25, teacher);
+        school.addClass(mathClass);
+        mathClass.addStudents(student);
+        console.log(school.toString());
+        console.log(mathClass.toString());
+        console.log(teacher.introduce());
+        console.log(teacher2.introduce());
+        console.log(student.introduce());
+        console.log(student2.introduce());
+    </script>
+</body>
+</html>

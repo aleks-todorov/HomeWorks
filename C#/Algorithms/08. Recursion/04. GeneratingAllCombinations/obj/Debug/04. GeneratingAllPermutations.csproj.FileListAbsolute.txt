@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\bin\Debug\_04.GeneratingAllCombinations.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\bin\Debug\_04.GeneratingAllCombinations.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\bin\Debug\_04.GeneratingAllCombinations.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\obj\Debug\04. GeneratingAllPermutations.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\obj\Debug\_04.GeneratingAllCombinations.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\08. Recursion\04. GeneratingAllCombinations\obj\Debug\_04.GeneratingAllCombinations.pdb

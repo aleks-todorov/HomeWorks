@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\bin\Debug\_01.Frames.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\bin\Debug\_01.Frames.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\bin\Debug\_01.Frames.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\obj\Debug\_01.Frames.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\obj\Debug\_01.Frames.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\01. Frames\obj\Debug\01. Frames.csprojResolveAssemblyReference.cache

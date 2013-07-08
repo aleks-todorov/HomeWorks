@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\bin\Debug\_05.Gentleman.exe.config
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\bin\Debug\_05.Gentleman.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\bin\Debug\_05.Gentleman.pdb
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\obj\Debug\05. Gentleman.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\obj\Debug\_05.Gentleman.exe
+D:\Google Drive\HomeWorks\C#\Algorithms\Exam\05. Gentleman\obj\Debug\_05.Gentleman.pdb

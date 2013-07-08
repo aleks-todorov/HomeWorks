@@ -1,0 +1,6 @@
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\obj\Debug\1. MaximalPath.csprojResolveAssemblyReference.cache
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\bin\Debug\BGCodderVol3.exe.config
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\bin\Debug\BGCodderVol3.exe
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\bin\Debug\BGCodderVol3.pdb
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\obj\Debug\BGCodderVol3.exe
+D:\Temp\HomeWorks\C#\Algorithms\BGCodderVol3\BGCodderVol3\obj\Debug\BGCodderVol3.pdb

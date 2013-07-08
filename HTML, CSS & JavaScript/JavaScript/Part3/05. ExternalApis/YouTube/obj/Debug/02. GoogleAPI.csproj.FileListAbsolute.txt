@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\YouTube\bin\GoogleAPI.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\YouTube\bin\GoogleAPI.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\YouTube\obj\Debug\GoogleAPI.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part3\05. ExternalApis\YouTube\obj\Debug\GoogleAPI.pdb
