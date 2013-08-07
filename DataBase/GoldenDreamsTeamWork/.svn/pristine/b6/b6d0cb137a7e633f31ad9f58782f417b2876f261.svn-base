@@ -1,0 +1,23 @@
+﻿using System.Collections.Generic;
+using Sales.Models.Excel.Models;
+
+namespace Sales.Data.Excel
+{
+    public class SupermarketData
+    {
+        public string Name { get; private set; }
+
+        public ICollection<Record> Items { get; private set; }
+
+        public SupermarketData(string name)
+        {
+            this.Name = name;
+            this.Items = new List<Record>();
+        }
+
+        public void Add(Record record)
+        {
+            this.Items.Add(record);
+        }
+    }
+}

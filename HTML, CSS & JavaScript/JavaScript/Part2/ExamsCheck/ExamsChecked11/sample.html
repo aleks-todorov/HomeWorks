@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="gallery.js"></script>
+    <script type="text/javascript" src="LocalStorageExtension.js"></script>
+    <style>
+        div .albums
+        {
+            border:1px solid black;
+        }
+        a
+        {
+            color:black;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="image-gallery-holder"></div>
+
+    <script type="text/javascript">
+        var source = "image/ninja.jpg";
+        //Work in Firefox best
+        //First task
+        var gallery = controls.getImageGallery("#image-gallery-holder");
+
+        gallery.addImage("ninja1", source);
+        gallery.addImage("ninja2", source);
+        var album = gallery.addAlbum("album").addAlbum("album").addAlbum("album").addAlbum("album").addAlbum("album").addAlbum("album");
+        album.addImage("ninja3", source);
+
+        //Second task
+        var album2 = album.addAlbum("Nested album");
+        album2.addImage("ninja101", source);
+        gallery.addAlbum("New Album");
+        gallery.render();
+        
+        //Third task: click on titles of the albums
+
+        //Forth task:
+        var imageGalleryData = gallery.serialize();
+        localStorage.save("gallery", imageGalleryData);
+        var galleryData = localStorage.load("gallery");
+        console.log(galleryData);
+
+     </script>
+</body>
+</html>

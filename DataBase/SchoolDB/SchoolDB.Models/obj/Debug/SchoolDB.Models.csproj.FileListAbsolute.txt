@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\bin\Debug\SchoolDB.Models.dll
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\bin\Debug\SchoolDB.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\obj\Debug\SchoolDB.Models.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\obj\Debug\SchoolDB.Models.dll
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\obj\Debug\SchoolDB.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\bin\Debug\SchoolDB.Models.dll.config
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\SchoolDB\SchoolDB.Models\bin\Debug\EntityFramework.xml

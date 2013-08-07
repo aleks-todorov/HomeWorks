@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\_03.FindingSpecificCustomers.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\_03.FindingSpecificCustomers.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\_03.FindingSpecificCustomers.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\obj\Debug\_03.FindingSpecificCustomers.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\obj\Debug\_03.FindingSpecificCustomers.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\03. FindingSpecificCustomers\obj\Debug\03. FindingSpecificCustomers.csprojResolveAssemblyReference.cache

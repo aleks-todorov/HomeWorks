@@ -1,0 +1,74 @@
+﻿using System;
+using System.Data.Entity;
+using System.Linq;
+using System.Collections.Generic;
+using System.Diagnostics;
+using SupermarketEntities;
+
+namespace Sales
+{
+    public class Program
+    {
+        static void Main()
+        {
+            SupermarketModel mySqlTest = new SupermarketModel();
+
+            foreach (var product in mySqlTest.Products)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+           
+            Debug.Listeners.Add(new ConsoleTraceListener());
+
+            //new ReadExcelReports("../../../Data/Sample-Sales-Reports.zip", "../../../Temp/ExcelReports/")
+            //    .Extract()
+            //    .Read();
+
+            //try
+            //{
+            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<SalesContext, Configuration>());
+
+            //using (var db = new SalesContext())
+            //{
+            //    var vendor = new Vendor
+            //    {
+            //        Name = "Zagorka"
+            //    };
+
+            //    var product = new Product
+            //    {
+            //        BasePrice = 10,
+            //        Measure = Measure.Liter,
+            //        Name = "Beer",
+            //        Vendor = vendor
+            //    };
+
+            //    vendor.Products.Add(product);
+
+            //    var supermarket = new Supermarket
+            //    {
+            //        Name = "Pesho Supermarket",
+            //    };
+
+            //    var record = new Record
+            //    {
+            //        Date = DateTime.Now,
+            //        Product = product,
+            //        Quantity = 3,
+            //        UnitPrice = 12
+            //    };
+
+            //    supermarket.Records.Add(record);
+
+            //    db.Supermarkets.Add(supermarket);
+
+            //    db.SaveChanges();
+            //}
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.InnerException.Message);
+            //}
+        }
+    }
+}

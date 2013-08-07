@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\bin\Debug\_11.ExtractingDataFromCatalogueWithXPath.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\bin\Debug\_11.ExtractingDataFromCatalogueWithXPath.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\bin\Debug\_11.ExtractingDataFromCatalogueWithXPath.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\obj\Debug\_11.ExtractingDataFromCatalogueWithXPath.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\obj\Debug\_11.ExtractingDataFromCatalogueWithXPath.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\11. ExtractingDataFromCatalogueWithXPath\obj\Debug\11. ExtractingDataFromCatalogueWithXPath.csprojResolveAssemblyReference.cache

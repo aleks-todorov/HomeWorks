@@ -1,0 +1,239 @@
+body{
+	background: rgb(74,82,74);
+}
+
+#user-interface{
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 1200px;
+	height: 200px;
+	background: black;
+}
+
+.label{
+	display: inline-block;
+	margin-left: 10px; 
+	margin-top: 10px;
+	width: 180px;
+	height: 30px;
+	background: rgb(32,124,202);
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#parent-element, #tree-level, #child-element,#header-element{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 120px;
+	height: 25px;
+	background: rgb(65,72,65);
+
+	font-size: 18px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#content-element{
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 10px;
+	height: 80px;
+	width: 120px;
+	max-width: 120px;
+	max-height: 80px;
+}
+
+#btnAddChild,#AddAccordionChild{
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 180px;
+	height: 30px;
+	background: rgb(41,154,11);
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#treeview{
+	margin-top: 10px;
+	margin-left: 10px;
+	min-height: 200px;
+	min-width: 200px;
+}
+
+ul{
+	margin-left: 10px;
+	list-style: none;
+}
+
+li{
+	width: 180px;
+	font-family: sans-serif;
+	color: white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+
+.text{
+	background: rgb(107,186,112);
+	font-family: sans-serif;
+	color: white;
+	display: block;
+}
+
+.header{
+	height: 30px;
+	width: 120px;
+	background: rgb(37,141,200);
+	text-align: center;
+}
+
+.content{
+	display: block;
+	padding: 5px;
+	padding-top: 0px;
+	height: 80px;
+	width: 110px;
+	background: rgb(63,76,107);
+}
+
+.slider{
+	min-height: 30px;
+	width: 120px;
+	overflow: hidden;
+}
+
+.button{
+	width: 220px;
+	height: 30px;
+	margin-left: 10px;
+	background: rgb(107,186,112);
+
+	border-radius: 5px;
+	-moz-border-radius:5px;
+}
+
+#gallery{
+	margin-top: 20px;
+	min-height: 300px;
+	min-width: 500px;
+}
+
+.image{
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 100px;
+	width: 100px;
+	border:1px solid black;
+	border-radius: 5px;
+	-moz-border-radius:5px;
+	display: inline-block;
+}
+
+#imageTitle{
+	text-align: center;
+	width: 100px;
+	height: 30px;
+}
+
+.imageSource{
+	margin-left: 20px;
+	width: 60px;
+	height: 60px;
+	background-image: "url('ninja-top.gif')";
+	background-position: 0% 0%;
+	background-size: "60px 60px";
+	background-repeat: no-repeat;
+}
+
+.album{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	display: block;
+
+	border:1px solid black;
+	border-radius: 5px;
+	-moz-border-radius:5px;
+}
+
+.short{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	display: block;
+
+	border:1px solid black;
+	border-radius: 1px;
+	height: 40px;
+	overflow: hidden;
+}
+#albumTitle{
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	height: 30px;
+}
+
+#albumContainer{
+	margin-top: 10px;
+	display: block;
+}
+
+#enlarged{
+	margin-top: 10px;
+	width: 200px;
+	height: 200px;
+	display: block;
+}
+
+#enlargeTitle{
+	font-size: 20px;
+	text-align: center;
+	width: 200px;
+	height: 50px;
+}
+
+#enlargeSource{
+	width: 150px;
+	height: 150px;
+	margin-left: 50px;
+}
+
+#sortAlbums{
+	margin-left: 10px;
+	width: 120px;
+	height: 30px;
+	background: rgb(107,186,112);
+
+	border-radius: 5px;
+	-moz-border-radius:5px;
+}
+
+.sortInnerAlbums{
+	width: 120px;
+	height: 30px;
+	background: rgb(107,186,112);
+	margin-bottom: 3px;
+
+	border-radius: 5px;
+	-moz-border-radius:5px;
+}
+
+#addGalleryToRepository,#buildGalleryFromRepository{
+	width: 220px;
+	height: 30px;
+	margin-left: 10px;
+	background: rgb(107,186,112);
+	margin-bottom: 3px;
+
+	border-radius: 5px;
+	-moz-border-radius:5px;
+}

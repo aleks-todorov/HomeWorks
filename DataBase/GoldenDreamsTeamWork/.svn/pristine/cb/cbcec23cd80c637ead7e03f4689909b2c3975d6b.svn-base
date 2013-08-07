@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Linq;
+
+namespace Sales.Data.XML
+{
+    public class XmlParser
+    {
+        public static void Parse(string path)
+        {
+            XDocument xmlDoc = XDocument.Load(path);
+            var sales =
+              from sale in xmlDoc.Descendants("sale")
+              select new
+              {
+                  Vendor = sale.Attribute("vendor").Value,
+                  Expense = sale.Descendants("expenses").Select(x => new { Month = DateTime.Parse(x.Attribute("month").Value), Expense = decimal.Parse(x.Value) })
+              };
+
+            foreach (var sale in sales)
+            {
+                Console.WriteLine(sale.Vendor);
+                foreach (var expense in sale.Expense)
+                {
+                    Console.WriteLine(expense);
+                }
+            }
+        }
+    }
+}

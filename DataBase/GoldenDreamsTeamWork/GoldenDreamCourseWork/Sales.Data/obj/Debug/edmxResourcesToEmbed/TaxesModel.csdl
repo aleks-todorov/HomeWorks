@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TaxModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TaxesEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Taxes" EntityType="TaxModel.Tax" />
+  </EntityContainer>
+  <EntityType Name="Tax">
+    <Key>
+      <PropertyRef Name="ProductName" />
+      <PropertyRef Name="Percent" />
+    </Key>
+    <Property Name="ProductName" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="Percent" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

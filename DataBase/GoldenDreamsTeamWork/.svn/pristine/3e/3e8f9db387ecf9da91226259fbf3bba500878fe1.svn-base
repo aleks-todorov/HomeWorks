@@ -1,0 +1,14 @@
+﻿namespace Sales.Models.MSSQL.Models
+{
+    public enum Measure
+    {
+        Litres,
+        Pieces,
+        Kilograms,
+        Pounds,
+        Grams,
+        Ounces,
+        Gallons,
+        Inches
+    }
+}

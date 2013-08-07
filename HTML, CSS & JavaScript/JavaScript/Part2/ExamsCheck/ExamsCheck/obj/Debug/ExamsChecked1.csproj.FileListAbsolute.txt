@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamsCheck\bin\ExamsCheck.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamsCheck\bin\ExamsCheck.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamsCheck\obj\Debug\ExamsCheck.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamsCheck\obj\Debug\ExamsCheck.pdb

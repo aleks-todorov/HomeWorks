@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\_05.FindingSalesByRegionaAndTimeFrame.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\_05.FindingSalesByRegionaAndTimeFrame.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\_05.FindingSalesByRegionaAndTimeFrame.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\obj\Debug\_05.FindingSalesByRegionaAndTimeFrame.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\obj\Debug\_05.FindingSalesByRegionaAndTimeFrame.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\05. FindingSalesByRegionaAndTimeFrame\obj\Debug\05. FindingSalesByRegionaAndTimeFrame.csprojResolveAssemblyReference.cache

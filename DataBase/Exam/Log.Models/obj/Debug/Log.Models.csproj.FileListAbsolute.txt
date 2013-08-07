@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Models\bin\Debug\Log.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Models\bin\Debug\Log.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Models\obj\Debug\Log.Models.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Models\obj\Debug\Log.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Models\obj\Debug\Log.Models.pdb

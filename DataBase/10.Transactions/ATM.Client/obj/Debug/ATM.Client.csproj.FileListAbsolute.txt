@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\ATM.Client.exe.config
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\obj\Debug\ATM.Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\ATM.Client.exe
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\ATM.Client.pdb
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\ATM.Models.dll
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\ATM.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\obj\Debug\ATM.Client.exe
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Client\obj\Debug\ATM.Client.pdb

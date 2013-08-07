@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\bin\Debug\_08.SearchingProductsFromNorthWind.exe.config
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\bin\Debug\_08.SearchingProductsFromNorthWind.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\bin\Debug\_08.SearchingProductsFromNorthWind.pdb
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\obj\Debug\_08.SearchingProductsFromNorthWind.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\obj\Debug\_08.SearchingProductsFromNorthWind.pdb
+D:\Google Drive\HomeWorks\DataBase\06. ADO\08. SearchingProductsFromNorthWind\obj\Debug\08. SearchingProductsFromNorthWind.csprojResolveAssemblyReference.cache

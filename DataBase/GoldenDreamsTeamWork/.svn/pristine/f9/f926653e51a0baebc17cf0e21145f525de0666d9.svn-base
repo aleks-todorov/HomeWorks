@@ -1,0 +1,125 @@
+﻿using iTextSharp.text;
+using iTextSharp.text.pdf;
+using System.IO;
+using System.Globalization;
+
+public class PDFCreator
+{
+    private decimal currentSum;
+    private readonly Document doc = new Document();
+    private PdfPTable table;
+    private int tableColls;
+    private decimal totalSum;
+
+    public string Path { get; set; }
+
+    public PDFCreator(string path)
+    {
+        this.Path = path;
+    }
+
+    public void CreatePDF(string fileName)
+    {
+        PdfWriter.GetInstance(this.doc, new FileStream(this.Path + "/" + fileName + ".pdf", FileMode.Create));
+        doc.Open();
+    }
+
+    public void CreateTable(int tableColls)
+    {
+        table = new PdfPTable(tableColls);
+        this.tableColls = tableColls;
+        this.currentSum = 0;
+    }
+
+    public void AddNewParagraph(string text)
+    {
+        doc.Open();
+        doc.Add(new Paragraph(text));
+        doc.Close();
+    }
+
+    public void AddTableHeader(string text, int collSpan)
+    {
+        var cell = new PdfPCell(new Phrase("Date: " + text));
+        cell.BackgroundColor = new iTextSharp.text.BaseColor(217, 217, 217, 0);
+        cell.Colspan = collSpan;
+        cell.HorizontalAlignment = 0; //0=Left, 1=Centre, 2=Right 
+        table.AddCell(cell);
+    }
+
+    public void AddColumnNames(string[] names)
+    {
+
+        foreach (var name in names)
+        {
+
+            var fontBold = FontFactory.GetFont(FontFactory.HELVETICA_BOLD, 12, iTextSharp.text.Font.BOLD);
+            var titleChunk = new Chunk(name, fontBold);
+
+            var phrase = new Phrase(titleChunk);
+            var cell = new PdfPCell(phrase);
+            cell.BackgroundColor = new iTextSharp.text.BaseColor(217, 217, 217, 0);
+            cell.HorizontalAlignment = 1;
+            table.AddCell(cell);
+        }
+    }
+
+    public void AddContent(string[] content)
+    {
+        for (int i = 0; i < content.Length; i++)
+        {
+            //Current possition of the Price cell
+            if (i == (this.tableColls - 1))
+            {
+                currentSum += decimal.Parse(content[i]);
+            }
+
+            var cell = new PdfPCell(new Phrase(content[i]));
+            cell.HorizontalAlignment = 1;
+            table.AddCell(cell);
+        }
+    }
+
+    public void AddCurrentSum(string date)
+    {
+        var cell = new PdfPCell(new Phrase("Total Sum for: " + date));
+        cell.Colspan = tableColls - 1;
+        cell.HorizontalAlignment = 2; //0=Left, 1=Centre, 2=Right 
+        this.table.AddCell(cell);
+        var fontBold = FontFactory.GetFont(FontFactory.HELVETICA_BOLD, 10, iTextSharp.text.Font.BOLD);
+        var titleChunk = new Chunk(currentSum.ToString("C2", CultureInfo.CurrentCulture), fontBold);
+        var phrase = new Phrase(titleChunk);
+        var totalSumCell = new PdfPCell(phrase);
+        totalSumCell.HorizontalAlignment = 1; //0=Left, 1=Centre, 2=Right 
+        this.table.AddCell(totalSumCell);
+        this.totalSum += this.currentSum;
+    }
+
+    public void AddTable()
+    {
+        doc.Add(table);
+    }
+
+    public void CloseFile()
+    {
+        AddTotalSum();
+        doc.Close();
+    }
+
+    public void AddTotalSum()
+    {
+        CreateTable(this.tableColls);
+
+        var cell = new PdfPCell(new Phrase("Grand Total: "));
+        cell.Colspan = tableColls - 1;
+        cell.HorizontalAlignment = 2; //0=Left, 1=Centre, 2=Right 
+        this.table.AddCell(cell);
+        var fontBold = FontFactory.GetFont(FontFactory.HELVETICA_BOLD, 10, iTextSharp.text.Font.BOLD);
+        var titleChunk = new Chunk(this.totalSum.ToString("C2", CultureInfo.CurrentCulture), fontBold);
+        var phrase = new Phrase(titleChunk);
+        var totalSumCell = new PdfPCell(phrase);
+        totalSumCell.HorizontalAlignment = 1; //0=Left, 1=Centre, 2=Right 
+        this.table.AddCell(totalSumCell);
+        AddTable();
+    }
+}

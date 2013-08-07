@@ -1,0 +1,4 @@
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Models\bin\Debug\University.Models.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Models\bin\Debug\University.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Models\obj\Debug\University.Models.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Models\obj\Debug\University.Models.pdb

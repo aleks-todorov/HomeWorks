@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\_11.CreatingUsersInDB.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\_11.CreatingUsersInDB.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\_11.CreatingUsersInDB.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\obj\Debug\_11.CreatingUsersInDB.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\obj\Debug\_11.CreatingUsersInDB.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\obj\Debug\11. CreatingUsersInDB.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\Users.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\Users.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\11. CreatingUsersInDB\bin\Debug\EntityFramework.xml

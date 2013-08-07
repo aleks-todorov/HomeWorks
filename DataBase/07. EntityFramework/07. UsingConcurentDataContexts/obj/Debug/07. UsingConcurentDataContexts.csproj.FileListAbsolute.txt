@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\_07.UsingConcurentDataContexts.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\obj\Debug\07. UsingConcurentDataContexts.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\_07.UsingConcurentDataContexts.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\_07.UsingConcurentDataContexts.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\obj\Debug\_07.UsingConcurentDataContexts.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\07. UsingConcurentDataContexts\obj\Debug\_07.UsingConcurentDataContexts.pdb

@@ -1,0 +1,30 @@
+﻿body, div, img, figure, figcaption {
+    margin: 0px;
+    padding: 0px;
+}
+
+div#image-gallery-holder {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+figure {
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #dedede;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+figcaption{
+    padding-bottom: 15px;
+}
+
+div.album {
+    border: 1px solid #dedede;
+    border-radius: 6px;
+    width: 420px;
+    text-align: center;
+    padding: 30px;
+}

@@ -1,0 +1,9 @@
+﻿namespace Sales.Models.MSSQL.Models
+{
+    public enum Measure
+    {
+        Liter,
+        Piece,
+        Kilogram
+    }
+}

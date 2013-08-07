@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFrameworkDemo.Client.exe.config
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\obj\Debug\EntityFrameworkDemo.Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFrameworkDemo.Client.exe
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFrameworkDemo.Client.pdb
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFrameWorkDemo.Models.dll
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFrameWorkDemo.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\obj\Debug\EntityFrameworkDemo.Client.exe
+D:\Google Drive\HomeWorks\DataBase\EntityFrameWorkDemo\EntityFrameworkDemo.Client\obj\Debug\EntityFrameworkDemo.Client.pdb

@@ -1,0 +1,7 @@
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.dll.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\03. ASP.NET-WEB-Api\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.pdb

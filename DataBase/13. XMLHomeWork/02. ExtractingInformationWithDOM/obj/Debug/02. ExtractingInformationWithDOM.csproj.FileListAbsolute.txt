@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\obj\Debug\02. ExtractingInformationWithDOM.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\bin\Debug\_02.ExtractingInformationWithDOM.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\bin\Debug\_02.ExtractingInformationWithDOM.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\bin\Debug\_02.ExtractingInformationWithDOM.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\obj\Debug\_02.ExtractingInformationWithDOM.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\02. ExtractingInformationWithDOM\obj\Debug\_02.ExtractingInformationWithDOM.pdb

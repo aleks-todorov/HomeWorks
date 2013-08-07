@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\bin\Debug\07.ParsingPersonInfoFromFile.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\bin\Debug\07.ParsingPersonInfoFromFile.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\bin\Debug\07.ParsingPersonInfoFromFile.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\obj\Debug\07.ParsingPersonInfoFromFile.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\obj\Debug\07.ParsingPersonInfoFromFile.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\07.ParsingPersonInfoFromFile\obj\Debug\07.ParsingPersonInfoFromFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\bin\Debug\DancingMan.exe.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\bin\Debug\DancingMan.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\bin\Debug\DancingMan.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\obj\Debug\DancingMan.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\obj\Debug\DancingMan.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. RepositoryPattern\Repository\DancingMan\obj\Debug\DancingMan.pdb

@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="scripts/gallery.js"></script>
+    <script type="text/javascript" src="scripts/repository.js"></script>
+    <style type="text/css">
+       li{
+            display:inline
+       }
+    </style>
+</head>
+<body>
+<div id="image-gallery-holder"></div>
+<script>
+	//Tsak1
+    var gallery = controls.getImageGallery("#image-gallery-holder");   
+    gallery.addImage("JS Ninja", "images/js-ninja.png");
+    gallery.addImage("JS Ninja", "images/js-ninja.png");
+    gallery.addImage("JS Ninja", "images/js-ninja.png");
+	
+    var ninjasAlbum = gallery.addAlbum("Ninjas"); 
+
+    ninjasAlbum.addImage("JS Ninja 2", "images/js-ninja.png");
+    ninjasAlbum.addImage("JS Ninja 2", "images/js-ninja.png");
+    ninjasAlbum.addImage("JS Ninja 2", "images/js-ninja.png");
+
+	//Task2
+    var kidsAlbum = gallery.addAlbum("Kids Ninjas");
+
+    kidsAlbum.addImage("JS Ninja 3", "images/js-ninja.png");
+    kidsAlbum.addImage("JS Ninja 3", "images/js-ninja.png");
+    kidsAlbum.addImage("JS Ninja 3", "images/js-ninja.png");
+        
+    //Task4
+    var imageGalleryData = gallery.serialize();
+    console.log(imageGalleryData);
+    imageGalleryRepository.save("ninjas-gallery", imageGalleryData);
+    console.log(localStorage.getItem("ninjas-gallery"));
+    var galleryData = imageGalleryRepository.load("ninjas-gallery");
+    console.log(galleryData);
+</script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title></title>
+    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="local-storage-extentions.js"></script>
+    <style>
+        img
+        {
+            margin: 20px;
+        }
+
+        a
+        {
+            text-decoration: none;
+            color: green;
+            font-size: 2em;
+        }
+
+        #image-container div
+        {
+            border: 1px solid black;
+            width: 700px;
+        }
+    </style>
+</head>
+<body>
+    <div id="image-container"></div>
+    <script>
+        //test task 1
+        var gallery = controls.getImageGallery("#image-container");
+        gallery.addImage("ninja", "images/ninja.jpg");
+        gallery.addImage("ninja", "images/ninja.jpg");
+        gallery.addImage("ninja", "images/ninja.jpg");
+        gallery.addImage("ninja", "images/ninja.jpg");
+        gallery.addImage("ninja", "images/ninja.jpg");
+
+        var ninjaAlbum = gallery.addAlbum("Ninjas");
+        ninjaAlbum.addImage("ninja 2", "images/ninja.jpg");
+        ninjaAlbum.addImage("ninja 2", "images/ninja.jpg");
+        ninjaAlbum.addImage("ninja 2", "images/ninja.jpg");
+
+        //test task 2
+        var kidsAlbum = ninjaAlbum.addAlbum("Kids");
+        kidsAlbum.addImage("ninja x", "images/ninja.jpg");
+        kidsAlbum.addImage("ninja x", "images/ninja.jpg");
+        kidsAlbum.addImage("ninja x", "images/ninja.jpg");
+        kidsAlbum.addImage("ninja x", "images/ninja.jpg");
+        kidsAlbum.addImage("ninja x", "images/ninja.jpg");
+
+        var mothersAlbum = ninjaAlbum.addAlbum("Mothers");
+        mothersAlbum.addImage("ninja x", "images/ninja.jpg");
+        mothersAlbum.addImage("ninja x", "images/ninja.jpg");
+        mothersAlbum.addImage("ninja x", "images/ninja.jpg");
+
+        var grannyAlbum = mothersAlbum.addAlbum("Granny");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+        grannyAlbum.addImage("ninja x", "images/ninja.jpg");
+
+        //to test if the click does nothing if the album is empty - task 3
+        var babyAlbum = kidsAlbum.addAlbum("Baby");
+
+        //test task 4-5 - this saves the gallery in the local storage.. u can see that in chrome by pressing alt+shift+j > resources > local storage
+        //the function save saves the gallery data and localStorage.set/getObject functios save and get an object in/from the local storage
+        var currentGalleryState = gallery.save();
+        localStorage.setObject("my-gallery", currentGalleryState);
+
+        var nextState = localStorage.getObject("my-gallery");
+        console.log(nextState);
+        //the renderer
+        gallery.render();
+
+        //test task 7 when u click on an image
+    </script>
+</body>
+</html>

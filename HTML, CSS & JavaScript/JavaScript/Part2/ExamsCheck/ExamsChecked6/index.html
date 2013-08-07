@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Image Gallery</title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <div id="gallery-holder"></div>
+
+    <script>
+
+        var gallery = controls.getImageGallery("#gallery-holder");
+        gallery.addAlbum("Adriana Lima");
+        gallery.addImage("Adriana Lima", "adrianaLima.jpeg");
+        gallery.render();
+    </script>
+</body>
+</html>

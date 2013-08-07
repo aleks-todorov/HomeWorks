@@ -1,0 +1,14 @@
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\_05.SimpleSearchForBooks.exe.config
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\_05.SimpleSearchForBooks.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\_05.SimpleSearchForBooks.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Bookstore.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Log.Data.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Log.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Bookstore.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Log.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\Log.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\obj\Debug\05. SimpleSearchForBooks.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\obj\Debug\_05.SimpleSearchForBooks.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\05. SimpleSearchForBooks\obj\Debug\_05.SimpleSearchForBooks.pdb

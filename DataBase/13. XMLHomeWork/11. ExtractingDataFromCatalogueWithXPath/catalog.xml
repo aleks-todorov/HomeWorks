@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <album>
+    <name>The chronics</name>
+    <artist>Dr.Dre</artist>
+    <year>1992</year>
+    <producer>Dr.Dre</producer>
+    <price>9.99</price>
+    <songs>
+      <title>Fuck wit Dre Day (And Everybody's Celebratin')</title>
+      <duration>4:52</duration>
+    </songs>
+    <songs>
+      <title>"Let Me Ride"</title>
+      <duration>2:21</duration>
+    </songs>
+    <songs>
+      <title>"The Day the Niggaz Took Over"</title>
+      <duration>4:33</duration>
+    </songs>
+  </album>
+  <album>
+    <name>All Eyez on Me</name>
+    <artist>2Pac</artist>
+    <year>1996</year>
+    <producer>Suge Knight</producer>
+    <price>9.99</price>
+    <songs>
+      <title>"Ambitionz Az a Ridah"</title>
+      <duration>4:39</duration>
+    </songs>
+    <songs>
+      <title>"All About U"</title>
+      <duration>4:37</duration>
+    </songs>
+    <songs>
+      <title>"Skandalouz"</title>
+      <duration>4:09</duration>
+    </songs>
+    <songs>
+      <title>"Got My Mind Made Up"</title>
+      <duration>5:13</duration>
+    </songs>
+  </album>
+  <album>
+    <name>AmeriKKKa's Most </name>
+    <artist>Ice Cube</artist>
+    <year>1990</year>
+    <producer>Ice Cube</producer>
+    <price>9.99</price>
+    <songs>
+      <title>"Better Off Dead"</title>
+      <duration>1:03</duration>
+    </songs>
+    <songs>
+      <title>"The Nigga Ya Love to Hate"</title>
+      <duration>3:13</duration>
+    </songs>
+    <songs>
+      <title>"What They Hittin' Foe?"</title>
+      <duration>1:12</duration>
+    </songs>
+    <songs>
+      <title>"You Can't Fade Me/JD's Gaffilin"</title>
+      <duration>5:12</duration>
+    </songs>
+  </album>
+</catalog> 

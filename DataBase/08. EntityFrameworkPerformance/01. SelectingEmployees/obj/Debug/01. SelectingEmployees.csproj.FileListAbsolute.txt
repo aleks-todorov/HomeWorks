@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\_01.SelectingEmployees.exe.config
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\_01.SelectingEmployees.exe
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\_01.SelectingEmployees.pdb
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\TelerikAcademy.Data.dll
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\TelerikAcademy.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\obj\Debug\01. SelectingEmployees.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\obj\Debug\_01.SelectingEmployees.exe
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\01. SelectingEmployees\obj\Debug\_01.SelectingEmployees.pdb

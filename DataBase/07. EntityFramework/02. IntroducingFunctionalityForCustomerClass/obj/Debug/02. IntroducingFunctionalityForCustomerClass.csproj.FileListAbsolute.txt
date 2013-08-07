@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\_02.IntroducingFunctionalityForCustomerClass.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\_02.IntroducingFunctionalityForCustomerClass.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\_02.IntroducingFunctionalityForCustomerClass.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\obj\Debug\_02.IntroducingFunctionalityForCustomerClass.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\obj\Debug\_02.IntroducingFunctionalityForCustomerClass.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\02. IntroducingFunctionalityForCustomerClass\obj\Debug\02. IntroducingFunctionalityForCustomerClass.csprojResolveAssemblyReference.cache

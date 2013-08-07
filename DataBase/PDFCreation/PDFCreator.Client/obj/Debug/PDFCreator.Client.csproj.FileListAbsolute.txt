@@ -1,0 +1,13 @@
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\obj\Debug\PDFCreator.Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\PDFCreator.Client.exe.config
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\PDFCreator.Client.exe
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\PDFCreator.Client.pdb
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\PDFCreator.Classes.dll
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\itextsharp.dll
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\PDFCreator.Classes.pdb
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\obj\Debug\PDFCreator.Client.exe
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\obj\Debug\PDFCreator.Client.pdb
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\PDFCreation\PDFCreator.Client\bin\Debug\EntityFramework.xml

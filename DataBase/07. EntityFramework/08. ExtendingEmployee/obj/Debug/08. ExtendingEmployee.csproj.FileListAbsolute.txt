@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\_08.ExtendingEmployee.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\obj\Debug\08. ExtendingEmployee.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\_08.ExtendingEmployee.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\_08.ExtendingEmployee.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\obj\Debug\_08.ExtendingEmployee.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\08. ExtendingEmployee\obj\Debug\_08.ExtendingEmployee.pdb

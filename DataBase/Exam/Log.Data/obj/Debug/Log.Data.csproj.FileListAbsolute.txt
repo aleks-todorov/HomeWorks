@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\obj\Debug\Log.Data.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\Log.Data.dll.config
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\Log.Data.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\Log.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\Log.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\Log.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\obj\Debug\Log.Data.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\Log.Data\obj\Debug\Log.Data.pdb

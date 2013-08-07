@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\_04.UsingNativeSQLForFindingCustomers.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\_04.UsingNativeSQLForFindingCustomers.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\_04.UsingNativeSQLForFindingCustomers.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\obj\Debug\_04.UsingNativeSQLForFindingCustomers.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\obj\Debug\_04.UsingNativeSQLForFindingCustomers.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\04. UsingNativeSQLForFindingCustomers\obj\Debug\04. UsingNativeSQLForFindingCustomers.csprojResolveAssemblyReference.cache

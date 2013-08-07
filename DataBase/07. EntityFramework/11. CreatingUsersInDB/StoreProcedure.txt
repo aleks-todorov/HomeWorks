@@ -1,0 +1,13 @@
+﻿CREATE PROC usp_InsertUserIntoAdmins(@userName nvarchar(50))
+AS 
+ if  NOT exists(select g.GroupID from Groups g
+            where  g.Groups = N'Admins') 
+begin
+    INSERT INTO Groups(Groups)
+	Values('Admins')
+end 
+   DECLARE @adminID int
+   SET @adminID = (SELECT g.GroupID FROM Groups g where g.Groups = 'Admins')
+   INSERT INTO Users(UserName, GroupID)
+   VALUES (@userName, @adminID )
+GO 

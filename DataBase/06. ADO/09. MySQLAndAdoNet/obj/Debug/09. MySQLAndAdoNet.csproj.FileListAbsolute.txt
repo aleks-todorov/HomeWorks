@@ -1,0 +1,7 @@
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\bin\Debug\_09.MySQLAndAdoNet.exe.config
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\bin\Debug\_09.MySQLAndAdoNet.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\bin\Debug\_09.MySQLAndAdoNet.pdb
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\bin\Debug\MySql.Data.dll
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\obj\Debug\09. MySQLAndAdoNet.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\obj\Debug\_09.MySQLAndAdoNet.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\09. MySQLAndAdoNet\obj\Debug\_09.MySQLAndAdoNet.pdb

@@ -1,0 +1,143 @@
+USE [master]
+GO
+/****** Object:  Database [UsersAndGroups]    Script Date: 7/17/2013 4:21:47 PM ******/
+CREATE DATABASE [UsersAndGroups] 
+ALTER DATABASE [UsersAndGroups] SET COMPATIBILITY_LEVEL = 110
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [UsersAndGroups].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [UsersAndGroups] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET AUTO_CREATE_STATISTICS ON 
+GO
+ALTER DATABASE [UsersAndGroups] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [UsersAndGroups] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [UsersAndGroups] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [UsersAndGroups] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [UsersAndGroups] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET RECOVERY FULL 
+GO
+ALTER DATABASE [UsersAndGroups] SET  MULTI_USER 
+GO
+ALTER DATABASE [UsersAndGroups] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [UsersAndGroups] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [UsersAndGroups] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [UsersAndGroups] SET TARGET_RECOVERY_TIME = 0 SECONDS 
+GO
+EXEC sys.sp_db_vardecimal_storage_format N'UsersAndGroups', N'ON'
+GO
+USE [UsersAndGroups]
+GO
+/****** Object:  StoredProcedure [dbo].[usp_InsertUserIntoAdmins]    Script Date: 7/17/2013 4:21:47 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[usp_InsertUserIntoAdmins](@userName nvarchar(50))
+AS 
+ if  NOT exists(select g.GroupID from Groups g
+            where  g.Groups = N'Admins') 
+begin
+    INSERT INTO Groups(Groups)
+	Values('Admins')
+end 
+   DECLARE @adminID int
+   SET @adminID = (SELECT g.GroupID FROM Groups g where g.Groups = 'Admins')
+   INSERT INTO Users(UserName, GroupID)
+   VALUES (@userName, @adminID )
+
+GO
+/****** Object:  Table [dbo].[Groups]    Script Date: 7/17/2013 4:21:47 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Groups](
+	[GroupID] [int] IDENTITY(1,1) NOT NULL,
+	[Groups] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Groups] PRIMARY KEY CLUSTERED 
+(
+	[GroupID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[Users]    Script Date: 7/17/2013 4:21:47 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Users](
+	[UserID] [int] IDENTITY(1,1) NOT NULL,
+	[UserName] [nvarchar](50) NOT NULL,
+	[GroupID] [int] NOT NULL,
+ CONSTRAINT [PK_Users] PRIMARY KEY CLUSTERED 
+(
+	[UserID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET IDENTITY_INSERT [dbo].[Groups] ON 
+
+GO
+INSERT [dbo].[Groups] ([GroupID], [Groups]) VALUES (1, N'Quest')
+GO
+INSERT [dbo].[Groups] ([GroupID], [Groups]) VALUES (2, N'User')
+GO
+INSERT [dbo].[Groups] ([GroupID], [Groups]) VALUES (3, N'PowerUser')
+GO
+SET IDENTITY_INSERT [dbo].[Groups] OFF
+GO
+ALTER TABLE [dbo].[Users]  WITH CHECK ADD  CONSTRAINT [FK_Users_Groups] FOREIGN KEY([GroupID])
+REFERENCES [dbo].[Groups] ([GroupID])
+GO
+ALTER TABLE [dbo].[Users] CHECK CONSTRAINT [FK_Users_Groups]
+GO
+USE [master]
+GO
+ALTER DATABASE [UsersAndGroups] SET  READ_WRITE 
+GO

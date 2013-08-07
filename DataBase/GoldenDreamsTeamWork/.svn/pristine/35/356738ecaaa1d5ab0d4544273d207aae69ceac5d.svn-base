@@ -1,0 +1,85 @@
+﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Data.OleDb;
+
+using Ionic.Zip;
+
+namespace Sales
+{
+    public class ReadExcelReports
+    {
+        private readonly string inputPath = null;
+        private readonly string outputPath = null;
+
+        public ReadExcelReports(string inputPath, string outputPath)
+        {
+            this.inputPath = inputPath;
+            this.outputPath = outputPath;
+        }
+
+        public ReadExcelReports Extract()
+        {
+            using (var zip = ZipFile.Read(this.inputPath))
+            {
+                foreach (var file in zip)
+                {
+                    file.Extract(this.outputPath, ExtractExistingFileAction.OverwriteSilently);
+                }
+            }
+
+            return this;
+        }
+
+        public void Read()
+        {
+            //foreach (var directoryPath in Directory.GetDirectories(this.outputPath))
+            //{
+            //    var directoryInfo = new DirectoryInfo(directoryPath);
+            //    var directoryName = directoryInfo.Name;
+
+            //    Debug.WriteLine("Reading: " + directoryName);
+
+            //    foreach (var fileInfo in directoryInfo.GetFiles())
+            //    {
+            //        var fileName = fileInfo.Name;
+            //        //var shopName = string.Join(" ", folderName.Split('-').TakeWhile(x => x.ToLowerInvariant() != "sales"));
+
+            //        Debug.WriteLine("  Reading: " + fileName);
+            //    }
+            //}
+
+            // TODO
+
+            ProcessFile(@"..\..\..\Temp\ExcelReports\20-Jul-2013\Zmeyovo-Sales-Report-20-Jul-2013.xlsx");
+        }
+
+        private void ProcessFile(string filePath)
+        {
+            var connectionString = string.Format(
+                "Provider=Microsoft.ACE.OLEDB.12.0;" +
+                "Data Source={0};" +
+                "Extended Properties=\"Excel 12.0 Xml; HDR=YES\";",
+                filePath
+            );
+
+            var dbCon = new OleDbConnection(connectionString);
+
+            dbCon.Open();
+
+            using (dbCon)
+            {
+                var cmd = new OleDbCommand("SELECT * FROM [Sales$]", dbCon);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        Console.WriteLine(reader.GetString(0));
+                    }
+                }
+            }
+        }
+    }
+}

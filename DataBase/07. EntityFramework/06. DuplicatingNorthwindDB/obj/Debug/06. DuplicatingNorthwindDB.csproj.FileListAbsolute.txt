@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\_06.DuplicatingNorthwindDB.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\_06.DuplicatingNorthwindDB.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\_06.DuplicatingNorthwindDB.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\obj\Debug\_06.DuplicatingNorthwindDB.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\obj\Debug\_06.DuplicatingNorthwindDB.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\06. DuplicatingNorthwindDB\obj\Debug\06. DuplicatingNorthwindDB.csprojResolveAssemblyReference.cache

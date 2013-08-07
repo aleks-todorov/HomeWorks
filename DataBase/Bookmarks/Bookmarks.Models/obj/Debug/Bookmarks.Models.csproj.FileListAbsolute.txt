@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\bin\Debug\Bookmarks.Models.dll.config
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\bin\Debug\Bookmarks.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\bin\Debug\Bookmarks.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\obj\Debug\Bookmarks.Models.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\obj\Debug\Bookmarks.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\Bookmarks.Models\obj\Debug\Bookmarks.Models.pdb

@@ -1,0 +1,14 @@
+﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace Sales
+{
+    public static class SaveExpenses
+    {
+        public static void Save()
+        {
+            
+        }
+    }
+}

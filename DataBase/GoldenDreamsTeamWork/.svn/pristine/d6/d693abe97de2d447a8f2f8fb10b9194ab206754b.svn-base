@@ -1,0 +1,125 @@
+﻿using System;
+using System.Data.Entity;
+using System.Linq;
+using System.Collections.Generic;
+using System.Diagnostics;
+using SupermarketEntities;
+using Sales.Data.MSSQL;
+using Sales.Models.MSSQL;
+using Sales.Data.MSSQL.Migrations;
+using Sales.Data.XML;
+namespace Sales
+{
+    public class Program
+    {
+        static void Main()
+        {
+            //XmlParser.Parse(@"..\..\..\XMLParser\test.xml");
+
+            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<SalesContext, Configuration>());
+
+            //using (var SqlDatabase = new SalesContext())
+            //{
+            //    var mySqlTest = new SupermarketModel();
+
+            //    foreach (var vendor in mySqlTest.Vendors)
+            //    {
+            //        if (!SqlDatabase.Vendors.Any(x => x.Name == vendor.VendorName))
+            //        {
+            //            SqlDatabase.Vendors.Add(new Sales.Models.MSSQL.Models.Vendor
+            //            {
+            //                Name = vendor.VendorName,
+            //            });
+            //        }
+            //    }
+
+            //    SqlDatabase.SaveChanges();
+
+            //    foreach (var product in mySqlTest.Products.Include("Vendors").Include("Measures"))
+            //    {
+            //        SqlDatabase.Products.Add(new Sales.Models.MSSQL.Models.Product
+            //        {
+            //            Name = product.ProductName,
+            //            Vendor = SqlDatabase.Vendors.Where(x => x.Name == product.Vendor.VendorName).First(),
+            //            BasePrice = (decimal)product.BasePrice,
+            //            Measure = (Sales.Models.MSSQL.Models.Measure)Enum.Parse(typeof(Sales.Models.MSSQL.Models.Measure), product.Measure.MeasureName)
+            //        });
+            //    }
+
+            //    SqlDatabase.SaveChanges();
+            //}
+
+            Debug.Listeners.Add(new ConsoleTraceListener());
+
+            var results = new ReadExcelReports("../../../Data/Sample-Sales-Reports.zip", "../../../Temp/ExcelReports/").Extract().Read();
+
+            var mySqlTest = new SupermarketModel();
+            using (var db = new SalesContext())
+            {
+                foreach (var result in results)
+                {
+                    foreach (var row in result.Items)
+                    {
+                        var productName = mySqlTest.Products.Where(x => x.ID == row.Id).First().ProductName;
+                        var product = db.Products.Where(x => x.Name == productName).First();
+
+                        db.Records.Add(new Models.MSSQL.Models.Record
+                        {
+                            Quantity = row.Quantity,
+                            UnitPrice = row.UnitPrice,
+                            Product = product,
+                            Date = result.Date
+                        });
+                    }
+                }
+
+                db.SaveChanges();
+            }
+
+            //try
+            //{
+
+            //using (var db = new SalesContext())
+            //{
+            //    var vendor = new Vendor
+            //    {
+            //        Name = "Zagorka"
+            //    };
+
+            //    var product = new Product
+            //    {
+            //        BasePrice = 10,
+            //        Measure = Measure.Liter,
+            //        Name = "Beer",
+            //        Vendor = vendor
+            //    };
+
+            //    vendor.Products.Add(product);
+
+            //    var supermarket = new Supermarket
+            //    {
+            //        Name = "Pesho Supermarket",
+            //    };
+
+            //    var record = new Record
+            //    {
+            //        Date = DateTime.Now,
+            //        Product = product,
+            //        Quantity = 3,
+            //        UnitPrice = 12
+            //    };
+
+            //    supermarket.Records.Add(record);
+
+            //    db.Supermarkets.Add(supermarket);
+
+            //    db.SaveChanges();
+            //}
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.InnerException.Message);
+            //}
+        }
+    }
+}

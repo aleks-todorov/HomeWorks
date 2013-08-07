@@ -1,0 +1,13 @@
+﻿CREATE PROC usp_GetSupplierIncome(@supplierName nvarchar(50), @startDate date, @endDate date)
+AS
+SELECT SUM (od.UnitPrice*od.Quantity) FROM [Order Details] od
+JOIN Products p 
+on od.ProductId = p.ProductID
+JOIN Suppliers s
+On p.SupplierID = s.SupplierID
+Join Orders o 
+ON o.OrderID = od.OrderID
+WHERE s.CompanyName = @supplierName 
+AND o.OrderDate > @startDate AND o.OrderDate < @endDate
+GROUP BY s.SupplierID
+GO

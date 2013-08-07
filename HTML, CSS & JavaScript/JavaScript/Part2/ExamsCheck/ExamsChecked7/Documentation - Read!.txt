@@ -1,0 +1,18 @@
+1. To add image enter 'image title', 'image source' and click 'add the image to gallery'
+
+2. To add album enter 'album title' and click 'add an album'
+
+3. To add an album to album enter 'add album' ( the album you will add )
+ and enter 'to album' ( the album you are adding to ) and click 'add the album to album'
+
+4. To add image to album enter ( make sure you have existing album ), 
+enter 'image title', 'image source', 'add to album' and click 'add the image to an album'
+
+5. To add album to repository enter 'add to repository' 
+( the name of the album ) and click 'add the album to repository'
+
+6. To sort all albums click 'Sort the albums'
+
+7. To add the gallery to repository click 'add entire gallery to repository'
+
+8. To build the gallery from repository - refresh, then click 'build entire gallery from epository'

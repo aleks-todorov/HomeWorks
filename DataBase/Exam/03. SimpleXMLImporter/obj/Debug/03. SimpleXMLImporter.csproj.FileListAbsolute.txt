@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\_03.SimpleXMLImporter.exe.config
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\_03.SimpleXMLImporter.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\_03.SimpleXMLImporter.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\Bookstore.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\Bookstore.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\obj\Debug\03. SimpleXMLImporter.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\obj\Debug\_03.SimpleXMLImporter.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\03. SimpleXMLImporter\obj\Debug\_03.SimpleXMLImporter.pdb

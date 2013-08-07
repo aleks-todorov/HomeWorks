@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <name>Pesho</name>
+    <address>Nqkade si </address>
+    <phoneNumber>09999999 </phoneNumber>
+  </person>
+  <person>
+    <name>Gosho</name>
+    <address>Pak Tam Nqkade</address>
+    <phoneNumber>08888888</phoneNumber>
+  </person>
+  <person>
+    <name>Gencho</name>
+    <address>Abe nqkade okolo Pesho</address>
+    <phoneNumber>077777777</phoneNumber>
+  </person>
+  <person>
+    <name>Toshko</name>
+    <address>Nqkade okolo Gosho</address>
+    <phoneNumber>099234445</phoneNumber>
+  </person>
+</people>

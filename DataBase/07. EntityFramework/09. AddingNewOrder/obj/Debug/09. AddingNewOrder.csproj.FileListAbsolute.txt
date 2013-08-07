@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\_09.AddingNewOrder.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\_09.AddingNewOrder.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\_09.AddingNewOrder.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\obj\Debug\_09.AddingNewOrder.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\obj\Debug\_09.AddingNewOrder.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\obj\Debug\09. AddingNewOrder.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\09. AddingNewOrder\bin\Debug\EntityFramework.xml

@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\obj\Debug\University.Data.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\University.Data.dll.config
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\University.Data.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\University.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\University.Models.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\University.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\obj\Debug\University.Data.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Data\obj\Debug\University.Data.pdb

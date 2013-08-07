@@ -1,0 +1,7 @@
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\bin\Debug\1.UsingOfLog4Net.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\bin\Debug\1.UsingOfLog4Net.exe
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\bin\Debug\1.UsingOfLog4Net.pdb
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\bin\Debug\log4net.dll
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\obj\Debug\1.UsingOfLog4Net.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\obj\Debug\1.UsingOfLog4Net.exe
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\1.UsingOfLog4Net\obj\Debug\1.UsingOfLog4Net.pdb

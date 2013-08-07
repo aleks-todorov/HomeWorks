@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\bin\Debug\2.CreateT4Template.exe.config
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\bin\Debug\2.CreateT4Template.exe
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\bin\Debug\2.CreateT4Template.pdb
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\obj\Debug\2.CreateT4Template.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\obj\Debug\2.CreateT4Template.exe
+D:\Google Drive\HomeWorks\C#\KPK\14.DeveloperTools\2.CreateT4Template\obj\Debug\2.CreateT4Template.pdb

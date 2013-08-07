@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\00.XMLBasics\bin\Debug\00.XMLBasics.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\00.XMLBasics\bin\Debug\00.XMLBasics.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\00.XMLBasics\bin\Debug\00.XMLBasics.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\00.XMLBasics\obj\Debug\00.XMLBasics.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\00.XMLBasics\obj\Debug\00.XMLBasics.pdb

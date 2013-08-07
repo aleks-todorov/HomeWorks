@@ -1,0 +1,14 @@
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.exe
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.pdb
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.xml
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.exe
+D:\Google Drive\HomeWorks\C#\KPK\High-Quality-Code-Exam-20-May-2013-Evening-Group\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.pdb
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.exe
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.pdb
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.dll
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.xml
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.exe
+D:\Google Drive\HomeWorks\C#\KPK\Exam\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.pdb

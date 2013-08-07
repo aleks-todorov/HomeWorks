@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\_01.DictionaryWithMongoDB.exe.config
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\obj\Debug\01. DictionaryWithMongoDB.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\_01.DictionaryWithMongoDB.exe
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\_01.DictionaryWithMongoDB.pdb
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\MongoDB.Bson.dll
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\MongoDB.Driver.dll
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\MongoDB.Bson.xml
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\bin\Debug\MongoDB.Driver.xml
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\obj\Debug\_01.DictionaryWithMongoDB.exe
+D:\Google Drive\HomeWorks\DataBase\12. NoSQL\01. DictionaryWithMongoDB\obj\Debug\_01.DictionaryWithMongoDB.pdb

@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Linq;
+using Sales.Models.XML;
+
+namespace Sales.Data.XML
+{
+    public class ParseExpenses
+    {
+        public static IList<Expense> Read(string path)
+        {
+            var xmlDoc = XDocument.Load(path);
+
+            var sales =
+              (from sale in xmlDoc.Descendants("sale")
+               select new Expense()
+               {
+                   Vendor = sale.Attribute("vendor").Value,
+                   List = (sale.Descendants("expenses")
+                     .Select(x => new KeyValuePair<DateTime, decimal>
+                     (
+                         DateTime.Parse(x.Attribute("month").Value),
+                         decimal.Parse(x.Value)
+                     ))).ToArray()
+               }).ToArray();
+
+            return sales;
+        }
+    }
+}

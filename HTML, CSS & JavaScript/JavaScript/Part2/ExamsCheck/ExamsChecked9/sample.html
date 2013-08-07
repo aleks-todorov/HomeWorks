@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Image Gallery</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="image-gallery-control.js"></script>
+</head>
+<body>
+    <div id="image-gallery-holder"></div>
+    
+
+    <!-- Task 1 -->
+    <script>
+        var gallery = controls.getImageGallery("#image-gallery-holder");
+
+        // - Adding images with a title and image source - implemented
+        gallery.addImage("JS Ninja", "images/ninja.jpg");
+        gallery.addImage("JS Ninja", "images/ninja.jpg");
+        gallery.addImage("JS Ninja", "images/ninja.jpg");
+
+        // - Adding album with a title - implemented
+        var ninjasAlbum = gallery.addAlbum("Ninjas Album");
+
+        //// - Adding images to an album - not implemented
+        //ninjasAlbum.addImage("JS Ninja 2", "images/ninja.jpg");
+        //ninjasAlbum.addImage("JS Ninja 2", "images/ninja.jpg");
+        //ninjasAlbum.addImage("JS Ninja 2", "images/ninja.jpg");
+    </script>
+</body>
+</html>

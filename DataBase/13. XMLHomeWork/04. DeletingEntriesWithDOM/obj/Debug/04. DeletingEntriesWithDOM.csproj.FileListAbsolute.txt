@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\04. DeletingEntriesWithDOM\bin\Debug\_04.DeletingEntriesWithDOM.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\04. DeletingEntriesWithDOM\bin\Debug\_04.DeletingEntriesWithDOM.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\04. DeletingEntriesWithDOM\bin\Debug\_04.DeletingEntriesWithDOM.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\04. DeletingEntriesWithDOM\obj\Debug\_04.DeletingEntriesWithDOM.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\04. DeletingEntriesWithDOM\obj\Debug\_04.DeletingEntriesWithDOM.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\bin\Debug\_08.CreatingAlbumXML.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\obj\Debug\08. CreatingAlbumXML.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\bin\Debug\_08.CreatingAlbumXML.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\bin\Debug\_08.CreatingAlbumXML.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\obj\Debug\_08.CreatingAlbumXML.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\08. CreatingAlbumXML\obj\Debug\_08.CreatingAlbumXML.pdb

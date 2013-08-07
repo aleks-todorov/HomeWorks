@@ -31,8 +31,8 @@ namespace FreeContentCatalog
         public IEnumerable<IContent> GetListContent(string title, int numberOfContentElementsToList)
         {
             IEnumerable<IContent> contentToList =
-                from c in this.title[title]
-                select c;
+                from currentTitle in this.title[title]
+                select currentTitle;
 
             return contentToList.Take(numberOfContentElementsToList);
         }

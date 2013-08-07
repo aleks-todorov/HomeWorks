@@ -1,0 +1,12 @@
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\obj\Debug\University.Client.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Client.exe.config
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Client.exe
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Client.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Data.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Models.dll
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\University.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\obj\Debug\University.Client.exe
+D:\Google Drive\HomeWorks\DataBase\09. CodeFirstEntityFrameWork\University.Client\obj\Debug\University.Client.pdb

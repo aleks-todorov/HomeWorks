@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\DataBase\FirstDatebaseProject\FirstDatebaseProject\bin\Debug\FirstDatebaseProject.dacpac
+D:\Google Drive\HomeWorks\DataBase\FirstDatebaseProject\FirstDatebaseProject\bin\Debug\FirstDatebaseProject.dll
+D:\Google Drive\HomeWorks\DataBase\FirstDatebaseProject\FirstDatebaseProject\bin\Debug\FirstDatebaseProject.pdb
+D:\Google Drive\HomeWorks\DataBase\FirstDatebaseProject\FirstDatebaseProject\obj\Debug\FirstDatebaseProject.dll
+D:\Google Drive\HomeWorks\DataBase\FirstDatebaseProject\FirstDatebaseProject\obj\Debug\FirstDatebaseProject.pdb

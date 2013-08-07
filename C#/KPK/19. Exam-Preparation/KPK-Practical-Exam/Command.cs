@@ -43,78 +43,20 @@ namespace FreeContentCatalog
 
             if (commandName.Contains(':') || commandName.Contains(';'))
             {
-                throw new FormatException();
+                throw new ArgumentException("Invalid content in Command string");
             }
 
             switch (commandName.Trim())
             {
-                case "Add book": type = CommandType.AddBook;
-                    break;
-
-                case "Add movie": type = CommandType.AddMovie;
-                    break;
-
-                case "Add song": type = CommandType.AddSong;
-                    break;
-
-                case "Add application": type = CommandType.AddApplication;
-                    break;
-
-                case "Update": type = CommandType.Update;
-                    break;
-
-                case "Find": type = CommandType.Find;
-                    break;
-
+                case "Add book": return CommandType.AddBook;
+                case "Add movie": return CommandType.AddMovie;
+                case "Add song": return CommandType.AddSong;
+                case "Add application": return CommandType.AddApplication;
+                case "Update": return CommandType.Update;
+                case "Find": return CommandType.Find;
                 default:
-                    {
-                        //Not the best Exceptions, but still better than previous
-                        if (commandContainBook(commandName) || commandContainMovie(commandName) || commandContainsSong(commandName)
-                            || commandContainApplication(commandName))
-                        {
-                            throw new InvalidProgramException("Incorect command!");
-                        }
-
-                        if (commandContainFind(commandName) || commandContainUpdate(commandName))
-                        {
-                            throw new InvalidProgramException("Incorect command!");
-                        }
-
-                        throw new InvalidProgramException("Invalid command name!");
-                    }
+                    throw new ArgumentException("Invalid command");
             }
-
-            return type;
-        }
-
-        private static bool commandContainUpdate(string commandName)
-        {
-            return commandName.ToLower().Contains("update");
-        }
-
-        private static bool commandContainFind(string commandName)
-        {
-            return commandName.ToLower().Contains("find");
-        }
-
-        private static bool commandContainApplication(string commandName)
-        {
-            return commandName.ToLower().Contains("application");
-        }
-
-        private static bool commandContainsSong(string commandName)
-        {
-            return commandName.ToLower().Contains("song");
-        }
-
-        private static bool commandContainMovie(string commandName)
-        {
-            return commandName.ToLower().Contains("movie");
-        }
-
-        private static bool commandContainBook(string commandName)
-        {
-            return commandName.ToLower().Contains("book");
         }
 
         public string ParseName()

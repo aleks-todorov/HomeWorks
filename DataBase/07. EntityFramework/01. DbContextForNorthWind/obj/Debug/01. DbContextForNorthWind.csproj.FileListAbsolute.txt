@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\_01.DbContextForNorthWind.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\_01.DbContextForNorthWind.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\_01.DbContextForNorthWind.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\obj\Debug\01. DbContextForNorthWind.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\obj\Debug\_01.DbContextForNorthWind.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\01. DbContextForNorthWind\obj\Debug\_01.DbContextForNorthWind.pdb

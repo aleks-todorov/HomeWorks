@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDB.Models", "SchoolDB.Models\SchoolDB.Models.csproj", "{8AF4B52E-A5F2-4225-9CCD-EDB14357EF91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDb.Data", "SchoolDb.Data\SchoolDb.Data.csproj", "{8890CAEC-050E-40B2-B24A-DC51293114E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDb.Client", "SchoolDb.Client\SchoolDb.Client.csproj", "{1786CAD2-17CF-4DEC-B82C-EA3049144F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF4B52E-A5F2-4225-9CCD-EDB14357EF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF4B52E-A5F2-4225-9CCD-EDB14357EF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF4B52E-A5F2-4225-9CCD-EDB14357EF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF4B52E-A5F2-4225-9CCD-EDB14357EF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8890CAEC-050E-40B2-B24A-DC51293114E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8890CAEC-050E-40B2-B24A-DC51293114E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8890CAEC-050E-40B2-B24A-DC51293114E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8890CAEC-050E-40B2-B24A-DC51293114E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1786CAD2-17CF-4DEC-B82C-EA3049144F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1786CAD2-17CF-4DEC-B82C-EA3049144F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1786CAD2-17CF-4DEC-B82C-EA3049144F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1786CAD2-17CF-4DEC-B82C-EA3049144F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

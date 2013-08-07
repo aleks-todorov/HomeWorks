@@ -1,0 +1,148 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.OleDb;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+using MongoDB.Driver;
+using MongoDB.Driver.Linq;
+using Sales.Data;
+using Sales.Data.MSSQL;
+using Sales.Models.Excel;
+using Product = Sales.Models.JSON.Product;
+
+namespace Sales
+{
+    public static class VendorsTotalReport
+    {
+        private const string FilePath = "../../../Data/Products-Total-Report.xlsx";
+
+        public static void Generate()
+        {
+            File.Delete(FilePath);
+
+            var dbCon = new OleDbConnection(string.Format(
+                "Provider=Microsoft.ACE.OLEDB.12.0; Data Source={0}; " +
+                "Extended Properties=\"Excel 12.0 Xml; HDR=YES\";",
+                FilePath)
+            );
+
+            dbCon.Open();
+
+            using (dbCon)
+            using (var sales = new SalesContext())
+            {
+                foreach (var date in sales.Records
+                    .Select(x => x.Date)
+                    .Distinct()
+                    .OrderBy(x => x)
+                    .ToArray()
+                    .Select(x => new DateTime(x.Year, x.Month, 1))
+                    .Distinct()
+                )
+                {
+                    var sheetName = date.ToString("MMM_yyyy");
+
+                    Debug.WriteLine(date);
+                    CreatTable(sheetName, dbCon);
+
+                    foreach (var record in GetRecords(sales, date))
+                    {
+                        Debug.WriteLine("  " + record);
+                        InsertRow(sheetName, dbCon, record);
+                    }
+                }
+            }
+        }
+
+        private static void CreatTable(string sheetName, OleDbConnection dbCon)
+        {
+            var createCmd = new OleDbCommand(
+                "CREATE TABLE [" + sheetName + "] (" +
+                "Vendor string," +
+                "Incomes decimal," +
+                "Expenses decimal," +
+                "Taxes decimal," +
+                "FinancialResults decimal " +
+                ")"
+                , dbCon);
+
+            createCmd.Parameters.AddWithValue("@sheetName", sheetName);
+
+            createCmd.ExecuteNonQuery();
+        }
+
+        private static void InsertRow(string sheetName, OleDbConnection dbCon, VendorReportRecord record)
+        {
+            var cmd = new OleDbCommand(
+                "INSERT INTO [" + sheetName + "$]" +
+                " (Vendor, Incomes, Expenses, Taxes, FinancialResults) VALUES " +
+                "(@Vendor, @Incomes, @Expenses, @Taxes, @FinancialResults)",
+                dbCon);
+
+            cmd.Parameters.AddWithValue("@Vendor", record.Name);
+            cmd.Parameters.AddWithValue("@Incomes", record.Incomes);
+            cmd.Parameters.AddWithValue("@Expenses", record.Expenses);
+            cmd.Parameters.AddWithValue("@Taxes", record.Taxes);
+            cmd.Parameters.AddWithValue("@FinancialResults", record.FinancialResults);
+
+            cmd.ExecuteNonQuery();
+        }
+
+        private static IEnumerable<VendorReportRecord> GetRecords(SalesContext sales, DateTime currentDate)
+        {
+            using (var taxesEntities = new TaxEntities())
+            {
+                var server = new MongoClient("mongodb://localhost").GetServer();
+                var db = server.GetDatabase("salesDB");
+                var productReports = db.GetCollection<Product>("productReports");
+
+                foreach (var vendor in sales.Vendors)
+                {
+                    var record = new VendorReportRecord
+                    {
+                        Name = vendor.Name,
+                        Incomes = 0,
+                        Expenses = 0,
+                        Taxes = 0,
+                        FinancialResults = 0
+                    };
+
+                    foreach (var product in vendor.Products)
+                    {
+                        var productTax = taxesEntities.Taxes.FirstOrDefault(x => x.ProductName == product.Name);
+                        decimal tax = 0;
+
+                        if (productTax != null)
+                        {
+                            tax = productTax.Percent / 100M;
+                        }
+
+                        var productReport =
+                            productReports.AsQueryable().Where(x => x.ProductName == product.Name);
+
+                        decimal productIncome = productReport.ToArray().Sum(x => x.TotalIncomes);
+
+                        record.Incomes += productIncome;
+                        record.Taxes += productIncome * tax;
+                        record.FinancialResults += record.Incomes - record.Taxes;
+                    }
+
+                    var vendorExpenses = vendor.Expenses.FirstOrDefault(x => x.DateTime == currentDate);
+
+                    if (vendorExpenses != null)
+                    {
+                        record.Expenses = vendorExpenses.Money;
+                    }
+
+                    if (record.Incomes == 0)
+                    {
+                        continue;
+                    }
+
+                    yield return record;
+                }
+            }
+        }
+    }
+}

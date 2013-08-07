@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\_02.SelectingStudentsInSofia.exe.config
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\_02.SelectingStudentsInSofia.exe
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\_02.SelectingStudentsInSofia.pdb
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\TelerikAcademy.Data.dll
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\TelerikAcademy.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\obj\Debug\02. SelectingStudentsInSofia.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\obj\Debug\_02.SelectingStudentsInSofia.exe
+D:\Google Drive\HomeWorks\DataBase\08. EntityFrameworkPerformance\02. SelectingStudentsInSofia\obj\Debug\_02.SelectingStudentsInSofia.pdb

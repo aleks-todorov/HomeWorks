@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Image Control</title>        
+        <style>
+            a:hover {
+                text-decoration:underline;
+            }
+
+            #containerExpandedImage {
+                position:absolute;
+                top:0;
+                right:100px;
+            }
+
+            div img {
+                width:100px;
+                height:100px;
+                margin:20px;
+            }
+
+            .albumHolder {
+                border: 5px solid;
+                border-color: grey;
+                border-radius: 10px;
+                width:90%;
+                margin:20px;
+            }
+
+            .albumTitle {
+                font-size:30px;
+                border: 0;
+                text-align: center;
+                vertical-align: middle;
+            }
+        </style>   
+        <script src="script-control.js"></script>
+    </head>
+    <body>      
+        <script>
+            // Tasks 1, 2, 3 and 7 (for it, just click on an image and look in the upper right
+            // corner of your screen.
+            var gallery = controls.getImageGallery("image-gallery-holder");
+            gallery.addImage("JS Cat", "cat.jpg");
+            gallery.addImage("JS Cat", "cat.jpg");
+            gallery.addImage("JS Cat", "hoodie-cat.jpg");
+            var ninjasAlbum = gallery.addAlbum("Cats");
+            gallery.addAlbum("test");
+            ninjasAlbum.addImage("JS Cat 2", "cat.jpg");
+            ninjasAlbum.addImage("JS Cat 2", "cat.jpg");
+            ninjasAlbum.addImage("JS Cat 2", "hoodie-cat.jpg");
+            var nestedAlbum = ninjasAlbum.addAlbum("Google Cats");
+            nestedAlbum.addImage("JS Cat 3", "cat.jpg");
+            nestedAlbum.addImage("JS Cat 3", "cat.jpg");
+            nestedAlbum.addImage("JS Cat 3", "hoodie-cat.jpg");
+            var nestedSubAlbum = nestedAlbum.addAlbum("Microsoft Cats");
+            nestedSubAlbum.addImage("JS Cat 4", "cat.jpg");
+            nestedSubAlbum.addImage("JS Cat 4", "cat.jpg");
+            nestedSubAlbum.addImage("JS Cat 4", "hoodie-cat.jpg");
+            var ninjasSecondAlbum = gallery.addAlbum("Cats Second");
+            ninjasSecondAlbum.addImage("JS Cat 5", "cat.jpg");
+            ninjasSecondAlbum.addImage("JS Cat 5", "cat.jpg");
+            ninjasSecondAlbum.addImage("JS Cat 5", "hoodie-cat.jpg");
+
+            // Task 4 - bear in mind that IE does not support local storage when the file is run from your machine.
+            // More info - http://stackoverflow.com/questions/8706006/local-storage-in-ie9-fails-when-the-website-is-accessed-directly-from-the-file-s
+            imageGalleryRepository.save("bra", [1, 2, 3]);
+            var dr = imageGalleryRepository.load("bra");
+            console.log(dr);
+
+            // Task 5
+            var imageGalleryData = gallery.getImageGalleryData();
+            console.log(imageGalleryData);
+            imageGalleryRepository.save("cats-gallery", imageGalleryData);
+            var savedData = imageGalleryRepository.load("cats-gallery");
+            console.log(savedData);
+
+            // Task 6
+            var newCatGallery = controls.buildImageGallery("newGallery", savedData);
+        </script>
+    </body>
+</html>

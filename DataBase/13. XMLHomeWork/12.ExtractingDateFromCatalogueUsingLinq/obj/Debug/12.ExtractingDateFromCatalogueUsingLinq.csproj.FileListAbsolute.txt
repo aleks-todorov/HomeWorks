@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\12.ExtractingDateFromCatalogueUsingLinq\bin\Debug\12.ExtractingDateFromCatalogueUsingLinq.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\12.ExtractingDateFromCatalogueUsingLinq\bin\Debug\12.ExtractingDateFromCatalogueUsingLinq.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\12.ExtractingDateFromCatalogueUsingLinq\bin\Debug\12.ExtractingDateFromCatalogueUsingLinq.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\12.ExtractingDateFromCatalogueUsingLinq\obj\Debug\12.ExtractingDateFromCatalogueUsingLinq.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\12.ExtractingDateFromCatalogueUsingLinq\obj\Debug\12.ExtractingDateFromCatalogueUsingLinq.pdb

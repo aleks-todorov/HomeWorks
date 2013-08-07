@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\_10.SQLActions.exe.config
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\obj\Debug\10. SQLActions.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\x64\SQLite.Interop.dll
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\x86\SQLite.Interop.dll
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\_10.SQLActions.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\_10.SQLActions.pdb
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\System.Data.SQLite.dll
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\obj\Debug\_10.SQLActions.exe
+D:\Google Drive\HomeWorks\DataBase\06. ADO\10. SQLActions\obj\Debug\_10.SQLActions.pdb

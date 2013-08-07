@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:urn="http://someaddress.com" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://someaddress.com" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="students">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" />
+              <xs:element name="sex" />
+              <xs:element name="birthDate" />
+              <xs:element name="phone" />
+              <xs:element name="email" />
+              <xs:element name="course" />
+              <xs:element name="specialty" />
+              <xs:element name="facultyNumber" />
+              <xs:element name="takenExams" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

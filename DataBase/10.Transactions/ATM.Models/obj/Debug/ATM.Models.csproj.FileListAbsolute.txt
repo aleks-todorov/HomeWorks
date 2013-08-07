@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\bin\Debug\ATM.Models.dll.config
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\bin\Debug\ATM.Models.dll
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\bin\Debug\ATM.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\obj\Debug\ATM.Models.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\obj\Debug\ATM.Models.dll
+D:\Google Drive\HomeWorks\DataBase\10.Transactions\ATM.Models\obj\Debug\ATM.Models.pdb

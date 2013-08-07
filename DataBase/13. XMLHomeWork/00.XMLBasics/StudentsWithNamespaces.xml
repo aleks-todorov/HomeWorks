@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="styles.xslt"?>
+<urn:students
+  xmlns:urn="urn:nakov-com:country">
+  <urn:student>
+    <urn:name>Pesho</urn:name>
+    <urn:sex>Male</urn:sex>
+    <urn:birthDate>13.12.2013</urn:birthDate>
+    <urn:phone>0988888888</urn:phone>
+    <urn:email>some@some.com</urn:email>
+    <urn:course>1</urn:course>
+    <urn:specialty>IE</urn:specialty>
+    <urn:facultyNumber>22222222</urn:facultyNumber>
+    <urn:takenExams>6</urn:takenExams>
+  </urn:student>
+  <urn:student>
+    <urn:name>Gosho</urn:name>
+    <urn:sex>Male</urn:sex>
+    <urn:birthDate>10.09.2005</urn:birthDate>
+    <urn:phone>0899999999</urn:phone>
+    <urn:email>any@some.com</urn:email>
+    <urn:course>2</urn:course>
+    <urn:specialty>IE</urn:specialty>
+    <urn:facultyNumber>333333333</urn:facultyNumber>
+    <urn:takenExams>6</urn:takenExams>
+  </urn:student>
+</urn:students>
+
+

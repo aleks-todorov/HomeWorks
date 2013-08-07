@@ -1,0 +1,107 @@
+﻿using System;
+using System.Data.Entity;
+using System.Linq;
+using System.Collections.Generic;
+using System.Diagnostics;
+using Sales.Data.PDF;
+using SupermarketEntities;
+using Sales.Data.MSSQL;
+using Sales.Models.MSSQL;
+using Sales.Data.MSSQL.Migrations;
+using Sales.Data.XML;
+
+namespace Sales
+{
+    public class Program
+    {
+        static void Main()
+        {
+            Debug.Listeners.Add(new ConsoleTraceListener());
+
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SalesContext, Configuration>());
+
+            //ReadMySQL();
+            //ReadExcel();
+
+            //SalesReportsByVendors.Generate();
+            //ProductReports.Generate();
+            //Generator.GetReport(new SalesContext());
+            //SaveExpenses.Save();
+            //VendorsTotalReport.Generate();
+        }
+
+        private static void ReadExcel()
+        {
+            var results =
+                new ReadExcelReports("../../../Data/Sample-Sales-Reports.zip", "../../../Temp/ExcelReports/").Extract().Read();
+
+            var SqlTest = new SupermarketModel();
+            using (var db = new SalesContext())
+            {
+                foreach (var result in results)
+                {
+                    foreach (var row in result.Items)
+                    {
+                        var productName = SqlTest.Products.Where(x => x.ID == row.Id).First().ProductName;
+                        var product = db.Products.Where(x => x.Name == productName).First();
+                        var supermarket = db.Supermarkets.Where(x => x.Name == result.Name).FirstOrDefault();
+                        if (supermarket == null)
+                        {
+                            supermarket = new Supermarket();
+                            supermarket.Name = result.Name;
+                        }
+
+                        db.Records.Add(new Models.MSSQL.Record
+                        {
+                            Quantity = row.Quantity,
+                            UnitPrice = row.UnitPrice,
+                            Product = product,
+                            Date = result.Date,
+                            Supermarket = supermarket
+                        });
+
+                        db.SaveChanges();
+                    }
+                }
+
+                db.SaveChanges();
+            }
+        }
+
+        private static void ReadMySQL()
+        {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SalesContext, Configuration>());
+
+            using (var SqlDatabase = new SalesContext())
+            {
+                var mySqlTest = new SupermarketModel();
+
+                foreach (var vendor in mySqlTest.Vendors)
+                {
+                    if (!SqlDatabase.Vendors.Any(x => x.Name == vendor.VendorName))
+                    {
+                        SqlDatabase.Vendors.Add(new Models.MSSQL.Vendor
+                        {
+                            Name = vendor.VendorName,
+                        });
+                    }
+                }
+
+                SqlDatabase.SaveChanges();
+
+                foreach (var product in mySqlTest.Products.Include("Vendors").Include("Measures"))
+                {
+                    SqlDatabase.Products.Add(new Sales.Models.MSSQL.Product
+                    {
+                        Name = product.ProductName,
+                        Vendor = SqlDatabase.Vendors.Where(x => x.Name == product.Vendor.VendorName).First(),
+                        BasePrice = (decimal) product.BasePrice,
+                        Measure = (Models.MSSQL.Measure) Enum.Parse(typeof (Models.MSSQL.Measure), product.Measure.MeasureName)
+                    });
+                }
+
+                SqlDatabase.SaveChanges();
+            }
+        }
+    }
+}

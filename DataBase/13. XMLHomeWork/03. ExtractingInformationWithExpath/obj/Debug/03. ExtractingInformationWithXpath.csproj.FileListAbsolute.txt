@@ -1,0 +1,3 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\03. ExtractingInformationWithExpath\bin\Debug\_03.ExtractingInformationWithExpath.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\03. ExtractingInformationWithExpath\obj\Debug\_03.ExtractingInformationWithExpath.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\03. ExtractingInformationWithExpath\obj\Debug\_03.ExtractingInformationWithExpath.pdb

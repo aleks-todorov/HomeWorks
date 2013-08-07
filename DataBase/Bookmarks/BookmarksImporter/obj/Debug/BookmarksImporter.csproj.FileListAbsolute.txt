@@ -1,0 +1,12 @@
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\BookmarksImporter.exe.config
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\BookmarksImporter.exe
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\BookmarksImporter.pdb
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\obj\Debug\BookmarksImporter.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\obj\Debug\BookmarksImporter.exe
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\obj\Debug\BookmarksImporter.pdb
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\Bookmarks.Data.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\Bookmarks.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\Bookmarks.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\Bookmarks.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Bookmarks\BookmarksImporter\bin\Debug\EntityFramework.xml

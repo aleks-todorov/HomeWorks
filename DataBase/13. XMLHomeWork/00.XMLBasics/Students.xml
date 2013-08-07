@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="styles.xslt"?>
+<students>
+  <student>
+    <name>Pesho</name>
+    <sex>Male</sex>
+    <birthDate>13.12.2013</birthDate>
+    <phone>0988888888</phone>
+    <email>some@some.com</email>
+    <course>1</course>
+    <specialty>IE</specialty>
+    <facultyNumber>22222222</facultyNumber>
+    <takenExams>6</takenExams>
+  </student>
+  <student>
+    <name>Gosho</name>
+    <sex>Male</sex>
+    <birthDate>10.09.2005</birthDate>
+    <phone>0899999999</phone>
+    <email>any@some.com</email>
+    <course>2</course>
+    <specialty>IE</specialty>
+    <facultyNumber>333333333</facultyNumber>
+    <takenExams>5</takenExams>
+  </student>
+</students>
+
+

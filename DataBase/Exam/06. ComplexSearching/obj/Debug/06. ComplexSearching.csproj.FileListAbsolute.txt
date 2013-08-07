@@ -1,0 +1,14 @@
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\_06.ComplexSearching.exe.config
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\_06.ComplexSearching.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\_06.ComplexSearching.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Bookstore.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Log.Data.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Log.Models.dll
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Bookstore.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Log.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\Log.Models.pdb
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\obj\Debug\06. ComplexSearching.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\obj\Debug\_06.ComplexSearching.exe
+D:\Google Drive\HomeWorks\DataBase\Exam\06. ComplexSearching\obj\Debug\_06.ComplexSearching.pdb

@@ -1,0 +1,10 @@
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\_10.UsingStoreProcedureAndEntity.exe.config
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\obj\Debug\10. UsingStoreProcedureAndEntity.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\_10.UsingStoreProcedureAndEntity.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\_10.UsingStoreProcedureAndEntity.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\EntityFramework.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\Northwind.Data.dll
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\Northwind.Data.pdb
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\bin\Debug\EntityFramework.xml
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\obj\Debug\_10.UsingStoreProcedureAndEntity.exe
+D:\Google Drive\HomeWorks\DataBase\07. EntityFramework\10. UsingStoreProcedureAndEntity\obj\Debug\_10.UsingStoreProcedureAndEntity.pdb

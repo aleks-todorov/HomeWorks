@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamCheck2\bin\ExamCheck2.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamCheck2\bin\ExamCheck2.pdb
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamCheck2\obj\Debug\ExamsChecked2.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamCheck2\obj\Debug\ExamCheck2.dll
+D:\Google Drive\HomeWorks\HTML, CSS & JavaScript\JavaScript\Part2\ExamsCheck\ExamCheck2\obj\Debug\ExamCheck2.pdb

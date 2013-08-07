@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\bin\Debug\_06.ExtractingSongNamesWithXDocument.exe.config
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\obj\Debug\06. ExtractingSongNamesWithXDocument.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\bin\Debug\_06.ExtractingSongNamesWithXDocument.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\bin\Debug\_06.ExtractingSongNamesWithXDocument.pdb
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\obj\Debug\_06.ExtractingSongNamesWithXDocument.exe
+D:\Google Drive\HomeWorks\DataBase\XMLHomeWork\06. ExtractingSongNamesWithXDocument\obj\Debug\_06.ExtractingSongNamesWithXDocument.pdb
