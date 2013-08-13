@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFServiceCalendar.CalendarViewer" CodeBehind="CalendarViewer.svc.cs" %>

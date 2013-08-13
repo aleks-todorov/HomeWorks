@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\bin\Debug\WordOccurenceClient.exe.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\bin\Debug\WordOccurenceClient.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\bin\Debug\WordOccurenceClient.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\bin\Debug\WcfServiceOccurenceCounter.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\bin\Debug\WcfServiceOccurenceCounter.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\obj\Debug\WordOccurenceClient.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\obj\Debug\WordOccurenceClient.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordOccurenceClient\obj\Debug\WordOccurenceClient.pdb

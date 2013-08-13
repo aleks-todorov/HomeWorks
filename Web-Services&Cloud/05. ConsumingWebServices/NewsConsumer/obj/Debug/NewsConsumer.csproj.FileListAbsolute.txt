@@ -1,0 +1,9 @@
+D:\Google Drive\HomeWorks\Web-Services&Cloud\06. ConsumingWebServices\NewsConsumer\bin\Debug\NewsConsumer.exe.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\bin\Debug\NewsConsumer.exe.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\bin\Debug\NewsConsumer.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\bin\Debug\NewsConsumer.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\obj\Debug\NewsConsumer.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\obj\Debug\NewsConsumer.exe
+D:\Google Drive\HomeWorks\Web-Services&Cloud\05. ConsumingWebServices\NewsConsumer\obj\Debug\NewsConsumer.pdb

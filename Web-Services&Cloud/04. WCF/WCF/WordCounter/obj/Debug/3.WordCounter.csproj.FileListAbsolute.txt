@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordCounter\bin\Debug\WordCounter.dll.config
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordCounter\bin\Debug\WordCounter.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordCounter\bin\Debug\WordCounter.pdb
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordCounter\obj\Debug\WordCounter.dll
+D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WordCounter\obj\Debug\WordCounter.pdb
