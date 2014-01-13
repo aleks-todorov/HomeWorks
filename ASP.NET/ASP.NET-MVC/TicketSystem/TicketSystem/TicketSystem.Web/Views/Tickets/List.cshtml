@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "List of Tickets";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row-fluid">
+    @using (Html.BeginForm("Search", "Tickets", FormMethod.Post))
+    {
+        <div>
+            Search by Category Name
+        </div>
+        @(Html.Kendo()
+        .DropDownList()
+        .Name("CategoryName")
+        .DataTextField("CategoryName")
+        .DataValueField("CategoryName")
+        .OptionLabel(" ")
+        .DataSource(data =>
+        {
+            data.Read(read => read.Action("GetTicketCategories", "Tickets"));
+            data.ServerFiltering(true);
+        }));
+
+        <br />
+
+        <div>
+            <input type="submit" value="Search" class="btn" />
+        </div>
+
+    }
+</div>
+<br />
+<div class="row-fluid">
+    <div class="span3">
+        <h4>Title</h4>
+    </div>
+    <div class="span3">
+        <h4>Category</h4>
+    </div>
+    <div class="span2">
+        <h4>Author</h4>
+    </div>
+    <div class="span2">
+        <h4>Priority</h4>
+    </div>
+    <div class="span1">
+        <h4>Details</h4>
+    </div>
+</div>
+<div class="row">
+    @(Html.Kendo()
+    .ListView<TicketSystem.Web.Models.ListPageTicketViewModel>()
+    .Name("tickets")
+    .TagName("div")
+    .ClientTemplateId("ticket-template")
+    .Pageable()
+       .DataSource(data =>
+    {
+        data.Read("GetTAllTickets", "Tickets");
+        data.ServerOperation(true);
+        data.PageSize(5);
+
+    }))
+
+</div>
+
+
+<script id="ticket-template" type="text/x-kendo-template">
+    <div class="row-fluid">
+        <div class="span3">
+            <h4>#: Title #</h4>
+        </div>
+        <div class="span3">
+            <h4>#: Category #</h4>
+        </div>
+        <div class="span2">
+            <h4>#: Author #</h4>
+        </div>
+        <div class="span2">
+            <h4>#: PriorityToString #</h4>
+        </div>
+        <div class="span1">
+            <p><a class="btn" href="/Tickets/Details/#:Id#">Details</a></p>
+        </div>
+    </div>
+</script>
+
+<script>
+    function onAdditionalData() {
+        return {
+            text: $('#categorysearch').val()
+        };
+    }
+</script>

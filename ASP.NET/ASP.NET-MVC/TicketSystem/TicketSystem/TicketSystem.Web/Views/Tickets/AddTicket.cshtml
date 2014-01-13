@@ -1,0 +1,76 @@
+﻿@model TicketSystem.Web.Models.SubtmitTicketViewModel
+
+@{
+    ViewBag.Title = "AddTicket";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row-fluid">
+    @using (Html.BeginForm("Create", "Tickets"))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.CategoryName, new { @class = "control-label" })
+            <div class="controls">
+                @(Html.Kendo()
+        .DropDownList()
+        .Name("CategoryName")
+        .DataTextField("CategoryName")
+        .DataValueField("CategoryName")
+        .DataSource(data =>
+        {
+            data.Read(read => read.Action("GetTicketCategories", "Tickets"));
+            data.ServerFiltering(true);
+        }))
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Title, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Title)
+                @Html.ValidationMessageFor(model => model.Title, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Priority, new { @class = "control-label" })
+            <div class="controls">
+                @(Html.Kendo()
+        .DropDownList()
+        .Name("Priority")
+        .DataTextField("PriorityName")
+        .DataValueField("Id")
+        .SelectedIndex(1)
+        .DataSource(data =>
+        {
+            data.Read(read => read.Action("GetTicketPriorities", "Tickets"));
+            data.ServerFiltering(true);
+        }))
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.ImageUrl, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.ImageUrl)
+                @Html.ValidationMessageFor(model => model.ImageUrl, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Description, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Description)
+                @Html.ValidationMessageFor(model => model.Description, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Create" class="btn" />
+        </div>
+    }
+</div>

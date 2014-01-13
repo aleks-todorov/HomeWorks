@@ -1,0 +1,14 @@
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\TicketSystem.Models.dll.config
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\TicketSystem.Models.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\TicketSystem.Models.pdb
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\EntityFramework.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\EntityFramework.xml
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\obj\Debug\TicketSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\obj\Debug\TicketSystem.Models.dll
+C:\Users\Aleks\Desktop\TicketSystem\TicketSystem.Models\obj\Debug\TicketSystem.Models.pdb

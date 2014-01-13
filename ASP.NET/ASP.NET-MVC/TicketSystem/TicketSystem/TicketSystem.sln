@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Models", "TicketSystem.Models\TicketSystem.Models.csproj", "{9107FC67-C564-4DE1-873A-E8FB94F22FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Data", "TicketSystem.Data\TicketSystem.Data.csproj", "{D8C163A0-85E9-461E-83F4-A8EE88D0B0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Web", "TicketSystem.Web\TicketSystem.Web.csproj", "{159F351A-E14A-44B9-B552-79948A5AFE20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External Libraries", "External Libraries", "{FD50ADC9-2184-4EB8-9776-8663FD7F7DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9107FC67-C564-4DE1-873A-E8FB94F22FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9107FC67-C564-4DE1-873A-E8FB94F22FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9107FC67-C564-4DE1-873A-E8FB94F22FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9107FC67-C564-4DE1-873A-E8FB94F22FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C163A0-85E9-461E-83F4-A8EE88D0B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C163A0-85E9-461E-83F4-A8EE88D0B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C163A0-85E9-461E-83F4-A8EE88D0B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C163A0-85E9-461E-83F4-A8EE88D0B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159F351A-E14A-44B9-B552-79948A5AFE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159F351A-E14A-44B9-B552-79948A5AFE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159F351A-E14A-44B9-B552-79948A5AFE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159F351A-E14A-44B9-B552-79948A5AFE20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,0 @@
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\bin\Debug\CalendarViewer.exe.config
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\obj\Debug\CalendarViewer.exe
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\obj\Debug\CalendarViewer.pdb
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\bin\Debug\CalendarViewer.exe
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\bin\Debug\CalendarViewer.pdb
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\bin\Debug\WCFServiceCalendar.dll
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\bin\Debug\WCFServiceCalendar.pdb
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\CalendarViewer\obj\Debug\2.CalendarViewer.csprojResolveAssemblyReference.cache

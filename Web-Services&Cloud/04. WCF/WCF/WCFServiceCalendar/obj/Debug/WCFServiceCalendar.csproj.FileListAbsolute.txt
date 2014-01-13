@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WCFServiceCalendar\obj\Debug\WCFServiceCalendar.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WCFServiceCalendar\bin\WCFServiceCalendar.dll
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WCFServiceCalendar\bin\WCFServiceCalendar.pdb
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WCFServiceCalendar\obj\Debug\WCFServiceCalendar.dll
-D:\Google Drive\HomeWorks\Web-Services&Cloud\04. WCF\WCF\WCFServiceCalendar\obj\Debug\WCFServiceCalendar.pdb
